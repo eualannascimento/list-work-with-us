@@ -421,8 +421,8 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-04-20,dbtLabs,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/dbtlabsinc
 1,2025-01-19,Decathlon,Serviços e Outros,Gupy,https://carreirasdecathlon.gupy.io
 1,2026-02-19,Delivery Much,Logística e Mobilidade,Gupy,https://deliverymuch.gupy.io
-0,2026-02-19,Dell,Tecnologia,Workday,https://jobs.dell.com/en
-0,2026-06-06,Dell Brasil,Tecnologia,OracleCloud,https://jobs.dell.com
+1,2026-02-19,Dell,Tecnologia,Workday,https://jobs.dell.com/en
+1,2026-06-06,Dell Brasil,Tecnologia,OracleCloud,https://jobs.dell.com
 1,2025-01-20,Deloitte,Serviços e Outros,Plataforma Interna,https://app.jobconvo.com/pt-br/careers/Deloitte/ddf2b2f5-cc30-4503-8ec8-458f9869e2ba/#join
 1,2026-02-19,Delta Air Lines,Serviços e Outros,Avature,https://delta.avature.net/en_US/careers
 1,2026-07-18,Denso,Indústria,Site da Empresa,https://www.denso.com/careers
@@ -981,7 +981,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Oncoclínicas,Saúde,Gupy,https://carreiras.gupy.io/oncoclnicas
 1,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
 1,2026-02-19,Open Co,Financeiro,Gupy,https://carreiras.gupy.io/openco
-0,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
+1,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
 1,2026-05-21,Opportunity,Financeiro,Gupy,https://opportunity.gupy.io
 1,2026-02-19,Oracle,Tecnologia,Site da Empresa,https://www.oracle.com/careers
 1,2026-02-19,Órama Investimentos,Serviços e Outros,Gupy,https://carreiras.gupy.io/ramainvestimentos
@@ -1126,7 +1126,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-06-06,Samsung Brasil,Tecnologia,Site da Empresa,https://www.samsung.com/br/about-us/careers
 0,2026-07-18,Sanar,Saúde,Gupy,https://sanar.gupy.io
 1,2026-07-18,Sandvik,Indústria,Site da Empresa,https://www.home.sandvik/careers
-0,2026-02-19,Saneago,Serviços e Outros,Vagas,https://www.saneago.com.br/concursos
+1,2026-02-19,Saneago,Serviços e Outros,Vagas,https://www.saneago.com.br/concursos
 1,2026-02-19,Sanepar,Serviços e Outros,Vagas,https://site.sanepar.com.br/trabalhe-com-a-gente
 1,2026-06-05,Sankhya,Tecnologia,Site da Empresa,https://www.sankhya.com.br/sobre-a-sankhya/trabalhe-conosco
 1,2024-11-22,Sanofi,Saúde,Workday,https://sanofi.wd3.myworkdayjobs.com/SanofiCareers
