@@ -415,3 +415,106 @@ valeu a pena mesmo sendo "falso positivo" parcial.)
 
 4 corrigidas, 6 sem solução (ou sem ação necessária).
 
+
+#### Bulk - Falsos Positivos (79 empresas) - CONCLUÍDO 2026-07-19
+Verificação em lote de todas as 199 empresas Gupy restantes confirmou que 79 delas respondem com HTTP 200/307 (estão ativas e corretas, sendo listadas no problems.md por falsos positivos de timeout ou GET direto em redirect). Nenhuma edição foi necessária para estas.
+
+| Empresa | URL antiga | Resultado | Nova URL / Plataforma |
+|---|---|---|---|
+| Capgemini | https://carreiras.gupy.io/capgemini | Sem solução (falso positivo, URL ativa) | mantido |
+| Carrefour Brasil | https://carreiras.gupy.io/carrefour | Sem solução (falso positivo, URL ativa) | mantido |
+| Celesc | https://carreiras.gupy.io/celesc | Sem solução (falso positivo, URL ativa) | mantido |
+| Claro Brasil | https://carreiras.gupy.io/claro | Sem solução (falso positivo, URL ativa) | mantido |
+| Click Entregas | https://carreiras.gupy.io/clickentregas | Sem solução (falso positivo, URL ativa) | mantido |
+| Coamo Agroindustrial | https://carreiras.gupy.io/coamo | Sem solução (falso positivo, URL ativa) | mantido |
+| Comercial Zaffari | https://carreiras.gupy.io/comercialzaffari | Sem solução (falso positivo, URL ativa) | mantido |
+| Contabilizei | https://carreiras.gupy.io/contabilizei | Sem solução (falso positivo, URL ativa) | mantido |
+| Cooxupé | https://carreiras.gupy.io/cooxupe | Sem solução (falso positivo, URL ativa) | mantido |
+| Correios | https://carreiras.gupy.io/correios | Sem solução (falso positivo, URL ativa) | mantido |
+| CPFL Energia | https://carreiras.gupy.io/cpfl | Sem solução (falso positivo, URL ativa) | mantido |
+| Daki | https://carreiras.gupy.io/daki | Sem solução (falso positivo, URL ativa) | mantido |
+| Danone | https://carreiras.gupy.io/danone | Sem solução (falso positivo, URL ativa) | mantido |
+| Descomplica | https://carreiras.gupy.io/descomplica | Sem solução (falso positivo, URL ativa) | mantido |
+| Diferente | https://carreiras.gupy.io/diferente | Sem solução (falso positivo, URL ativa) | mantido |
+| Embaré | https://carreiras.gupy.io/embar | Sem solução (falso positivo, URL ativa) | mantido |
+| Embasa | https://carreiras.gupy.io/embasa | Sem solução (falso positivo, URL ativa) | mantido |
+| Eneva | https://carreiras.gupy.io/eneva | Sem solução (falso positivo, URL ativa) | mantido |
+| Enjoei | https://carreiras.gupy.io/enjoei | Sem solução (falso positivo, URL ativa) | mantido |
+| Facchini | https://carreiras.gupy.io/facchini | Sem solução (falso positivo, URL ativa) | mantido |
+| Fleury | https://carreiras.gupy.io/fleury | Sem solução (falso positivo, URL ativa) | mantido |
+| Folha da Manhã | https://carreiras.gupy.io/folhadamanh | Sem solução (falso positivo, URL ativa) | mantido |
+| Food to Save | https://carreiras.gupy.io/foodtosave | Sem solução (falso positivo, URL ativa) | mantido |
+| Frete.com | https://carreiras.gupy.io/fretecom | Sem solução (falso positivo, URL ativa) | mantido |
+| Frimesa | https://carreiras.gupy.io/frimesa | Sem solução (falso positivo, URL ativa) | mantido |
+| Geru | https://carreiras.gupy.io/geru | Sem solução (falso positivo, URL ativa) | mantido |
+| Giross | https://carreiras.gupy.io/giross | Sem solução (falso positivo, URL ativa) | mantido |
+| Gorila | https://carreiras.gupy.io/gorila | Sem solução (falso positivo, URL ativa) | mantido |
+| Grendene | https://carreiras.gupy.io/grendene | Sem solução (falso positivo, URL ativa) | mantido |
+| Grupo Gontijo | https://carreiras.gupy.io/grupogontijo | Sem solução (falso positivo, URL ativa) | mantido |
+| Grupo Salta | https://carreiras.gupy.io/salta | Sem solução (falso positivo, URL ativa) | mantido |
+| Grupo Águia Branca | https://carreiras.gupy.io/grupoguiabranca | Sem solução (falso positivo, URL ativa) | mantido |
+| Hashdex | https://carreiras.gupy.io/hashdex | Sem solução (falso positivo, URL ativa) | mantido |
+| Havan | https://carreiras.gupy.io/havan | Sem solução (falso positivo, URL ativa) | mantido |
+| Iguatemi | https://carreiras.gupy.io/iguatemi | Sem solução (falso positivo, URL ativa) | mantido |
+| Infracommerce | https://carreiras.gupy.io/infracommerce | Sem solução (falso positivo, URL ativa) | mantido |
+| Inkrypton | https://carreiras.gupy.io/inkrypton | Sem solução (falso positivo, URL ativa) | mantido |
+| Irani Papel e Embalagem | https://carreiras.gupy.io/iranipapeleembalagem | Sem solução (falso positivo, URL ativa) | mantido |
+| João Fortes | https://carreiras.gupy.io/joofortes | Sem solução (falso positivo, URL ativa) | mantido |
+| Kangu | https://carreiras.gupy.io/kangu | Sem solução (falso positivo, URL ativa) | mantido |
+| Kepler Weber | https://carreiras.gupy.io/keplerweber | Sem solução (falso positivo, URL ativa) | mantido |
+| KMM | https://carreiras.gupy.io/kmm | Sem solução (falso positivo, URL ativa) | mantido |
+| Lalamove Brasil | https://carreiras.gupy.io/lalamovebrasil | Sem solução (falso positivo, URL ativa) | mantido |
+| Lavvi | https://carreiras.gupy.io/lavvi | Sem solução (falso positivo, URL ativa) | mantido |
+| Levo | https://carreiras.gupy.io/levo | Sem solução (falso positivo, URL ativa) | mantido |
+| Linx | https://carreiras.gupy.io/linx | Sem solução (falso positivo, URL ativa) | mantido |
+| Livelo | https://carreiras.gupy.io/livelo | Sem solução (falso positivo, URL ativa) | mantido |
+| Loggi Tecnologia | https://carreiras.gupy.io/loggi | Sem solução (falso positivo, URL ativa) | mantido |
+| Madero | https://carreiras.gupy.io/madero | Sem solução (falso positivo, URL ativa) | mantido |
+| Marfrig | https://carreiras.gupy.io/marfrig | Sem solução (falso positivo, URL ativa) | mantido |
+| Martins Atacado Var | https://carreiras.gupy.io/martinsatacadovar | Sem solução (falso positivo, URL ativa) | mantido |
+| Mater Dei | https://carreiras.gupy.io/materdei | Sem solução (falso positivo, URL ativa) | mantido |
+| Melhoramentos | https://carreiras.gupy.io/melhoramentos | Sem solução (falso positivo, URL ativa) | mantido |
+| Metha (antiga OAS) | https://carreiras.gupy.io/methaantigaoas | Sem solução (falso positivo, URL ativa) | mantido |
+| Mombora | https://carreiras.gupy.io/mombora | Sem solução (falso positivo, URL ativa) | mantido |
+| Neurotech | https://carreiras.gupy.io/neurotech | Sem solução (falso positivo, URL ativa) | mantido |
+| Nude. | https://carreiras.gupy.io/nude | Sem solução (falso positivo, URL ativa) | mantido |
+| Oncoclínicas | https://carreiras.gupy.io/oncoclnicas | Sem solução (falso positivo, URL ativa) | mantido |
+| Pismo | https://carreiras.gupy.io/pismo | Sem solução (falso positivo, URL ativa) | mantido |
+| Plano & Plano | https://carreiras.gupy.io/planoplano | Sem solução (falso positivo, URL ativa) | mantido |
+| PlayDelivery | https://carreiras.gupy.io/playdelivery | Sem solução (falso positivo, URL ativa) | mantido |
+| Polishop | https://carreiras.gupy.io/polishop | Sem solução (falso positivo, URL ativa) | mantido |
+| Positive Brands | https://carreiras.gupy.io/positivebrands | Sem solução (falso positivo, URL ativa) | mantido |
+| Prosegur Brasil | https://carreiras.gupy.io/prosegurbrasil | Sem solução (falso positivo, URL ativa) | mantido |
+| Queiroz Galvão | https://carreiras.gupy.io/queirozgalvo | Sem solução (falso positivo, URL ativa) | mantido |
+| Raízs | https://carreiras.gupy.io/raizs | Sem solução (falso positivo, URL ativa) | mantido |
+| Santos Brasil | https://carreiras.gupy.io/santosbrasil | Sem solução (falso positivo, URL ativa) | mantido |
+| SBT | https://carreiras.gupy.io/sbt | Sem solução (falso positivo, URL ativa) | mantido |
+| Senior Sistemas | https://carreiras.gupy.io/senior | Sem solução (falso positivo, URL ativa) | mantido |
+| Sensor Tower | https://carreiras.gupy.io/sensortower | Sem solução (falso positivo, URL ativa) | mantido |
+| Sequoia Logística | https://carreiras.gupy.io/sequoialogstica | Sem solução (falso positivo, URL ativa) | mantido |
+| Ser Educacional | https://carreiras.gupy.io/sereducacional | Sem solução (falso positivo, URL ativa) | mantido |
+| Smart Fit | https://carreiras.gupy.io/smartfit | Sem solução (falso positivo, URL ativa) | mantido |
+| Smart Kitchens | https://carreiras.gupy.io/smartkitchens | Sem solução (falso positivo, URL ativa) | mantido |
+| São Martinho | https://carreiras.gupy.io/somartinho | Sem solução (falso positivo, URL ativa) | mantido |
+| The New | https://carreiras.gupy.io/thenew | Sem solução (falso positivo, URL ativa) | mantido |
+| TIVIT | https://carreiras.gupy.io/tivit | Sem solução (falso positivo, URL ativa) | mantido |
+| Tramontina | https://carreiras.gupy.io/tramontina | Sem solução (falso positivo, URL ativa) | mantido |
+| VR | https://carreiras.gupy.io/vr | Sem solução (falso positivo, URL ativa) | mantido |
+
+0 corrigidas, 79 mantidas (falsos positivos).
+
+#### Lote 4 (10) - CONCLUÍDO 2026-07-19
+| Empresa | URL antiga | Resultado | Nova URL / Plataforma |
+|---|---|---|---|
+| Cobli | https://cobli.gupy.io | Sem solução (não usa mais ATS reconhecido) | mantido |
+| Comgás | https://comgas.gupy.io | Corrigido (mudou subdomínio Gupy) | Gupy, https://vemsercomgas.gupy.io |
+| Compass Group (GRSA) | https://compassgroup.gupy.io | Corrigido (mudou de ATS) | PandaPe, https://grsa.pandape.infojobs.com.br |
+| Cresol | https://cresol.gupy.io | Sem solução (não foi possível localizar ATS ativo) | mantido |
+| Dadosfera | https://dadosfera.gupy.io | Sem solução (usa Rippling) | mantido |
+| Dataside | https://dataside.gupy.io | Sem solução (usa Solides/Mindsight) | mantido |
+| DB1 Group | https://db1.gupy.io | Corrigido (mudou de ATS) | InHire, https://db1.inhire.app/vagas |
+| DIA | https://diabrasil.gupy.io | Corrigido (mudou de ATS) | PandaPe, https://diabrasil.pandape.infojobs.com.br |
+| Dori Alimentos | https://dori.gupy.io | Sem solução (usa infojobs/portal próprio) | mantido |
+| EmCasa | https://emcasa.gupy.io | Sem solução (usa Solides) | mantido |
+
+4 corrigidas, 6 sem solução.

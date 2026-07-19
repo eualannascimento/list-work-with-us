@@ -346,8 +346,8 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-21,Colliers,Serviços e Outros,Gupy,https://colliers.gupy.io
 1,2026-07-18,Comerc Energia,Energia e Utilities,Gupy,https://comerc.gupy.io
 1,2026-02-19,Comercial Zaffari,Serviços e Outros,Gupy,https://carreiras.gupy.io/comercialzaffari
-0,2026-07-18,Comgás,Energia e Utilities,Gupy,https://comgas.gupy.io
-0,2026-07-18,Compass Group (GRSA),Serviços e Outros,Gupy,https://grsa.gupy.io
+0,2026-07-18,Comgás,Energia e Utilities,Gupy,https://vemsercomgas.gupy.io
+0,2026-07-18,Compass Group (GRSA),Serviços e Outros,PandaPe,https://grsa.pandape.infojobs.com.br
 1,2026-05-21,Compass UOL,Tecnologia,Gupy,https://compassuol.gupy.io
 1,2026-06-05,Concentrix,Serviços e Outros,Site da Empresa,https://jobs.concentrix.com
 1,2026-02-19,Condor Super Center,Serviços e Outros,Gupy,https://condor.gupy.io
@@ -417,7 +417,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2024-12-26,Daycoval DayCambio,Financeiro,Gupy,https://daycambio.gupy.io
 1,2024-12-26,Daycoval DayCred,Financeiro,Gupy,https://daycred.gupy.io
 1,2026-07-18,DB Schenker,Logística e Mobilidade,Site da Empresa,https://www.dbschenker.com/careers
-0,2026-07-18,DB1 Group,Tecnologia,Gupy,https://db1.gupy.io
+0,2026-07-18,DB1 Group,Tecnologia,InHire,https://db1.inhire.app/vagas
 1,2025-04-20,dbtLabs,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/dbtlabsinc
 1,2025-01-19,Decathlon,Serviços e Outros,Gupy,https://carreirasdecathlon.gupy.io
 1,2026-02-19,Delivery Much,Logística e Mobilidade,Gupy,https://deliverymuch.gupy.io
@@ -431,7 +431,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Desktop,Serviços e Outros,PandaPe,https://desktopinternet.pandape.infojobs.com.br
 1,2026-02-19,Dexco,Indústria,Gupy,https://dexco.gupy.io
 1,2026-07-18,DHL,Logística e Mobilidade,Site da Empresa,https://careers.dhl.com
-0,2026-07-18,DIA,Varejo e Consumo,Gupy,https://dia.gupy.io
+0,2026-07-18,DIA,Varejo e Consumo,PandaPe,https://diabrasil.pandape.infojobs.com.br
 1,2026-06-05,Diageo,Serviços e Outros,Site da Empresa,https://www.diageo.com/en/careers
 1,2026-02-19,Diferente,Serviços e Outros,Gupy,https://carreiras.gupy.io/diferente
 1,2025-03-18,Digibee,Tecnologia,Gupy,https://digibee.gupy.io
@@ -1431,3 +1431,4 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Zro Bank,Financeiro,Gupy,https://zrobank.gupy.io
 1,2025-01-19,Zup Innovation,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/zupinnovation
 1,2026-07-18,Zurich,Financeiro,Site da Empresa,https://www.zurich.com/careers
+2,2026-07-19,MSPE Studios,Tecnologia,InHire,https://mspestudios.inhire.app/vagas
