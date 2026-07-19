@@ -518,3 +518,103 @@ Verificação em lote de todas as 199 empresas Gupy restantes confirmou que 79 d
 | EmCasa | https://emcasa.gupy.io | Sem solução (usa Solides) | mantido |
 
 4 corrigidas, 6 sem solução.
+
+#### Bulk - Automático Lotes Finais (92 empresas) - CONCLUÍDO 2026-07-19
+Busca automatizada para todas as empresas Gupy restantes que estavam com URL quebrada (404).
+
+| Empresa | URL antiga | Resultado | Nova URL / Plataforma |
+|---|---|---|---|
+| ESPM | https://espm.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Estratégia Concursos | https://estrategia.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Falconi | https://falconi.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Foundever | https://foundever.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Furukawa | https://furukawa.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Geekie | https://geekie.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Gi Group | https://gigroup.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Grafeno | https://grafeno.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Grant Thornton | https://grantthornton.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Grupo DPSP | https://dpsp.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Grupo Pardini (Hermes Pardini) | https://grupopardini.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Grupo Pereira (Fort Atacadista) | https://grupopereira.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Grupo Petrópolis | https://grupopetropolis.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| GWM | https://gwm.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| HCor | https://hcor.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Hortifruti Natural da Terra | https://hortifrutinaturaldaterra.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Huggy | https://huggy.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Hurb | https://hurb.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Hyundai | https://hyundai.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| iClinic | https://iclinic.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| ID Logistics | https://idlogistics.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Idwall | https://idwall.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Iguá Saneamento | https://igua.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Indicium | https://indicium.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Insper | https://insper.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Instituto Atlântico | https://institutoatlantico.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Instituto Eldorado | https://eldorado.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Integration Consulting | https://integration.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| InterCement | https://intercement.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Iochpe-Maxion | https://maxion.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| ISS | https://issworld.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Jacto | https://jacto.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Jadlog | https://jadlog.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Jamef | https://jamef.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Klavi | https://klavi.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Komatsu | https://komatsu.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Lactalis | https://lactalis.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Lavoro | https://lavoro.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Malwee | https://malwee.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| ManpowerGroup | https://manpowergroup.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Matera | https://matera.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Monkey Exchange | https://monkey.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Movidesk | https://movidesk.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Multilaser | https://multilaser.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Nexa | https://nexa.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Nexoos | https://nexoos.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Objective | https://objective.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Patrus Transportes | https://patrus.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| PEBMED | https://pebmed.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Pluggy | https://pluggy.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Principia | https://principia.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Profarma | https://profarma.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Provi | https://provi.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Radix Engenharia e Software | https://radix.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Randstad | https://randstad.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Remessa Online | https://remessaonline.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Ri Happy | https://rihappy.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Rock Content | https://rockcontent.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Rocketseat | https://rocketseat.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Runrun.it | https://runrunit.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Saint-Gobain | https://saintgobain.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Samarco | https://samarco.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Sanar | https://sanar.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| SENAI | https://senai.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Sensedia | https://sensedia.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Serena Energia | https://serena.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Servier | https://servier.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Sicoob | https://sicoob.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Sidia | https://sidia.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Solfácil | https://solfacil.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Sonda Supermercados | https://sonda.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Stara | https://stara.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Tapps Games | https://tappsgames.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| TerraMagna | https://terramagna.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Toro Investimentos | https://toro.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Trace Finance | https://tracefinance.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Triggo.ai | https://triggo.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Ultragaz | https://ultragaz.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Unicesumar | https://unicesumar.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| UNINTER | https://uninter.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Vallourec | https://vallourec.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Venturus | https://venturus.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Vigor | https://vigor.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Vinci Partners | https://vincipartners.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Vindi | https://vindi.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Vittia | https://vittia.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Vittude | https://vittude.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Vórtx | https://vortx.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Zenklub | https://zenklub.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Zippi | https://zippi.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Zoop | https://zoop.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+| Zro Bank | https://zrobank.gupy.io | Sem solução (busca não retornou ATS válido) | mantido |
+
+0 corrigidas, 92 sem solução (ou ATS não suportado).
