@@ -142,7 +142,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Bahema Educação,Educação,Gupy,https://carreiras.gupy.io/bahemaeducao
 1,2026-07-18,Bain & Company,Serviços e Outros,Site da Empresa,https://www.bain.com/careers
 1,2026-07-18,BairesDev,Tecnologia,Site da Empresa,https://www.bairesdev.com/careers
-0,2026-07-18,Baker Tilly,Serviços e Outros,Site da Empresa,https://www.bakertilly.com.br/carreiras
+1,2026-07-18,Baker Tilly,Serviços e Outros,Site da Empresa,https://www.bakertilly.com.br/carreiras
 1,2025-01-23,Ball,Indústria,Plataforma Interna,https://jobs.ball.com/corp_packaging/search
 1,2023-02-26,Banco ABC,Financeiro,Gupy,https://abcbrasil.gupy.io
 1,2026-02-19,Banco ABC Brasil,Financeiro,Gupy,https://carreiras.gupy.io/bancoabcbrasil
@@ -776,7 +776,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Korp ERP,Tecnologia,Gupy,https://korp.gupy.io
 1,2026-02-19,Kovi,Serviços e Outros,Gupy,https://kovi.gupy.io
 1,2026-02-19,KPMG,Serviços e Outros,InHire,https://carreira.inhire.com.br/carreiras/kpmg
-1,2026-02-19,KPMG Brasil,Serviços e Outros,InHire,https://carreira.inhire.com.br/carreiras/kpmg
 1,2025-01-23,Kraft Heinz,Serviços e Outros,Plataforma Interna,https://careers.kraftheinz.com/job-search-results
 1,2026-02-20,KRYPTUS,Tecnologia,Gupy,https://kryptus.gupy.io
 0,2026-07-18,Kuehne+Nagel,Logística e Mobilidade,Site da Empresa,https://www.kuehne-nagel.com/careers
@@ -862,7 +861,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Matera,Financeiro,Gupy,https://matera.gupy.io
 1,2026-05-21,Mazars,Tecnologia,Lever,https://jobs.lever.co/mazars
 1,2026-07-18,McCain,Agro e Alimentos,Site da Empresa,https://careers.mccain.com
-1,2023-02-26,McDonalds (Corporativo),Serviços e Outros,Gupy,https://corporativomc.gupy.io
 1,2026-07-18,McKinsey & Company,Serviços e Outros,Site da Empresa,https://www.mckinsey.com/careers
 0,2026-07-18,Medtronic,Saúde,Site da Empresa,https://careers.medtronic.com
 1,2026-02-19,Meituan,Tecnologia,Site da Empresa,https://zhaopin.meituan.com/en
