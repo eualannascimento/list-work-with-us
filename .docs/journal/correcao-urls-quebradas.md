@@ -398,3 +398,20 @@ valeu a pena mesmo sendo "falso positivo" parcial.)
 
 5 corrigidas, 5 sem solução.
 
+
+#### Lote 3 (10) - CONCLUÍDO 2026-07-19
+| Empresa | URL antiga | Resultado | Nova URL / Plataforma |
+|---|---|---|---|
+| BP-Beneficência Portuguesa | https://bpsp.gupy.io | Corrigido (mudou de ATS) | Vagas, https://trabalheconosco.vagas.com.br/beneficenciaportuguesa |
+| Buser | https://buser.gupy.io | Sem solução (usa página própria) | mantido |
+| C.Vale | https://cvale.gupy.io | Corrigido (mudou de ATS) | Plooral, https://cvale.enlizt.me |
+| Capgemini | https://carreiras.gupy.io/capgemini | Sem solução (falso positivo, URL atual está online e correta) | mantido |
+| Care Plus | https://careplus.gupy.io | Corrigido (mudou de ATS) | PandaPe, https://careplus.pandape.infojobs.com.br |
+| Carrefour Brasil | https://carreiras.gupy.io/carrefour | Sem solução (falso positivo, URL atual está online) | mantido |
+| Celesc | https://carreiras.gupy.io/celesc | Sem solução (falso positivo, URL atual está online) | mantido |
+| Cerc | https://cerc.gupy.io | Corrigido (mudou de ATS) | InHire, https://cerc.inhire.app/vagas |
+| Cinnecta | https://cinnecta.gupy.io | Sem solução (não usa mais Gupy) | mantido |
+| Claro Brasil | https://carreiras.gupy.io/claro | Sem solução (falso positivo, URL atual está online) | mantido |
+
+4 corrigidas, 6 sem solução (ou sem ação necessária).
+
