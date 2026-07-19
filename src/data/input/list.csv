@@ -106,7 +106,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Apsen,Saúde,Vagas,https://trabalheconosco.vagas.com.br/apsen
 1,2026-07-18,Aptiv,Indústria,Site da Empresa,https://www.aptiv.com/careers
 0,2026-07-18,Aquarela,Tecnologia,Gupy,https://aquarela.gupy.io
-0,2026-07-18,Aquiris,Mídia e Entretenimento,Gupy,https://aquiris.gupy.io
+0,2026-07-18,Aquiris,Mídia e Entretenimento,Avature,https://www.epicgames.com/site/en-US/careers
 1,2026-02-20,Aramis,Serviços e Outros,Gupy,https://aramis.gupy.io
 1,2026-02-20,ArcelorMittal Tuper Brasil,Indústria,Gupy,https://tuper.gupy.io
 1,2026-02-20,Arco Educação,Educação,Greenhouse,https://boards.greenhouse.io/arcoeducacao
@@ -131,7 +131,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Automob,Indústria,Gupy,https://automob.gupy.io
 1,2026-05-21,Auxiliadora Predial,Serviços e Outros,Gupy,https://auxiliadorapredial.gupy.io
 1,2025-01-20,Avanade,Tecnologia,Plataforma Interna,https://www.avanade.com/pt-br/career/search-jobs
-0,2026-07-18,Avenue,Financeiro,Gupy,https://avenue.gupy.io
+0,2026-07-18,Avenue,Financeiro,InHire,https://avenue.inhire.app/vagas
 1,2026-02-19,Azos,Financeiro,InHire,https://azos.inhire.app/vagas
 1,2025-03-18,Aztec,Tecnologia,Gupy,https://carreiras.gupy.io/aztec
 1,2026-02-19,Azul,Serviços e Outros,Gupy,https://voeazul.gupy.io
@@ -147,7 +147,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,Banco ABC,Financeiro,Gupy,https://abcbrasil.gupy.io
 1,2026-02-19,Banco ABC Brasil,Financeiro,Gupy,https://carreiras.gupy.io/bancoabcbrasil
 1,2026-05-20,Banco AMAZONIA,Financeiro,Gupy,https://banco.gupy.io
-0,2026-07-18,Banco Bari,Financeiro,Gupy,https://bancobari.gupy.io
+0,2026-07-18,Banco Bari,Financeiro,InHire,https://bancobari.inhire.app/vagas
 1,2026-02-19,Banco BMG,Financeiro,Gupy,https://bancobmg.gupy.io
 1,2025-01-23,Banco Bradesco,Financeiro,CSOD,https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco
 1,2026-05-20,Banco BS2,Financeiro,Gupy,https://carreiras.gupy.io/bancobs2
@@ -189,7 +189,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2024-11-22,Bayer,Saúde,Eightfold,https://bayer.eightfold.ai/careers
 1,2026-02-19,BB Seguridade,Financeiro,Gupy,https://brasilseg.gupy.io
 1,2026-02-19,BBC,Serviços e Outros,Site da Empresa,https://careers.bbc.co.uk
-0,2026-07-18,Bcredi,Financeiro,Gupy,https://bcredi.gupy.io
+0,2026-07-18,Bcredi,Financeiro,Gupy,https://creditas.gupy.io
 1,2026-05-21,BDO,Tecnologia,TeamTailor,https://bdo.teamtailor.com/jobs.json
 1,2026-02-19,Beep Saúde,Saúde,Gupy,https://beepsaude.gupy.io
 1,2026-07-18,Beiersdorf,Varejo e Consumo,Site da Empresa,https://www.beiersdorf.com/careers
@@ -204,7 +204,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Biolab,Saúde,Gupy,https://carreiras.gupy.io/biolab
 1,2026-05-21,Biotrop,Serviços e Outros,Gupy,https://biotrop.gupy.io
 1,2026-02-19,Bitso,Financeiro,Greenhouse,https://bitso.com/jobs
-0,2026-07-18,BIX Tech,Tecnologia,Gupy,https://bix.gupy.io
+0,2026-07-18,BIX Tech,Tecnologia,InHire,https://bixtecnologia.inhire.app/vagas
 1,2026-02-19,BizCapital,Financeiro,Gupy,https://carreiras.gupy.io/bizcapital
 1,2026-02-19,Blackberry,Tecnologia,Site da Empresa,https://www.blackberry.com/us/en/company/careers
 1,2026-02-19,Blau Farmacêutica,Saúde,Gupy,https://carreiras.gupy.io/blaufarmacutica

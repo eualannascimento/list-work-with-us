@@ -381,3 +381,20 @@ valeu a pena mesmo sendo "falso positivo" parcial.)
 | Aquarela | https://aquarela.gupy.io | Sem solução (nenhum ATS reconhecido encontrado) | mantido |
 
 4 corrigidas, 6 sem solução.
+
+#### Lote 2 (10) - CONCLUÍDO 2026-07-19
+| Empresa | URL antiga | Resultado | Nova URL / Plataforma |
+|---|---|---|---|
+| Aquiris | https://aquiris.gupy.io | Corrigido (adquirida pela Epic Games, mudou de ATS) | Avature, https://www.epicgames.com/site/en-US/careers |
+| Atech | https://atech.gupy.io | Sem solução (já verificado no Ciclo 1) | mantido |
+| Avenue | https://avenue.gupy.io | Corrigido (mudou de ATS) | InHire, https://avenue.inhire.app/vagas |
+| Banco Bari | https://bancobari.gupy.io | Corrigido (mudou de ATS) | InHire, https://bancobari.inhire.app/vagas |
+| Banco Master | https://bancomaster.gupy.io | Sem solução | mantido |
+| Barte | https://barte.gupy.io | Sem solução | mantido |
+| Bcredi | https://bcredi.gupy.io | Corrigido (mudou de ATS, adquirida pela Creditas) | Gupy, https://creditas.gupy.io |
+| Bexs | https://bexs.gupy.io | Sem solução | mantido |
+| BIX Tech | https://bix.gupy.io | Corrigido (mudou de ATS) | InHire, https://bixtecnologia.inhire.app/vagas |
+| Bling | https://bling.gupy.io | Sem solução (já verificado no Ciclo 1) | mantido |
+
+5 corrigidas, 5 sem solução.
+
