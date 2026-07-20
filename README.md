@@ -19,7 +19,7 @@ O processo de atualização do README.md para acesso rápido é automatizado por
 ## 🤝 Como contribuir
 1. Faça um fork do repositório do projeto;
 2. Edite `src/data/input/new_items.csv` (ou `src/data/input/list.csv`) com suas contribuições;
-3. Abra um PR — o CI valida os links e atualiza o README.
+3. Abra um PR - o CI valida os links e atualiza o README.
 4. Faça o commit e o push para o seu repositório forkado.
 5. Abra um pull request (PR) para o repositório original do projeto, especificando que deseja adicionar ou editar empresas.
 6. Aguarde a revisão do PR (possíveis solicitações de alteração) e a eventual aprovação e merge.
@@ -28,11 +28,8 @@ O processo de atualização do README.md para acesso rápido é automatizado por
 Para obter todas as informações disponíveis, baixe `src/data/input/list.csv`.  
 Essa tabela contém somente o nome da empresa com link para o site, visando facilitar o uso via mobile.
 <br><br>
-## 🔗 Ecossistema ClassificaVagas
-Esta lista alimenta a coleta de vagas do [`project-classificavagas-workflow-jobs`](https://github.com/eualannascimento/project-classificavagas-workflow-jobs), publicada em [classificavagas.com](https://classificavagas.com) via [`project-classificavagas-page-jobs`](https://github.com/eualannascimento/project-classificavagas-page-jobs).
-<br><br>
 ## 📝 Licença
-MIT — ver [LICENSE](./LICENSE).
+MIT. Ver [LICENSE](./LICENSE).
 <br>
 
 | Nome da Empresa (+ Link do Trabalhe Conosco) | Segmento | Plataforma |
