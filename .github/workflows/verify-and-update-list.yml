@@ -1,4 +1,4 @@
-name: 'Verify and update list'
+name: 'Verify and Update Company List'
 run-name: 'Checks if the websites are up and running or not, update career-websites.csv and README.md'
 
 on:

@@ -1,4 +1,4 @@
-name: 'Expand large companies list'
+name: 'Expand Large Companies List'
 run-name: 'Discover and add large Brazilian companies to list.csv (manual)'
 
 on:
