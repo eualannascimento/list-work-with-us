@@ -1,3 +1,5 @@
+# List: Work With Us
+
 ## 📚 Introdução
 O objetivo deste repositório é facilitar o acesso e a busca por oportunidades de trabalho em diferentes empresas, centralizando as plataformas em um só lugar.  
 Sinta-se à vontade para contribuir adicionando ou atualizando a lista de empresas.  
@@ -25,6 +27,12 @@ O processo de atualização do README.md para acesso rápido é automatizado por
 ## 🏢 Acesso rápido
 Para obter todas as informações disponíveis, baixe `src/data/input/list.csv`.  
 Essa tabela contém somente o nome da empresa com link para o site, visando facilitar o uso via mobile.
+<br><br>
+## 🔗 Ecossistema ClassificaVagas
+Esta lista alimenta a coleta de vagas do [`project-classificavagas-workflow-jobs`](https://github.com/eualannascimento/project-classificavagas-workflow-jobs), publicada em [classificavagas.com](https://classificavagas.com) via [`project-classificavagas-page-jobs`](https://github.com/eualannascimento/project-classificavagas-page-jobs).
+<br><br>
+## 📝 Licença
+MIT — ver [LICENSE](./LICENSE).
 <br>
 
 | Nome da Empresa (+ Link do Trabalhe Conosco) | Segmento | Plataforma |
