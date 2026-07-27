@@ -234,7 +234,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,BrasilAgro,Agro e Alimentos,Gupy,https://brasilagro.gupy.io
 1,2023-02-26,Brasilprev,Financeiro,Gupy,https://brasilprev.gupy.io
 1,2025-01-19,Braskem,Indústria,Oracle Cloud,https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/jobs
-1,2026-02-19,Braspress,Serviços e Outros,PandaPé,https://braspress.pandape.infojobs.com.br
+0,2026-02-19,Braspress,Serviços e Outros,PandaPé,https://braspress.pandape.infojobs.com.br
 1,2026-02-19,Brastemp (Whirlpool),Serviços e Outros,Gupy,https://carreiras.gupy.io/whirlpool
 1,2026-05-20,Brava Energia,Energia e Utilities,Gupy,https://bravaenergia.gupy.io
 1,2025-03-18,Braze,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/braze
@@ -323,7 +323,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-21,ClickSign,Tecnologia,Gupy,https://clicksign.gupy.io
 1,2026-02-19,Cloudera,Tecnologia,Workday,https://cloudera.wd5.myworkdayjobs.com/External_Career
 1,2026-07-18,Cloudflare,Tecnologia,Site da Empresa,https://www.cloudflare.com/careers
-1,2026-02-19,CloudWalk,Financeiro,Lever,https://jobs.lever.co/cloudwalk
+0,2026-02-19,CloudWalk,Financeiro,Lever,https://jobs.lever.co/cloudwalk
 1,2026-02-20,Club Athletico Paranaense,Serviços e Outros,Gupy,https://athletico.gupy.io
 1,2026-07-18,CNH Industrial,Indústria,Site da Empresa,https://careers.cnhindustrial.com
 1,2026-05-21,CNN Brasil,Serviços e Outros,Gupy,https://cnnbrasil.gupy.io
@@ -417,7 +417,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2024-12-26,Daycoval DayCred,Financeiro,Gupy,https://daycred.gupy.io
 1,2026-07-18,DB Schenker,Logística e Mobilidade,Site da Empresa,https://www.dbschenker.com/careers
 1,2026-07-18,DB1 Group,Tecnologia,InHire,https://db1.inhire.app/vagas
-1,2025-04-20,dbtLabs,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/dbtlabsinc
+0,2025-04-20,dbtLabs,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/dbtlabsinc
 1,2025-01-19,Decathlon,Serviços e Outros,Gupy,https://carreirasdecathlon.gupy.io
 1,2026-02-19,Delivery Much,Logística e Mobilidade,Gupy,https://deliverymuch.gupy.io
 1,2026-02-19,Dell,Tecnologia,Workday,https://jobs.dell.com/en
@@ -487,7 +487,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,EMS,Saúde,IziRH,https://ems.izirh.io
 1,2026-07-18,Encora,Tecnologia,Site da Empresa,https://www.encora.com/careers
 1,2026-07-18,Endava,Tecnologia,Site da Empresa,https://careers.endava.com
-1,2026-06-05,Enel,Energia e Utilities,Site da Empresa,https://jobs.enel.com/en_US/careers
+0,2026-06-05,Enel,Energia e Utilities,Site da Empresa,https://jobs.enel.com/en_US/careers
 1,2023-02-26,Energisa (Corp),Serviços e Outros,Gupy,https://grupoenergisa.gupy.io
 1,2023-02-26,Energisa (Tecnologia),Serviços e Outros,Gupy,https://energisatech.gupy.io
 1,2026-02-19,Eneva,Serviços e Outros,Gupy,https://carreiras.gupy.io/eneva
@@ -978,7 +978,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Oncoclínicas,Saúde,Gupy,https://carreiras.gupy.io/oncoclnicas
 1,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
 1,2026-02-19,Open Co,Financeiro,Gupy,https://carreiras.gupy.io/openco
-1,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
+0,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
 1,2026-05-21,Opportunity,Financeiro,Gupy,https://opportunity.gupy.io
 1,2026-02-19,Oracle,Tecnologia,Site da Empresa,https://www.oracle.com/careers
 1,2026-02-19,Órama Investimentos,Serviços e Outros,Gupy,https://carreiras.gupy.io/ramainvestimentos
