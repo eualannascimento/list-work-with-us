@@ -138,7 +138,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,B. Braun,Saúde,Site da Empresa,https://www.bbraun.com/careers
 1,2026-02-19,B3,Financeiro,Gupy,https://carreiras.gupy.io/b3
 1,2026-07-18,Bacardi,Agro e Alimentos,Site da Empresa,https://www.bacardilimited.com/careers
-0,2026-02-19,Bacio di Latte,Serviços e Outros,InfoJobs,https://baciodilatte.infojobs.com.br
+1,2026-02-19,Bacio di Latte,Serviços e Outros,InfoJobs,https://baciodilatte.infojobs.com.br
 1,2026-02-19,Bahema Educação,Educação,Gupy,https://carreiras.gupy.io/bahemaeducao
 1,2026-07-18,Bain & Company,Serviços e Outros,Site da Empresa,https://www.bain.com/careers
 1,2026-07-18,BairesDev,Tecnologia,Site da Empresa,https://www.bairesdev.com/careers
@@ -397,7 +397,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,CVP (Caixa Vida e Previdência),Serviços e Outros,Gupy,https://caixavidaeprevidencia.gupy.io
 1,2026-02-19,Cyrela,Serviços e Outros,Gupy,https://cyrela.gupy.io
 0,2026-07-18,Dadosfera,Tecnologia,Gupy,https://dadosfera.gupy.io
-1,2026-02-20,Dafiti Tech Br,Tecnologia,Gupy,https://dafiti.gupy.io
+0,2026-02-20,Dafiti Tech Br,Tecnologia,Gupy,https://dafiti.gupy.io
 1,2026-02-19,Daki,Serviços e Outros,Gupy,https://carreiras.gupy.io/daki
 0,2026-07-18,Dana,Indústria,Site da Empresa,https://careers.dana.com
 1,2025-01-23,Danone,Serviços e Outros,Gupy,https://carreiras.gupy.io/danone
@@ -417,7 +417,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2024-12-26,Daycoval DayCred,Financeiro,Gupy,https://daycred.gupy.io
 1,2026-07-18,DB Schenker,Logística e Mobilidade,Site da Empresa,https://www.dbschenker.com/careers
 1,2026-07-18,DB1 Group,Tecnologia,InHire,https://db1.inhire.app/vagas
-1,2025-04-20,dbtLabs,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/dbtlabsinc
+0,2025-04-20,dbtLabs,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/dbtlabsinc
 1,2025-01-19,Decathlon,Serviços e Outros,Gupy,https://carreirasdecathlon.gupy.io
 1,2026-02-19,Delivery Much,Logística e Mobilidade,Gupy,https://deliverymuch.gupy.io
 1,2026-02-19,Dell,Tecnologia,Workday,https://jobs.dell.com/en
@@ -451,7 +451,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Droga Raia / Drogasil (RD Saúde),Saúde,Gupy,https://rdsaude-farmacia.gupy.io
 1,2026-02-19,Dropbox,Tecnologia,Greenhouse,https://dropbox.jobs
 1,2024-09-01,DRUID Creative Gaming,Serviços e Outros,Gupy,https://druid.gupy.io
-0,2026-07-18,DSV,Logística e Mobilidade,Site da Empresa,https://www.dsv.com/careers
+1,2026-07-18,DSV,Logística e Mobilidade,Site da Empresa,https://www.dsv.com/careers
 1,2025-01-23,DuckDuckGo,Tecnologia,Ashby,https://jobs.ashbyhq.com/duck-duck-go
 1,2026-02-19,Duolingo,Educação,Site da Empresa,https://careers.duolingo.com
 1,2026-07-18,DXC,Tecnologia,Site da Empresa,https://careers.dxc.com
@@ -1112,7 +1112,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Rumo,Serviços e Outros,Gupy,https://rumo.empregare.com/pt-br
 1,2026-02-19,Rumo Logística,Logística e Mobilidade,Gupy,https://rumolog.gupy.io
 0,2026-07-18,Runrun.it,Tecnologia,Gupy,https://runrunit.gupy.io
-0,2025-03-18,Ryanair,Serviços e Outros,Plataforma Interna,https://careers.ryanair.com/jobs
+1,2025-03-18,Ryanair,Serviços e Outros,Plataforma Interna,https://careers.ryanair.com/jobs
 1,2026-02-19,Sabesp,Serviços e Outros,Gupy,https://carreiras.gupy.io/sabesp
 1,2023-07-05,Safra,Financeiro,Gupy,https://venhasersafra.gupy.io
 0,2026-07-18,Saint-Gobain,Indústria,Gupy,https://saintgobain.gupy.io
@@ -1171,7 +1171,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-06-06,Siemens Brasil,Indústria,Site da Empresa,https://jobs.siemens.com
 0,2026-07-18,Siemens Gamesa,Energia e Utilities,Site da Empresa,https://www.siemensgamesa.com/careers
 1,2025-01-20,Siemens Healthineers,Saúde,Gupy,https://carreiras.gupy.io/siemens-healthineers
-0,2026-07-18,Sigma Lithium,Indústria,Site da Empresa,https://www.sigmalithiumresources.com/careers
+1,2026-07-18,Sigma Lithium,Indústria,Site da Empresa,https://www.sigmalithiumresources.com/careers
 1,2026-07-18,Sigmoid,Tecnologia,Site da Empresa,https://www.sigmoid.com/careers
 1,2026-02-19,Simpar,Serviços e Outros,Gupy,https://simpar.gupy.io
 1,2023-02-26,Sinch,Tecnologia,Workable,https://apply.workable.com/sinch
