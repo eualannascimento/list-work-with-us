@@ -200,7 +200,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Bemobi,Tecnologia,Gupy,https://bemobi.gupy.io
 1,2026-08-23,Bemol,Varejo e Consumo,Gupy,https://bemol.gupy.io
 0,2026-07-18,Bexs,Financeiro,Gupy,https://bexs.gupy.io
-1,2025-03-18,Beyond 101,Tecnologia,Site da Empresa,https://www.beyond101.com
+0,2025-03-18,Beyond 101,Tecnologia,Site da Empresa,https://www.beyond101.com
 1,2026-02-19,BHS,Tecnologia,Gupy,https://bhs.gupy.io
 0,2026-05-21,Bibi,Serviços e Outros,TeamTailor,https://bibi.teamtailor.com
 1,2026-05-21,Big Ben,Saúde,Gupy,https://bigben.gupy.io
@@ -916,7 +916,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,monday.com,Tecnologia,Site da Empresa,https://monday.com/careers
 1,2026-02-20,Mondelez Brasil,Serviços e Outros,Gupy,https://mondelez.gupy.io
 1,2025-03-18,Mondelez Internacional,Financeiro,Workday,https://wd3.myworkdaysite.com/en-US/recruiting/mdlz/External
-1,2025-01-23,Mondial Eletrodomésticos,Serviços e Outros,Site da Empresa,https://www.mondialeletro.com.br
+0,2025-01-23,Mondial Eletrodomésticos,Serviços e Outros,Site da Empresa,https://www.mondialeletro.com.br
 1,2026-07-18,MongoDB,Tecnologia,Site da Empresa,https://www.mongodb.com/careers
 0,2026-07-18,Monkey Exchange,Financeiro,Gupy,https://monkey.gupy.io
 1,2026-07-18,Monte Carlo Data,Tecnologia,Ashby,https://jobs.ashbyhq.com/montecarlodata
@@ -962,7 +962,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Nita Alimentos,Agro e Alimentos,Gupy,https://nitaalimentos.gupy.io
 1,2026-07-18,Nokia,Tecnologia,Site da Empresa,https://www.nokia.com/careers
 1,2026-02-19,Nomad,Financeiro,InHire,https://nomadglobal.inhire.app/vagas
-1,2025-03-18,Nomad Global,Tecnologia,InHire,https://nomadglobal.inhire.app/vagas
 1,2025-12-26,Notion,Tecnologia,Ashby,https://jobs.ashbyhq.com/notion
 1,2026-02-19,NovaDAX,Serviços e Outros,Gupy,https://carreiras.gupy.io/novadax
 1,2026-07-18,Novartis,Saúde,Site da Empresa,https://www.novartis.com/careers
@@ -1196,7 +1195,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Sigma Lithium,Indústria,Site da Empresa,https://www.sigmalithiumresources.com/careers
 1,2026-07-18,Sigmoid,Tecnologia,Site da Empresa,https://www.sigmoid.com/careers
 1,2026-02-19,Simpar,Serviços e Outros,Gupy,https://simpar.gupy.io
-1,2023-02-26,Sinch,Tecnologia,Site da Empresa,https://www.group.sinch.com/careers/
+1,2023-02-26,Sinch,Tecnologia,Site da Empresa,https://www.group.sinch.com/careers
 1,2026-02-19,Singapore Airlines,Serviços e Outros,Site da Empresa,https://www.singaporeair.com/en_UK/sg/careers
 1,2026-08-23,Sinqia,Tecnologia,Quickin,https://jobs.quickin.io/sinqia/jobs
 1,2026-02-19,Sirio-Libanes,Saúde,Manual,https://www.hospitalsiriolibanes.org.br/trabalhe-conosco

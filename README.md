@@ -235,7 +235,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Bemobi](https://bemobi.gupy.io) | Tecnologia | Gupy |
 | [Bemol](https://bemol.gupy.io) | Varejo e Consumo | Gupy |
 | [Bexs](https://bexs.gupy.io) | Financeiro | Gupy |
-| [Beyond 101](https://apply.workable.com/beyond-101) | Tecnologia | Workable |
+| [Beyond 101](https://www.beyond101.com) | Tecnologia | Site da Empresa |
 | [BHS](https://bhs.gupy.io) | Tecnologia | Gupy |
 | [Bibi](https://bibi.teamtailor.com) | Serviços e Outros | TeamTailor |
 | [Big Ben](https://bigben.gupy.io) | Saúde | Gupy |
@@ -951,7 +951,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [monday.com](https://monday.com/careers) | Tecnologia | Site da Empresa |
 | [Mondelez Brasil](https://mondelez.gupy.io) | Serviços e Outros | Gupy |
 | [Mondelez Internacional](https://wd3.myworkdaysite.com/en-US/recruiting/mdlz/External) | Financeiro | Workday |
-| [Mondial Eletrodomésticos](https://selecaogrupomk.vagas.solides.com.br) | Serviços e Outros | Sólides |
+| [Mondial Eletrodomésticos](https://www.mondialeletro.com.br) | Serviços e Outros | Site da Empresa |
 | [MongoDB](https://www.mongodb.com/careers) | Tecnologia | Site da Empresa |
 | [Monkey Exchange](https://monkey.gupy.io) | Financeiro | Gupy |
 | [Monte Carlo Data](https://jobs.ashbyhq.com/montecarlodata) | Tecnologia | Ashby |
@@ -959,7 +959,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Mosaic](https://mosaic.wd5.myworkdayjobs.com/mosaic) | Agro e Alimentos | Workday |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/Careers) | Tecnologia | Workday |
 | [Mottu](https://mottu.inhire.app/vagas) | Serviços e Outros | InHire |
-| [Moura Dubeux](https://mouradubeux.vagas.solides.com.br) | Serviços e Outros | Solides |
+| [Moura Dubeux](https://www.mouradubeux.com.br) | Serviços e Outros | Site da Empresa |
 | [Movida](https://movida.gupy.io) | Indústria | Gupy |
 | [Movidesk](https://movidesk.gupy.io) | Tecnologia | Gupy |
 | [Movile](https://www.movile.com.br/carreiras) | Tecnologia | Site da Empresa |
@@ -997,7 +997,6 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Nita Alimentos](https://nitaalimentos.gupy.io) | Agro e Alimentos | Gupy |
 | [Nokia](https://www.nokia.com/careers) | Tecnologia | Site da Empresa |
 | [Nomad](https://nomadglobal.inhire.app/vagas) | Financeiro | InHire |
-| [Nomad Global](https://apply.workable.com/nomadglobal) | Tecnologia | Workable |
 | [Notion](https://jobs.ashbyhq.com/notion) | Tecnologia | Ashby |
 | [NovaDAX](https://carreiras.gupy.io/novadax) | Serviços e Outros | Gupy |
 | [Novartis](https://www.novartis.com/careers) | Saúde | Site da Empresa |
@@ -1231,7 +1230,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Sigma Lithium](https://www.sigmalithiumresources.com/careers) | Indústria | Site da Empresa |
 | [Sigmoid](https://www.sigmoid.com/careers) | Tecnologia | Site da Empresa |
 | [Simpar](https://simpar.gupy.io) | Serviços e Outros | Gupy |
-| [Sinch](https://apply.workable.com/sinch) | Tecnologia | Workable |
+| [Sinch](https://www.group.sinch.com/careers) | Tecnologia | Site da Empresa |
 | [Singapore Airlines](https://www.singaporeair.com/en_UK/sg/careers) | Serviços e Outros | Site da Empresa |
 | [Sinqia](https://jobs.quickin.io/sinqia/jobs) | Tecnologia | Quickin |
 | [Sirio-Libanes](https://www.hospitalsiriolibanes.org.br/trabalhe-conosco) | Saúde | Manual |
