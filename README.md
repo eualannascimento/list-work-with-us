@@ -456,7 +456,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Decathlon](https://carreirasdecathlon.gupy.io) | Serviços e Outros | Gupy |
 | [Delivery Much](https://deliverymuch.gupy.io) | Logística e Mobilidade | Gupy |
 | [Dell](https://jobs.dell.com/en) | Tecnologia | Workday |
-| [Dell Brasil](https://jobs.dell.com) | Tecnologia | OracleCloud |
+| [Dell Brasil](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/jobs) | Tecnologia | OracleCloud |
 | [Deloitte](https://app.jobconvo.com/pt-br/careers/Deloitte/ddf2b2f5-cc30-4503-8ec8-458f9869e2ba/#join) | Serviços e Outros | Plataforma Interna |
 | [Delta Air Lines](https://delta.avature.net/en_US/careers) | Serviços e Outros | Avature |
 | [Denso](https://www.denso.com/careers) | Indústria | Site da Empresa |

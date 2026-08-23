@@ -85,7 +85,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Amcham Brasil,Serviços e Outros,Gupy,https://amcham.gupy.io
 1,2026-02-19,Ame Digital,Tecnologia,Gupy,https://ame.gupy.io
 1,2026-02-19,American Airlines,Serviços e Outros,Manual,https://jobs.aa.com
-1,2025-01-19,American Express,Financeiro,Eightfold,https://aexp.eightfold.ai/careers
+0,2025-01-19,American Express,Financeiro,Eightfold,https://aexp.eightfold.ai/careers
 1,2025-01-18,Americanas S.A.,Serviços e Outros,Gupy,https://americanas.gupy.io
 1,2026-02-19,Amex,Financeiro,Site da Empresa,https://www.americanexpress.com/en-us/careers
 1,2026-07-18,Amgen,Saúde,Site da Empresa,https://careers.amgen.com
@@ -441,7 +441,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Dock,Serviços e Outros,Gupy,https://dock.gupy.io
 1,2026-02-19,Docket,Tecnologia,Gupy,https://docket.gupy.io
 1,2026-02-22,Docs,Tecnologia,InHire,https://docs.inhire.com.br
-1,2026-02-19,Domino s Pizza,Serviços e Outros,PandaPé,https://dominospizzabrasil.pandape.infojobs.com.br
+0,2026-02-19,Domino s Pizza,Serviços e Outros,PandaPé,https://dominospizzabrasil.pandape.infojobs.com.br
 1,2026-02-19,Domo,Tecnologia,Site da Empresa,https://www.domo.com/company/careers
 1,2025-03-18,Donorbox,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/donorbox
 1,2025-03-22,DoorDash International,Financeiro,Greenhouse,https://boards.greenhouse.io/doordashinternational
