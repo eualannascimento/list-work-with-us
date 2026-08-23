@@ -33,7 +33,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-21,ADM,Serviços e Outros,Gupy,https://adm.gupy.io
 1,2026-02-19,Adobe,Tecnologia,Workday,https://adobe.wd5.myworkdayjobs.com/external_experienced
 1,2026-02-19,ADP,Serviços e Outros,Site da Empresa,https://jobs.adp.com
-1,2026-07-18,Adyen,Financeiro,Site da Empresa,https://careers.adyen.com
+1,2026-07-18,Adyen,Financeiro,Greenhouse,https://boards.greenhouse.io/adyen
 1,2026-07-18,AeC,Serviços e Outros,PandaPe,https://aeccentrodecontatos.pandape.com.br
 1,2026-02-20,Aegea,Serviços e Outros,Gupy,https://aegea.gupy.io
 1,2026-07-18,Aegro,Agro e Alimentos,Gupy,https://aegro.gupy.io
@@ -54,7 +54,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Aiqfome,Serviços e Outros,Gupy,https://carreiras.gupy.io/aiqfome
 1,2026-02-19,Air France-KLM,Serviços e Outros,Site da Empresa,https://recrutement.airfrance.com
 1,2025-01-19,Airbnb,Serviços e Outros,Greenhouse,https://boards.greenhouse.io/airbnb
-1,2026-07-18,Airbyte,Tecnologia,Site da Empresa,https://airbyte.com/careers
+1,2026-07-18,Airbyte,Tecnologia,Ashby,https://jobs.ashbyhq.com/airbyte
 1,2026-08-23,AirGarage,Tecnologia,Ashby,https://jobs.ashbyhq.com/airgarage
 1,2026-07-18,Ajinomoto,Agro e Alimentos,Gupy,https://ajinomotoabr.gupy.io
 1,2026-07-18,Akamai,Tecnologia,Site da Empresa,https://akamai.com/careers
@@ -330,7 +330,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Click Entregas,Logística e Mobilidade,Gupy,https://carreiras.gupy.io/clickentregas
 1,2026-05-21,ClickSign,Tecnologia,Gupy,https://clicksign.gupy.io
 1,2026-02-19,Cloudera,Tecnologia,Workday,https://cloudera.wd5.myworkdayjobs.com/External_Career
-1,2026-07-18,Cloudflare,Tecnologia,Site da Empresa,https://www.cloudflare.com/careers
+1,2026-07-18,Cloudflare,Tecnologia,Greenhouse,https://boards.greenhouse.io/cloudflare
 0,2026-02-19,CloudWalk,Financeiro,Lever,https://jobs.lever.co/cloudwalk
 1,2026-02-20,Club Athletico Paranaense,Serviços e Outros,Gupy,https://athletico.gupy.io
 1,2026-07-18,CNH Industrial,Indústria,Site da Empresa,https://careers.cnhindustrial.com
@@ -464,7 +464,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,DSV,Logística e Mobilidade,Site da Empresa,https://www.dsv.com/careers
 1,2025-01-23,DuckDuckGo,Tecnologia,Ashby,https://jobs.ashbyhq.com/duck-duck-go
 1,2026-02-19,Duolingo,Educação,Site da Empresa,https://careers.duolingo.com
-1,2026-07-18,DXC,Tecnologia,Site da Empresa,https://careers.dxc.com
+1,2026-07-18,DXC,Tecnologia,Workday,https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs
 1,2026-07-18,Dynatrace,Tecnologia,Site da Empresa,https://careers.dynatrace.com
 1,2026-02-19,EA (Electronic Arts),Serviços e Outros,Site da Empresa,https://www.ea.com/careers
 1,2025-01-19,Eaton,Indústria,Eightfold,https://eaton.eightfold.ai/careers
@@ -681,9 +681,9 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Hilton,Serviços e Outros,OracleCloud,https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
 1,2026-02-19,Hinode,Serviços e Outros,Gupy,https://grupohinode.gupy.io
 1,2025-01-19,Honda,Indústria,Gupy,https://honda.gupy.io
-1,2026-07-18,Honeywell,Indústria,Site da Empresa,https://careers.honeywell.com
+1,2026-07-18,Honeywell,Indústria,OracleCloud,https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
 1,2026-02-19,Hootsuite,Tecnologia,Manual,https://careers.hootsuite.com
-1,2026-02-19,Hopper,Serviços e Outros,Site da Empresa,https://www.hopper.com/careers
+1,2026-02-19,Hopper,Serviços e Outros,Ashby,https://jobs.ashbyhq.com/hopper
 0,2026-07-18,Hortifruti Natural da Terra,Varejo e Consumo,Gupy,https://hortifrutinaturaldaterra.gupy.io
 1,2026-02-19,Hospital Care,Saúde,Gupy,https://hospitalcare.gupy.io
 1,2026-05-21,Hospital Felício Rocho,Saúde,Gupy,https://hospitalfeliciorocho.gupy.io
@@ -742,7 +742,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-20,Ipiranga,Serviços e Outros,Gupy,https://ipiranga.gupy.io
 1,2026-02-20,iPlace,Serviços e Outros,Gupy,https://iplace.gupy.io
 0,2026-05-21,IPSEN,Saúde,TeamTailor,https://ipsen.teamtailor.com
-1,2025-01-20,IQVIA,Serviços e Outros,Plataforma Interna,https://jobs.iqvia.com/en/search-jobs
+1,2025-01-20,IQVIA,Serviços e Outros,Workday,https://iqvia.wd1.myworkdayjobs.com/IQVIA
 1,2026-02-19,Irani Papel e Embalagem,Serviços e Outros,Gupy,https://carreiras.gupy.io/iranipapeleembalagem
 1,2026-02-19,Isa CTEEP,Serviços e Outros,Gupy,https://isaenergiabrasil.gupy.io
 1,2025-01-19,Isaac,Financeiro,Greenhouse,https://boards.greenhouse.io/isaac
@@ -784,7 +784,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-22,Keyrus,Serviços e Outros,Plataforma Interna,https://jobs.keyrus.com.br/jobs
 1,2026-05-21,KFC,Serviços e Outros,Gupy,https://kfc.gupy.io
 1,2026-05-21,KFC Brasil,Serviços e Outros,Gupy,https://kfcbrasil.gupy.io
-1,2026-02-19,Khan Academy,Educação,Site da Empresa,https://www.khanacademy.org/about/careers
+1,2026-02-19,Khan Academy,Educação,Greenhouse,https://boards.greenhouse.io/khanacademy
 1,2025-01-20,Kimberly-Clark,Serviços e Outros,Workday,https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL
 1,2026-05-21,Kinea,Financeiro,Gupy,https://kinea.gupy.io
 1,2026-07-18,Kinross,Indústria,Gupy,https://kinross.gupy.io
@@ -925,7 +925,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Monkey Exchange,Financeiro,Gupy,https://monkey.gupy.io
 1,2026-07-18,Monte Carlo Data,Tecnologia,Ashby,https://jobs.ashbyhq.com/montecarlodata
 1,2026-02-20,Monte Carlo Moda,Varejo e Consumo,Gupy,https://montecarlo.gupy.io
-1,2026-07-18,Mosaic,Agro e Alimentos,Site da Empresa,https://mosaicco.com/careers
+1,2026-07-18,Mosaic,Agro e Alimentos,Workday,https://mosaic.wd5.myworkdayjobs.com/mosaic
 1,2025-01-23,Motorola Solutions,Tecnologia,Workday,https://motorolasolutions.wd5.myworkdayjobs.com/Careers
 1,2026-02-19,Mottu,Serviços e Outros,Vagas,https://mottu.inhire.app
 1,2026-02-19,Moura Dubeux,Serviços e Outros,Solides,https://mouradubeux.vagas.solides.com.br
