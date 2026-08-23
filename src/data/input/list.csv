@@ -149,7 +149,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,Banco ABC,Financeiro,Gupy,https://abcbrasil.gupy.io
 1,2026-02-19,Banco ABC Brasil,Financeiro,Gupy,https://carreiras.gupy.io/bancoabcbrasil
 1,2026-05-20,Banco AMAZONIA,Financeiro,Gupy,https://banco.gupy.io
-1,2026-07-18,Banco Bari,Financeiro,InHire,https://bancobari.inhire.app/vagas
+1,2026-07-18,Banco Bari,Financeiro,Quickin,https://jobs.quickin.io/bancobari/jobs
 1,2026-02-19,Banco BMG,Financeiro,Gupy,https://bancobmg.gupy.io
 1,2025-01-23,Banco Bradesco,Financeiro,CSOD,https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco
 1,2026-05-20,Banco BS2,Financeiro,Gupy,https://carreiras.gupy.io/bancobs2
@@ -754,7 +754,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Itaú Cultural,Financeiro,Gupy,https://itaucultural.gupy.io
 1,2026-02-19,Itaú Social,Serviços e Outros,Gupy,https://itausocial.gupy.io
 1,2026-02-19,ITV,Serviços e Outros,Site da Empresa,https://www.itvjobs.com
-1,2026-02-19,Iugu,Financeiro,InHire,https://iugu.inhire.app/vagas
+1,2026-02-19,Iugu,Financeiro,Gupy,https://vempraiugu.gupy.io
 0,2026-07-18,Iveco,Indústria,Site da Empresa,https://www.iveco.com/careers
 0,2026-07-18,Jacto,Indústria,Gupy,https://jacto.gupy.io
 0,2026-07-18,Jadlog,Logística e Mobilidade,Gupy,https://jadlog.gupy.io
@@ -796,7 +796,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Kora Saúde,Saúde,Sênior,https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=korasaudecombr&tenantdomain=korasaude.com.br
 1,2026-02-20,Korp ERP,Tecnologia,Gupy,https://korp.gupy.io
 1,2026-02-19,Kovi,Serviços e Outros,Gupy,https://kovi.gupy.io
-1,2026-02-19,KPMG,Serviços e Outros,InHire,https://carreira.inhire.com.br/carreiras/kpmg
+1,2026-02-19,KPMG,Serviços e Outros,InHire,https://kpmg.inhire.app/vagas
 1,2025-01-23,Kraft Heinz,Serviços e Outros,Plataforma Interna,https://careers.kraftheinz.com/job-search-results
 1,2026-02-20,KRYPTUS,Tecnologia,Gupy,https://kryptus.gupy.io
 0,2026-07-18,Kuehne+Nagel,Logística e Mobilidade,Site da Empresa,https://www.kuehne-nagel.com/careers
@@ -892,7 +892,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Méliuz,Serviços e Outros,Gupy,https://meliuz.gupy.io
 1,2026-02-19,Melnick,Serviços e Outros,Gupy,https://carreiras.gupy.io/melnick
 1,2026-05-21,Memed,Saúde,Gupy,https://memed.gupy.io
-1,2026-02-19,Mercado Bitcoin,Financeiro,InHire,https://mercadobitcoin.inhire.app/vagas
+1,2026-02-19,Mercado Bitcoin,Financeiro,InHire,https://mb.inhire.app/vagas
 1,2024-11-22,Mercado Livre,Serviços e Outros,Eightfold,https://mercadolibre.eightfold.ai/careers
 1,2026-06-06,Mercado Pago,Financeiro,Site da Empresa,https://careers-meli.mercadolibre.com/pt
 1,2026-02-20,Mercedes-Benz Brasil,Indústria,Gupy,https://mercedes-benz.gupy.io
@@ -943,7 +943,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,Mutant,Tecnologia,Gupy,https://mutantbrvagas.gupy.io
 1,2025-03-18,Nadara,Tecnologia,Workday,https://nadara.wd3.myworkdayjobs.com/External
 1,2026-05-20,Natura,Varejo e Consumo,Gupy,https://carreiras.gupy.io/natura
-1,2023-02-26,Natura&CO (Avon + The Body Shop),Serviços e Outros,Workday,https://avon.wd5.myworkdayjobs.com/NaturaCarreiras
+1,2023-02-26,Natura&CO (Avon + The Body Shop),Serviços e Outros,Workday,https://natura.wd501.myworkdayjobs.com/pt-BR/NaturaCarreiras
 1,2026-02-20,Nazária,Serviços e Outros,Gupy,https://nazaria.gupy.io
 1,2026-02-19,NBCUniversal,Serviços e Outros,Site da Empresa,https://www.nbcunicareers.com
 1,2026-07-18,NeoAssist,Tecnologia,Gupy,https://neoassist.gupy.io
@@ -1280,7 +1280,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Telefônica Brasil (Vivo),Energia e Utilities,Gupy,https://vivo.gupy.io
 0,2026-05-21,Teleperformance,Serviços e Outros,TeamTailor,https://teleperformance.teamtailor.com
 1,2026-02-20,Telhanorte,Serviços e Outros,Vagas,https://www.vagas.com.br/vagas-de-telhanorte
-1,2025-03-22,Telus Digital BR,Tecnologia,Greenhouse,https://telusdigital.com/careers
+1,2025-03-22,Telus Digital BR,Tecnologia,Ashby,https://jobs.ashbyhq.com/telus-digital
 1,2026-02-19,Tembici,Serviços e Outros,Gupy,https://carreiras.gupy.io/tembici
 1,2026-08-23,Tempo Assist,Saúde,Gupy,https://tempo.gupy.io
 1,2026-02-19,Tenda,Serviços e Outros,Gupy,https://tenda.gupy.io
@@ -1336,7 +1336,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Ultrapar,Serviços e Outros,Gupy,https://grupoultra.gupy.io
 1,2026-02-19,União Química,Serviços e Outros,Gupy,https://carreiras.gupy.io/unioqumica
 0,2026-07-18,Unicesumar,Educação,Gupy,https://unicesumar.gupy.io
-1,2026-02-19,Unico,Tecnologia,InHire,https://unicotech.inhire.app/vagas
+1,2026-02-19,Unico,Tecnologia,InHire,https://unico.inhire.app/vagas
 1,2026-02-20,Unicred,Financeiro,Gupy,https://unicred.gupy.io
 1,2025-01-23,Unidas,Serviços e Outros,Gupy,https://unidas.gupy.io
 1,2026-02-19,Unifique,Serviços e Outros,Gupy,https://vemserunifique.gupy.io
@@ -1375,7 +1375,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Vallourec,Indústria,Gupy,https://vallourec.gupy.io
 1,2026-02-19,Vamos,Serviços e Outros,Gupy,https://vamos.gupy.io
 1,2026-02-19,Vasta Educação,Educação,Gupy,https://carreiras.gupy.io/vastaeducao
-1,2025-03-18,Veeva,Tecnologia,Lever,https://veeva.com/careers
+1,2025-03-18,Veeva,Tecnologia,Lever,https://jobs.lever.co/veeva
 1,2026-02-20,Veirano Advogados,Serviços e Outros,Gupy,https://veirano.gupy.io
 1,2023-09-17,Veloe,Financeiro,Gupy,https://carreiras.gupy.io/veloe
 0,2026-07-18,Venturus,Tecnologia,Gupy,https://venturus.gupy.io
