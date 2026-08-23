@@ -68,7 +68,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [ADM](https://adm.gupy.io) | Serviços e Outros | Gupy |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced) | Tecnologia | Workday |
 | [ADP](https://jobs.adp.com) | Serviços e Outros | Site da Empresa |
-| [Adyen](https://careers.adyen.com) | Financeiro | Site da Empresa |
+| [Adyen](https://boards.greenhouse.io/adyen) | Financeiro | Greenhouse |
 | [AeC](https://aeccentrodecontatos.pandape.com.br) | Serviços e Outros | PandaPe |
 | [Aegea](https://aegea.gupy.io) | Serviços e Outros | Gupy |
 | [Aegro](https://aegro.gupy.io) | Agro e Alimentos | Gupy |
@@ -89,7 +89,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Aiqfome](https://carreiras.gupy.io/aiqfome) | Serviços e Outros | Gupy |
 | [Air France-KLM](https://recrutement.airfrance.com) | Serviços e Outros | Site da Empresa |
 | [Airbnb](https://boards.greenhouse.io/airbnb) | Serviços e Outros | Greenhouse |
-| [Airbyte](https://airbyte.com/careers) | Tecnologia | Site da Empresa |
+| [Airbyte](https://jobs.ashbyhq.com/airbyte) | Tecnologia | Ashby |
 | [AirGarage](https://jobs.ashbyhq.com/airgarage) | Tecnologia | Ashby |
 | [Ajinomoto](https://ajinomotoabr.gupy.io) | Agro e Alimentos | Gupy |
 | [Akamai](https://akamai.com/careers) | Tecnologia | Site da Empresa |
@@ -365,7 +365,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Click Entregas](https://carreiras.gupy.io/clickentregas) | Logística e Mobilidade | Gupy |
 | [ClickSign](https://clicksign.gupy.io) | Tecnologia | Gupy |
 | [Cloudera](https://cloudera.wd5.myworkdayjobs.com/External_Career) | Tecnologia | Workday |
-| [Cloudflare](https://www.cloudflare.com/careers) | Tecnologia | Site da Empresa |
+| [Cloudflare](https://boards.greenhouse.io/cloudflare) | Tecnologia | Greenhouse |
 | [CloudWalk](https://jobs.lever.co/cloudwalk) | Financeiro | Lever |
 | [Club Athletico Paranaense](https://athletico.gupy.io) | Serviços e Outros | Gupy |
 | [CNH Industrial](https://careers.cnhindustrial.com) | Indústria | Site da Empresa |
@@ -499,7 +499,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [DSV](https://www.dsv.com/careers) | Logística e Mobilidade | Site da Empresa |
 | [DuckDuckGo](https://jobs.ashbyhq.com/duck-duck-go) | Tecnologia | Ashby |
 | [Duolingo](https://careers.duolingo.com) | Educação | Site da Empresa |
-| [DXC](https://careers.dxc.com) | Tecnologia | Site da Empresa |
+| [DXC](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs) | Tecnologia | Workday |
 | [Dynatrace](https://careers.dynatrace.com) | Tecnologia | Site da Empresa |
 | [EA (Electronic Arts)](https://www.ea.com/careers) | Serviços e Outros | Site da Empresa |
 | [Eaton](https://eaton.eightfold.ai/careers) | Indústria | Eightfold |
@@ -716,9 +716,9 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Hilton](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs) | Serviços e Outros | OracleCloud |
 | [Hinode](https://grupohinode.gupy.io) | Serviços e Outros | Gupy |
 | [Honda](https://honda.gupy.io) | Indústria | Gupy |
-| [Honeywell](https://careers.honeywell.com) | Indústria | Site da Empresa |
+| [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs) | Indústria | OracleCloud |
 | [Hootsuite](https://careers.hootsuite.com) | Tecnologia | Manual |
-| [Hopper](https://www.hopper.com/careers) | Serviços e Outros | Site da Empresa |
+| [Hopper](https://jobs.ashbyhq.com/hopper) | Serviços e Outros | Ashby |
 | [Hortifruti Natural da Terra](https://hortifrutinaturaldaterra.gupy.io) | Varejo e Consumo | Gupy |
 | [Hospital Care](https://hospitalcare.gupy.io) | Saúde | Gupy |
 | [Hospital Felício Rocho](https://hospitalfeliciorocho.gupy.io) | Saúde | Gupy |
@@ -777,7 +777,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Ipiranga](https://ipiranga.gupy.io) | Serviços e Outros | Gupy |
 | [iPlace](https://iplace.gupy.io) | Serviços e Outros | Gupy |
 | [IPSEN](https://ipsen.teamtailor.com) | Saúde | TeamTailor |
-| [IQVIA](https://jobs.iqvia.com/en/search-jobs) | Serviços e Outros | Plataforma Interna |
+| [IQVIA](https://iqvia.wd1.myworkdayjobs.com/IQVIA) | Serviços e Outros | Workday |
 | [Irani Papel e Embalagem](https://carreiras.gupy.io/iranipapeleembalagem) | Serviços e Outros | Gupy |
 | [Isa CTEEP](https://isaenergiabrasil.gupy.io) | Serviços e Outros | Gupy |
 | [Isaac](https://boards.greenhouse.io/isaac) | Financeiro | Greenhouse |
@@ -819,7 +819,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Keyrus](https://jobs.keyrus.com.br/jobs) | Serviços e Outros | Plataforma Interna |
 | [KFC](https://kfc.gupy.io) | Serviços e Outros | Gupy |
 | [KFC Brasil](https://kfcbrasil.gupy.io) | Serviços e Outros | Gupy |
-| [Khan Academy](https://www.khanacademy.org/about/careers) | Educação | Site da Empresa |
+| [Khan Academy](https://boards.greenhouse.io/khanacademy) | Educação | Greenhouse |
 | [Kimberly-Clark](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL) | Serviços e Outros | Workday |
 | [Kinea](https://kinea.gupy.io) | Financeiro | Gupy |
 | [Kinross](https://kinross.gupy.io) | Indústria | Gupy |
@@ -960,7 +960,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Monkey Exchange](https://monkey.gupy.io) | Financeiro | Gupy |
 | [Monte Carlo Data](https://jobs.ashbyhq.com/montecarlodata) | Tecnologia | Ashby |
 | [Monte Carlo Moda](https://montecarlo.gupy.io) | Varejo e Consumo | Gupy |
-| [Mosaic](https://mosaicco.com/careers) | Agro e Alimentos | Site da Empresa |
+| [Mosaic](https://mosaic.wd5.myworkdayjobs.com/mosaic) | Agro e Alimentos | Workday |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/Careers) | Tecnologia | Workday |
 | [Mottu](https://mottu.inhire.app) | Serviços e Outros | Vagas |
 | [Moura Dubeux](https://mouradubeux.vagas.solides.com.br) | Serviços e Outros | Solides |
