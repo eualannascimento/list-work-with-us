@@ -212,3 +212,37 @@ class TestVerifyWebsitesConcurrent:
         failed = verify_websites_concurrent([], max_workers=1)
         assert failed == []
         mock_verify.assert_not_called()
+
+
+class TestServidorVivoQueRecusaOMetodo:
+    """405 e laço de redirecionamento não são portal encerrado.
+
+    Os dois marcavam empresas como fora do ar toda semana enquanto elas
+    entregavam vaga: a Hyland (52) responde 200 ao HEAD e 405 ao GET, e o
+    board da BoldMetrics (4) redireciona em laço entre dois hosts
+    equivalentes do Greenhouse.
+    """
+
+    def test_405_e_considerado_no_ar(self):
+        from src.py.functions.website_verification import _check_status
+        assert _check_status(405) is True
+
+    def test_404_continua_fora_do_ar(self):
+        from src.py.functions.website_verification import _check_status
+        assert _check_status(404) is False
+
+    def test_500_continua_fora_do_ar(self):
+        from src.py.functions.website_verification import _check_status
+        assert _check_status(500) is False
+
+    def test_laco_de_redirecionamento_e_considerado_no_ar(self):
+        from unittest.mock import MagicMock
+
+        from requests.exceptions import TooManyRedirects
+
+        from src.py.functions.website_verification import verify_website_status
+
+        sessao = MagicMock()
+        sessao.head.side_effect = TooManyRedirects('Exceeded 30 redirects.')
+        resultado = verify_website_status(sessao, 'https://exemplo.com/vagas')
+        assert resultado['status'] == '1'

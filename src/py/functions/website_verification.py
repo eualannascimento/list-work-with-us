@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 from requests.adapters import HTTPAdapter
-from requests.exceptions import RequestException, SSLError, Timeout
+from requests.exceptions import RequestException, SSLError, Timeout, TooManyRedirects
 from urllib3.util.retry import Retry
 
 logger = logging.getLogger(__name__)
@@ -46,7 +46,11 @@ def create_shared_session():
 def _check_status(status_code, url: str = ""):
     # 403/406/408/429 são respostas típicas de proteção anti-bot (WAF/Cloudflare)
     # e não indicam que a página de carreiras não exista.
-    if 200 <= status_code < 400 or status_code in (403, 406, 408, 429):
+    #
+    # 405 é o servidor recusando o método, não negando o recurso: a página da
+    # Hyland responde 200 ao HEAD e 405 ao GET, e por causa disso era marcada
+    # como fora do ar toda semana, mesmo entregando 52 vagas.
+    if 200 <= status_code < 400 or status_code in (403, 405, 406, 408, 429):
         return True
     return False
 
@@ -125,6 +129,15 @@ def verify_website_status(session, url=None, timeout=DEFAULT_TIMEOUT, retries=MA
             return out
         except Timeout:
             out = {"status": "1", "status_code": None, "error": "Sucesso (Timeout / Proteção Bot)"}
+            if own_session:
+                session.close()
+            return out
+        except TooManyRedirects:
+            # Servidor que redireciona em laço está no ar: o laço é uma
+            # propriedade daquela forma de URL, não prova de que o portal
+            # acabou. O board da BoldMetrics faz isso entre dois hosts
+            # equivalentes do Greenhouse, e continua entregando vaga.
+            out = {"status": "1", "status_code": None, "error": "Sucesso (laço de redirecionamento)"}
             if own_session:
                 session.close()
             return out
