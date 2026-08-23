@@ -241,7 +241,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Big Ben](https://bigben.gupy.io) | Saúde | Gupy |
 | [Biolab](https://carreiras.gupy.io/biolab) | Saúde | Gupy |
 | [Biotrop](https://biotrop.gupy.io) | Serviços e Outros | Gupy |
-| [Bitso](https://bitso.com/jobs) | Financeiro | Greenhouse |
+| [Bitso](https://boards.greenhouse.io/bitso) | Financeiro | Greenhouse |
 | [BIX Tech](https://bixtecnologia.inhire.app/vagas) | Tecnologia | InHire |
 | [BizCapital](https://carreiras.gupy.io/bizcapital) | Financeiro | Gupy |
 | [Blackberry](https://bb.wd3.myworkdayjobs.com/BlackBerry) | Tecnologia | Workday |
@@ -494,7 +494,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Dotz](https://dotz.gupy.io) | Financeiro | Gupy |
 | [Dr. Consulta](https://drconsultacms.gupy.io) | Tecnologia | Gupy |
 | [Droga Raia / Drogasil (RD Saúde)](https://rdsaude-farmacia.gupy.io) | Saúde | Gupy |
-| [Dropbox](https://dropbox.jobs) | Tecnologia | Greenhouse |
+| [Dropbox](https://boards.greenhouse.io/dropbox) | Tecnologia | Greenhouse |
 | [DRUID Creative Gaming](https://druid.gupy.io) | Serviços e Outros | Gupy |
 | [DSV](https://www.dsv.com/careers) | Logística e Mobilidade | Site da Empresa |
 | [DuckDuckGo](https://jobs.ashbyhq.com/duck-duck-go) | Tecnologia | Ashby |
