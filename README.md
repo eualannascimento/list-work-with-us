@@ -90,12 +90,14 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Air France-KLM](https://recrutement.airfrance.com) | Serviços e Outros | Site da Empresa |
 | [Airbnb](https://boards.greenhouse.io/airbnb) | Serviços e Outros | Greenhouse |
 | [Airbyte](https://airbyte.com/careers) | Tecnologia | Site da Empresa |
+| [AirGarage](https://jobs.ashbyhq.com/airgarage) | Tecnologia | Ashby |
 | [Ajinomoto](https://ajinomotoabr.gupy.io) | Agro e Alimentos | Gupy |
 | [Akamai](https://akamai.com/careers) | Tecnologia | Site da Empresa |
 | [Albert Einstein](https://www.einstein.br/carreiras) | Saúde | Manual |
 | [Alcoa](https://alcoa.wd5.myworkdayjobs.com/Careers) | Indústria | Workday |
 | [Alelo](https://alelo.inhire.app/vagas) | Financeiro | InHire |
 | [Algar Tech Br](https://algar.gupy.io) | Tecnologia | Gupy |
+| [Algar Telecom](https://carreiras.gupy.io/algar) | Energia e Utilities | Gupy |
 | [Alibaba](https://talent.alibaba.com) | Serviços e Outros | Site da Empresa |
 | [Alice](https://alice.inhire.app/vagas) | Tecnologia | InHire |
 | [Allcare](https://allcare.gupy.io) | Saúde | Gupy |
@@ -231,6 +233,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Beleaf](https://www.beleaf.com.br/trabalhe-conosco) | Serviços e Outros | Vagas |
 | [Belvo](https://jobs.ashbyhq.com/belvo) | Financeiro | Ashby |
 | [Bemobi](https://bemobi.gupy.io) | Tecnologia | Gupy |
+| [Bemol](https://bemol.gupy.io) | Varejo e Consumo | Gupy |
 | [Bexs](https://bexs.gupy.io) | Financeiro | Gupy |
 | [Beyond 101](https://apply.workable.com/beyond-101) | Tecnologia | Workable |
 | [BHS](https://bhs.gupy.io) | Tecnologia | Gupy |
@@ -247,11 +250,14 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Blip](https://carreiras.gupy.io/blip) | Tecnologia | Gupy |
 | [Blizzard](https://carreiras.gupy.io/blizzard) | Serviços e Outros | Gupy |
 | [Bloomberg](https://careers.bloomberg.com) | Tecnologia | Site da Empresa |
+| [Blue3 Investimentos](https://vemserblue3.gupy.io) | Financeiro | Gupy |
 | [BMG](https://bmg.gupy.io) | Financeiro | Gupy |
 | [BMW Group Brasil](https://bmw.gupy.io) | Indústria | Gupy |
 | [BNY Mellon](https://carreiras.gupy.io/bnymellon) | Financeiro | Gupy |
+| [BoaVista SCPC](https://boavista.gupy.io) | Tecnologia | Gupy |
 | [Bobs](https://bobs.gupy.io) | Serviços e Outros | Gupy |
 | [Boehringer Ingelheim](https://careers.boehringer-ingelheim.com) | Saúde | Site da Empresa |
+| [Bold](https://boards.greenhouse.io/bold) | Saúde | Greenhouse |
 | [Bold Snacks](https://carreiras.gupy.io/boldsnacks) | Serviços e Outros | Gupy |
 | [BoldMetrics](https://job-boards.greenhouse.io/boldmetrics) | Serviços e Outros | Greenhouse |
 | [Bom pra Crédito](https://carreiras.gupy.io/bompracrdito) | Financeiro | Gupy |
@@ -279,6 +285,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Brisanet](https://brisanet.gupy.io) | Serviços e Outros | Gupy |
 | [Bristol Myers Squibb](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS) | Saúde | Workday |
 | [BRK Ambiental](https://carreiras.gupy.io/brkambiental) | Energia e Utilities | Gupy |
+| [BrMalls](https://carreirasallos.gupy.io) | Varejo e Consumo | Gupy |
 | [BRQ Digital Solutions](https://carreiras.gupy.io/brq) | Tecnologia | Gupy |
 | [BTG Pactual](https://boards.greenhouse.io/btgpactual) | Financeiro | Greenhouse |
 | [Buffer](https://journey.buffer.com) | Tecnologia | Site da Empresa |
@@ -338,6 +345,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Cerc](https://cerc.inhire.app/vagas) | Financeiro | InHire |
 | [CESAR](https://cesar.gupy.io) | Tecnologia | Gupy |
 | [CEVA Logistics](https://www.cevalogistics.com/careers) | Logística e Mobilidade | Site da Empresa |
+| [ChartHop](https://jobs.ashbyhq.com/charthop) | Tecnologia | Ashby |
 | [Cheftime](https://carreiras.gupy.io/cheftime) | Serviços e Outros | Gupy |
 | [Chiesi](https://www.chiesi.com.br/carreiras) | Saúde | Site da Empresa |
 | [Chubb](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs) | Financeiro | OracleCloud |
@@ -373,6 +381,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Cocal](https://cocal.gupy.io) | Serviços e Outros | Gupy |
 | [Cocamar](https://cocamar.gupy.io) | Serviços e Outros | Gupy |
 | [Coco Bambu](https://cocobambu.gupy.io) | Serviços e Outros | Gupy |
+| [CoE Votorantim](https://votorantimcoe.gupy.io) | Indústria | Gupy |
 | [COFCO](https://www.cofcointernational.com/careers) | Agro e Alimentos | Site da Empresa |
 | [Cogna](https://cogna.gupy.io) | Educação | Gupy |
 | [Cognizant](https://careers.cognizant.com) | Tecnologia | Site da Empresa |
@@ -424,6 +433,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Cruzeiro do Sul](https://cruzeirodosul.gupy.io) | Educação | Gupy |
 | [Cruzeiro do Sul Educacional](https://cruzeirodosuleducacional.gupy.io) | Educação | Gupy |
 | [CS Brasil](https://csbrasil.gupy.io) | Serviços e Outros | Gupy |
+| [CS Infra](https://csinfra.gupy.io) | Construção e Imóveis | Gupy |
 | [CSN](https://csn.gupy.io) | Indústria | Gupy |
 | [Cultura Inglesa](https://culturainglesa.gupy.io) | Educação | Gupy |
 | [Cummins](https://careers.cummins.com) | Indústria | Site da Empresa |
@@ -540,10 +550,14 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Eternit](https://trabalheconosco.vagas.com.br/eternit) | Indústria | Vagas |
 | [Etna](https://trabalheconosco.vagas.com.br/etna) | Serviços e Outros | Vagas |
 | [Eu Entrego](https://www.euentrego.com/entregador) | Serviços e Outros | Vagas |
+| [Eucatex](https://eucatex.gupy.io) | Indústria | Gupy |
 | [Eurofarma](https://eurofarma.gupy.io) | Saúde | Gupy |
 | [Eve Air Mobility](https://eveairmobility.gupy.io) | Indústria | Gupy |
 | [Even](https://sejaeven.gupy.io) | Serviços e Outros | Gupy |
+| [Evoltz](https://evoltz.gupy.io) | Energia e Utilities | Gupy |
 | [Expedia](https://expedia.wd108.myworkdayjobs.com/search) | Serviços e Outros | Workday |
+| [Expresso Nepomuceno](https://en.gupy.io) | Logística e Mobilidade | Gupy |
+| [Expresso São Miguel](https://sejaesm.gupy.io) | Logística e Mobilidade | Gupy |
 | [ExxonMobil](https://jobs.exxonmobil.com) | Serviços e Outros | Site da Empresa |
 | [EY](https://www.ey.com/pt_br/careers) | Serviços e Outros | GigNow |
 | [EZTEC](https://eztec.gupy.io) | Serviços e Outros | Gupy |
@@ -571,6 +585,8 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Folha da Manhã](https://carreiras.gupy.io/folhadamanh) | Serviços e Outros | Gupy |
 | [Food to Save](https://carreiras.gupy.io/foodtosave) | Serviços e Outros | Gupy |
 | [Ford](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs) | Indústria | Oracle Cloud |
+| [Forno de Minas](https://fornodeminas.gupy.io) | Agro e Alimentos | Gupy |
+| [Fortbras](https://fortbras.gupy.io) | Varejo e Consumo | Gupy |
 | [Fortinet](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs) | Tecnologia | OracleCloud |
 | [Fortlev](https://fortlev.gupy.io) | Indústria | Gupy |
 | [Foundever](https://foundever.gupy.io) | Serviços e Outros | Gupy |
@@ -604,6 +620,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [General Mills](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers) | Agro e Alimentos | Workday |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM) | Indústria | Workday |
 | [Genial Investimentos](https://genial.gupy.io) | Serviços e Outros | Gupy |
+| [Gensyn](https://boards.greenhouse.io/gensyn) | Tecnologia | Greenhouse |
 | [GEODIS](https://careers.geodis.com) | Logística e Mobilidade | Site da Empresa |
 | [Gerador](https://gerador.inhire.com.br) | Tecnologia | InHire |
 | [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) | Indústria | SAP SuccessFactors |
@@ -648,6 +665,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Grupo Estado](https://grupoestado.gupy.io) | Serviços e Outros | Gupy |
 | [Grupo Gontijo](https://carreiras.gupy.io/grupogontijo) | Serviços e Outros | Gupy |
 | [Grupo Habib's](https://grupohabibs.pandape.infojobs.com.br) | Serviços e Outros | PandaPé |
+| [Grupo JCPM](https://grupojcpm.gupy.io) | Mídia e Entretenimento | Gupy |
 | [Grupo L'Occitane](https://sejaloccitane.gupy.io) | Serviços e Outros | Gupy |
 | [Grupo Marilan](https://marilan.gupy.io) | Serviços e Outros | Gupy |
 | [Grupo Mateus](https://fa-exvn-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1/jobs) | Serviços e Outros | OracleCloud |
@@ -661,6 +679,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Grupo RV](https://gruporv.pandape.infojobs.com.br) | Serviços e Outros | PandaPé |
 | [Grupo Sabin](https://gruposabin.gupy.io) | Saúde | Gupy |
 | [Grupo Salta](https://carreiras.gupy.io/salta) | Educação | Gupy |
+| [Grupo SBF](https://gruposbftalentos.gupy.io) | Varejo e Consumo | Gupy |
 | [Grupo SEB](https://gruposeb.gupy.io) | Educação | Gupy |
 | [Grupo Silvio Santos](https://gss.gupy.io) | Serviços e Outros | Gupy |
 | [Grupo Soma](https://gruposoma.gupy.io) | Serviços e Outros | Gupy |
@@ -674,6 +693,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [GWM](https://gwm.gupy.io) | Indústria | Gupy |
 | [H&M](https://career.hm.com) | Varejo e Consumo | Site da Empresa |
 | [Haleon](https://www.haleon.com/careers) | Saúde | Site da Empresa |
+| [Hapvida](https://hapvidandi.gupy.io) | Saúde | Gupy |
 | [Hapvida NotreDame Intermédica](https://hapvidandi.pandape.infojobs.com.br) | Saúde | PandaPé |
 | [Hashdex](https://carreiras.gupy.io/hashdex) | Serviços e Outros | Gupy |
 | [HashiCorp](https://www.hashicorp.com/careers) | Tecnologia | Site da Empresa |
@@ -718,6 +738,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Hyland](https://careers-hyland.icims.com) | Tecnologia | iCIMS |
 | [Hypera Pharma](https://hyperapharma.gupy.io) | Saúde | Gupy |
 | [Hyundai](https://hyundai.gupy.io) | Indústria | Gupy |
+| [Hyva do Brasil](https://hyvadobrasil.gupy.io) | Indústria | Gupy |
 | [Iberdrola](https://www.iberdrola.com/careers) | Energia e Utilities | Site da Empresa |
 | [IBM](https://www.ibm.com/br-pt/careers) | Tecnologia | Brasio |
 | [Ibmec](https://ibmec.gupy.io) | Educação | Gupy |
@@ -872,6 +893,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Magalu](https://magazineluiza.inhire.app) | Serviços e Outros | InHire |
 | [Magazine Luiza](https://99jobs.com/magazine-luiza) | Serviços e Outros | Vagas |
 | [Magnetis](https://carreiras.gupy.io/magnetis) | Serviços e Outros | Gupy |
+| [Mahindra Brasil](https://mahindra.gupy.io) | Indústria | Gupy |
 | [Mahle](https://www.mahle.com/careers) | Indústria | Site da Empresa |
 | [Mais Mu](https://carreiras.gupy.io/maismu) | Serviços e Outros | Gupy |
 | [Malwee](https://malwee.gupy.io) | Varejo e Consumo | Gupy |
@@ -910,6 +932,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Mercado Pago](https://careers-meli.mercadolibre.com/pt) | Financeiro | Site da Empresa |
 | [Mercedes-Benz Brasil](https://mercedes-benz.gupy.io) | Indústria | Gupy |
 | [Mercedes-Benz Caminhões & Ônibus (Externa)](https://mercedes-benzcaminhoeseonibus.gupy.io) | Indústria | Gupy |
+| [Messer Gases Brasil](https://messergases.gupy.io) | Indústria | Gupy |
 | [Meta](https://www.metacareers.com) | Tecnologia | Site da Empresa |
 | [Metha (antiga OAS)](https://carreiras.gupy.io/methaantigaoas) | Serviços e Outros | Gupy |
 | [MetLife](https://careers.metlife.com) | Financeiro | Site da Empresa |
@@ -974,6 +997,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Nexoos](https://nexoos.gupy.io) | Financeiro | Gupy |
 | [Next](https://next.teamtailor.com/jobs.json) | Financeiro | TeamTailor |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke) | Varejo e Consumo | Workday |
+| [Nio](https://nio.gupy.io) | Energia e Utilities | Gupy |
 | [Nissan](https://alliance.wd3.myworkdayjobs.com/nissanjobs) | Indústria | Workday |
 | [Nita Alimentos](https://nitaalimentos.gupy.io) | Agro e Alimentos | Gupy |
 | [Nokia](https://www.nokia.com/careers) | Tecnologia | Site da Empresa |
@@ -1003,6 +1027,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Odous de Deus](https://carreiras.gupy.io/odousdedeus) | Saúde | Gupy |
 | [OEC](https://carreiras.gupy.io/oec) | Serviços e Outros | Gupy |
 | [OEC (Odebrecht)](https://oec-eng.com/trabalhe-conosco) | Serviços e Outros | Site da Empresa |
+| [Oficina do Estudante](https://oficina.gupy.io) | Educação | Gupy |
 | [Oi](https://carreiras.gupy.io/oi) | Energia e Utilities | Gupy |
 | [Olga Ri](https://carreiras.gupy.io/olgari) | Serviços e Outros | Gupy |
 | [Olist](https://olist.inhire.app/vagas) | Tecnologia | InHire |
@@ -1061,11 +1086,13 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Plano & Plano](https://carreiras.gupy.io/planoplano) | Serviços e Outros | Gupy |
 | [Platlog](https://platlog.gupy.io) | Serviços e Outros | Gupy |
 | [PlayDelivery](https://carreiras.gupy.io/playdelivery) | Logística e Mobilidade | Gupy |
+| [Plena Alimentos](https://plena.gupy.io) | Agro e Alimentos | Gupy |
 | [Pleo](https://boards.greenhouse.io/pleo) | Financeiro | Greenhouse |
 | [Pluggy](https://pluggy.gupy.io) | Financeiro | Gupy |
 | [Polishop](https://carreiras.gupy.io/polishop) | Serviços e Outros | Gupy |
 | [Porto](https://porto.gupy.io) | Financeiro | Gupy |
 | [Portobello](https://portobello.gupy.io) | Construção e Imóveis | Gupy |
+| [Portobello Shop](https://portobelloshop.gupy.io) | Varejo e Consumo | Gupy |
 | [Positive Brands](https://carreiras.gupy.io/positivebrands) | Serviços e Outros | Gupy |
 | [Positivo Tecnologia](https://positivo.gupy.io) | Serviços e Outros | Gupy |
 | [Pottencial Seguradora](https://carreiras.gupy.io/pottencialseguradora) | Financeiro | Gupy |
@@ -1100,6 +1127,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [QUOD](https://vempraquod.gupy.io) | Financeiro | Gupy |
 | [Rabobank](https://rabobank.wd3.myworkdayjobs.com/jobs) | Financeiro | Workday |
 | [Radix Engenharia e Software](https://radix.gupy.io) | Tecnologia | Gupy |
+| [Raia Drogasil](https://carreiras.gupy.io/rd) | Saúde | Gupy |
 | [Raizen](https://genteraizen.gupy.io) | Serviços e Outros | Gupy |
 | [Raízs](https://carreiras.gupy.io/raizs) | Serviços e Outros | Gupy |
 | [Randon](https://randon.gupy.io) | Indústria | Gupy |
@@ -1111,6 +1139,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [RD Saúde Corporativo](https://rdsaude-corporativo.gupy.io) | Saúde | Gupy |
 | [RD Station](https://boards.greenhouse.io/rdstation) | Tecnologia | Greenhouse |
 | [Real Expresso](https://realexpresso.gupy.io) | Serviços e Outros | Gupy |
+| [Realize](https://realize.gupy.io) | Financeiro | Gupy |
 | [Rebel](https://carreiras.gupy.io/rebel) | Serviços e Outros | Gupy |
 | [RecargaPay](https://apply.workable.com/recargapay) | Tecnologia | Workable |
 | [Reckitt](https://careers.reckitt.com) | Varejo e Consumo | Site da Empresa |
@@ -1126,6 +1155,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Remotecom](https://job-boards.greenhouse.io/remotecom) | Tecnologia | Greenhouse |
 | [Renault](https://renault.teamtailor.com) | Indústria | TeamTailor |
 | [Renner Lojas Br](https://renner.gupy.io) | Varejo e Consumo | Gupy |
+| [Repassa](https://repassa.gupy.io) | Varejo e Consumo | Gupy |
 | [Reprograma](https://reprograma.gupy.io) | Educação | Gupy |
 | [Reserva](https://reserva.gupy.io) | Serviços e Outros | Gupy |
 | [Ri Happy](https://rihappy.gupy.io) | Varejo e Consumo | Gupy |
@@ -1151,6 +1181,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Sabesp](https://carreiras.gupy.io/sabesp) | Serviços e Outros | Gupy |
 | [Safra](https://venhasersafra.gupy.io) | Financeiro | Gupy |
 | [Saint-Gobain](https://saintgobain.gupy.io) | Indústria | Gupy |
+| [Saint-Gobain Brasil](https://saintgobainbrasil.gupy.io) | Indústria | Gupy |
 | [Salesforce](https://www.salesforce.com/company/careers) | Tecnologia | Site da Empresa |
 | [Samarco](https://samarco.gupy.io) | Indústria | Gupy |
 | [Sami](https://oisami.gupy.io) | Saúde | Gupy |
@@ -1211,6 +1242,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Simpar](https://simpar.gupy.io) | Serviços e Outros | Gupy |
 | [Sinch](https://apply.workable.com/sinch) | Tecnologia | Workable |
 | [Singapore Airlines](https://www.singaporeair.com/en_UK/sg/careers) | Serviços e Outros | Site da Empresa |
+| [Sinqia](https://jobs.quickin.io/sinqia/jobs) | Tecnologia | Quickin |
 | [Sirio-Libanes](https://www.hospitalsiriolibanes.org.br/trabalhe-conosco) | Saúde | Manual |
 | [SKF](https://www.skf.com/careers) | Indústria | Site da Empresa |
 | [SLC Agrícola](https://slcagricola.gupy.io) | Serviços e Outros | Gupy |
@@ -1243,6 +1275,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Splunk](https://www.splunk.com/careers) | Tecnologia | Site da Empresa |
 | [Spotify](https://www.lifeatspotify.com) | Serviços e Outros | Site da Empresa |
 | [Spread](https://spread.gupy.io) | Tecnologia | Gupy |
+| [SPX Capital](https://spx.gupy.io) | Financeiro | Gupy |
 | [Stara](https://stara.gupy.io) | Indústria | Gupy |
 | [Starburst](https://www.starburst.io/careers) | Tecnologia | Site da Empresa |
 | [Stark Bank](https://stark.gupy.io) | Financeiro | Gupy |
@@ -1284,6 +1317,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Telhanorte](https://www.vagas.com.br/vagas-de-telhanorte) | Serviços e Outros | Vagas |
 | [Telus Digital BR](https://telusdigital.com/careers) | Tecnologia | Greenhouse |
 | [Tembici](https://carreiras.gupy.io/tembici) | Serviços e Outros | Gupy |
+| [Tempo Assist](https://tempo.gupy.io) | Saúde | Gupy |
 | [Tenda](https://tenda.gupy.io) | Serviços e Outros | Gupy |
 | [Teradata](https://careers.teradata.com) | Tecnologia | Site da Empresa |
 | [Tereos](https://tereos.gupy.io) | Agro e Alimentos | Gupy |
@@ -1380,7 +1414,9 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Veirano Advogados](https://veirano.gupy.io) | Serviços e Outros | Gupy |
 | [Veloe](https://carreiras.gupy.io/veloe) | Financeiro | Gupy |
 | [Venturus](https://venturus.gupy.io) | Tecnologia | Gupy |
+| [Veolia Brasil](https://carreirasveo.gupy.io) | Energia e Utilities | Gupy |
 | [Verde Campo](https://carreiras.gupy.io/verdecampo) | Serviços e Outros | Gupy |
+| [Vero Internet](https://vero.gupy.io) | Energia e Utilities | Gupy |
 | [Vestas](https://www.vestas.com/careers) | Energia e Utilities | Site da Empresa |
 | [Via Varejo](https://viavarejo.gupy.io) | Varejo e Consumo | Gupy |
 | [Viacredi](https://viacredi.gupy.io) | Serviços e Outros | Gupy |
