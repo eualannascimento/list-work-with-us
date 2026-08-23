@@ -224,7 +224,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,Boehringer Ingelheim,Saúde,Site da Empresa,https://careers.boehringer-ingelheim.com
 1,2026-08-23,Bold,Saúde,Greenhouse,https://boards.greenhouse.io/bold
 1,2026-02-19,Bold Snacks,Serviços e Outros,Gupy,https://carreiras.gupy.io/boldsnacks
-0,2025-03-22,BoldMetrics,Serviços e Outros,Greenhouse,https://job-boards.greenhouse.io/boldmetrics
+1,2025-03-22,BoldMetrics,Serviços e Outros,Greenhouse,https://job-boards.greenhouse.io/boldmetrics
 1,2026-02-19,Bom pra Crédito,Financeiro,Gupy,https://carreiras.gupy.io/bompracrdito
 1,2025-01-23,Booking,Serviços e Outros,Plataforma Interna,https://jobs.booking.com/booking/jobs
 1,2026-02-19,Booking.com,Serviços e Outros,Site da Empresa,https://jobs.booking.com
@@ -700,7 +700,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Huggy,Tecnologia,Gupy,https://huggy.gupy.io
 0,2026-07-18,Hurb,Serviços e Outros,Gupy,https://hurb.gupy.io
 1,2026-02-19,Hyatt,Serviços e Outros,Site da Empresa,https://careers.hyatt.com
-0,2025-03-18,Hyland,Tecnologia,iCIMS,https://careers-hyland.icims.com
+1,2025-03-18,Hyland,Tecnologia,iCIMS,https://careers-hyland.icims.com
 1,2026-02-19,Hypera Pharma,Saúde,Gupy,https://hyperapharma.gupy.io
 0,2026-07-18,Hyundai,Indústria,Gupy,https://hyundai.gupy.io
 1,2026-08-23,Hyva do Brasil,Indústria,Gupy,https://hyvadobrasil.gupy.io
@@ -1290,7 +1290,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Terra Santa,Serviços e Outros,Gupy,https://carreiras.gupy.io/terrasanta
 1,2026-05-20,Terra Santa Propriedades Agricolas,Financeiro,Gupy,https://terra.gupy.io
 0,2026-07-18,TerraMagna,Agro e Alimentos,Gupy,https://terramagna.gupy.io
-0,2026-07-18,Teva,Saúde,Site da Empresa,https://www.tevapharm.com/careers
+1,2026-07-18,Teva,Saúde,Site da Empresa,https://www.tevapharm.com/careers
 1,2026-02-19,The New,Serviços e Outros,Gupy,https://carreiras.gupy.io/thenew
 1,2026-07-18,Thomson Reuters,Tecnologia,Workday,https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site
 1,2026-07-18,ThoughtSpot,Tecnologia,Site da Empresa,https://www.thoughtspot.com/careers
@@ -1444,7 +1444,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,XP Banco,Financeiro,Gupy,https://carreiras.gupy.io/xpinc
 1,2023-02-26,XP Inc,Financeiro,Greenhouse,https://boards.greenhouse.io/xpinc
 1,2025-01-19,Yamaha,Indústria,Gupy,https://yamaha.gupy.io
-0,2026-07-18,Yara,Agro e Alimentos,Site da Empresa,https://www.yara.com/careers
+1,2026-07-18,Yara,Agro e Alimentos,Site da Empresa,https://www.yara.com/careers
 1,2026-02-19,Yduqs,Educação,Gupy,https://yduqs.gupy.io
 1,2026-02-19,Yorgus,Serviços e Outros,Gupy,https://carreiras.gupy.io/yorgus
 1,2026-05-20,Youcom,Varejo e Consumo,Gupy,https://youcom.gupy.io
