@@ -226,7 +226,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Bold Snacks,Serviços e Outros,Gupy,https://carreiras.gupy.io/boldsnacks
 1,2025-03-22,BoldMetrics,Serviços e Outros,Greenhouse,https://job-boards.greenhouse.io/boldmetrics
 1,2026-02-19,Bom pra Crédito,Financeiro,Gupy,https://carreiras.gupy.io/bompracrdito
-1,2025-01-23,Booking,Serviços e Outros,Plataforma Interna,https://jobs.booking.com/booking/jobs
+1,2025-01-23,Booking,Serviços e Outros,iCIMS,https://external-workingatbooking.icims.com
 1,2026-02-19,Booking.com,Serviços e Outros,Site da Empresa,https://jobs.booking.com
 1,2025-01-19,Bosch Group,Indústria,SmartRecruiters,https://careers.smartrecruiters.com/BoschGroup
 1,2026-07-18,Boston Consulting Group,Serviços e Outros,Eightfold,https://bcg.eightfold.ai/careers/join
@@ -297,7 +297,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,Caterpillar,Indústria,Site da Empresa,https://careers.caterpillar.com
 1,2026-02-20,CBA Alumínio,Indústria,Gupy,https://cba.gupy.io
 1,2026-02-19,CCR,Serviços e Outros,Gupy,https://motiva.gupy.io
-1,2026-02-19,CD Projekt Red,Serviços e Outros,Site da Empresa,https://www.cdprojektred.com/en/jobs
+1,2026-02-19,CD Projekt Red,Serviços e Outros,SmartRecruiters,https://careers.smartrecruiters.com/CDPROJEKTRED
 1,2026-05-21,Cebrace,Indústria,Gupy,https://cebrace.gupy.io
 1,2026-02-19,Ceg (Naturgy),Serviços e Outros,Gupy,https://carreiras.gupy.io/cegnaturgy
 1,2026-02-19,Celcoin,Financeiro,InHire,https://celcoin.inhire.app/vagas
@@ -381,7 +381,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Cora,Financeiro,InHire,https://cora.inhire.app/vagas
 1,2026-02-19,Corel,Tecnologia,Site da Empresa,https://www.corel.com/en/careers
 1,2026-05-20,Correios,Logística e Mobilidade,Gupy,https://carreiras.gupy.io/correios
-1,2026-07-18,Corteva,Agro e Alimentos,Site da Empresa,https://careers.corteva.com
+1,2026-07-18,Corteva,Agro e Alimentos,Eightfold,https://corteva.eightfold.ai/careers
 1,2025-01-20,Cortex,Tecnologia,Gupy,https://cortex.gupy.io
 1,2026-02-19,Cosan,Serviços e Outros,Gupy,https://cosan.gupy.io
 1,2026-02-19,Coursera,Educação,Site da Empresa,https://about.coursera.org/careers
@@ -461,7 +461,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2024-09-01,DRUID Creative Gaming,Serviços e Outros,Gupy,https://druid.gupy.io
 1,2026-07-18,DSV,Logística e Mobilidade,Site da Empresa,https://www.dsv.com/careers
 1,2025-01-23,DuckDuckGo,Tecnologia,Ashby,https://jobs.ashbyhq.com/duck-duck-go
-1,2026-02-19,Duolingo,Educação,Site da Empresa,https://careers.duolingo.com
+1,2026-02-19,Duolingo,Educação,Greenhouse,https://boards.greenhouse.io/duolingo
 1,2026-07-18,DXC,Tecnologia,Workday,https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs
 1,2026-07-18,Dynatrace,Tecnologia,Site da Empresa,https://careers.dynatrace.com
 1,2026-02-19,EA (Electronic Arts),Serviços e Outros,Site da Empresa,https://www.ea.com/careers
@@ -538,7 +538,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2022-03-27,FGV - Fundação Getulio Vargas,Educação,Manual,https://portal.fgv.br/trabalhe-conosco
 1,2025-03-18,FIAP,Educação,InHire,https://alun.inhire.app/vagas
 1,2025-01-15,Figma,Tecnologia,Greenhouse,https://boards.greenhouse.io/figma
-1,2026-07-18,Fivetran,Tecnologia,Site da Empresa,https://www.fivetran.com/careers
+1,2026-07-18,Fivetran,Tecnologia,Greenhouse,https://boards.greenhouse.io/fivetran
 1,2025-01-20,Flash,Tecnologia,InHire,https://flash.inhire.app/vagas
 1,2026-06-06,Flash Benefícios,Tecnologia,Lever,https://jobs.lever.co/flashapp
 1,2025-01-23,Fleury,Saúde,Gupy,https://carreiras.gupy.io/fleury
@@ -1263,7 +1263,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,Takeda,Saúde,Site da Empresa,https://www.takedajobs.com
 0,2026-07-18,Tapps Games,Mídia e Entretenimento,Gupy,https://tappsgames.gupy.io
 1,2026-07-18,Tata Consultancy Services (TCS),Tecnologia,Site da Empresa,https://www.tcs.com/careers
-1,2024-09-01,Team Liquid,Serviços e Outros,Plataforma Interna,https://careers.teamliquid.com/#jobs
+1,2024-09-01,Team Liquid,Serviços e Outros,Teamtailor,https://teamliquid.teamtailor.com
 1,2026-07-18,TecBan,Financeiro,Gupy,https://tecban.gupy.io
 1,2026-02-19,Tecnisa,Serviços e Outros,Gupy,https://tecnisa.gupy.io
 1,2026-02-19,Tegma,Serviços e Outros,Gupy,https://tegma.gupy.io
