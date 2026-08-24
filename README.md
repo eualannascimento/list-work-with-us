@@ -58,7 +58,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Accenture](https://accenture.wd103.myworkdayjobs.com/AccentureCareers) | Serviços e Outros | Workday |
 | [Accona](https://www.acciona.com.br/trabalhe-conosco) | Serviços e Outros | Site da Empresa |
 | [Accor](https://careers.accor.com) | Serviços e Outros | Site da Empresa |
-| [Acer](https://career10.successfactors.com/career?company=acerincorp) | Serviços e Outros | SAP SuccessFactors |
+| [Acer](https://career10.successfactors.com/career?company=acerincorp) | Serviços e Outros | SuccessFactors RCM |
 | [Aché](https://vagasache.gupy.io) | Saúde | Gupy |
 | [Activision Blizzard](https://careers.activisionblizzard.com) | Serviços e Outros | Site da Empresa |
 | [Adama](https://adama.gupy.io) | Serviços e Outros | Gupy |
@@ -126,7 +126,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Americanas S.A.](https://americanas.gupy.io) | Serviços e Outros | Gupy |
 | [Amex](https://www.americanexpress.com/en-us/careers) | Financeiro | Site da Empresa |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/Careers) | Saúde | Workday |
-| [Amil](https://career19.sapsf.com/careers?company=amilassist) | Saúde | SAP SuccessFactors |
+| [Amil](https://career19.sapsf.com/careers?company=amilassist) | Saúde | SuccessFactors RCM |
 | [Analytics](https://carreiras.gupy.io/analytics) | Tecnologia | Gupy |
 | [Analytics-ss](https://carreiras.gupy.io/analyticsss) | Tecnologia | Gupy |
 | [ANBIMA](https://anbima.gupy.io) | Financeiro | Gupy |
@@ -220,7 +220,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [banQi](https://banqi.gupy.io) | Financeiro | Gupy |
 | [Banrisul](https://www.banrisul.com.br/bob/concursos) | Financeiro | Site da Empresa |
 | [Barte](https://barte.gupy.io) | Financeiro | Gupy |
-| [BASF](https://career5.successfactors.eu/career?company=C0000159936P) | Indústria | SuccessFactors |
+| [BASF](https://career5.successfactors.eu/career?company=C0000159936P) | Indústria | SuccessFactors RCM |
 | [Bauducco](https://bauducco.gupy.io) | Serviços e Outros | Gupy |
 | [Baxter](https://careers.baxter.com) | Saúde | Site da Empresa |
 | [Bayer](https://bayer.eightfold.ai/careers) | Saúde | Eightfold |
@@ -619,10 +619,10 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Genial Investimentos](https://genial.gupy.io) | Serviços e Outros | Gupy |
 | [Gensyn](https://boards.greenhouse.io/gensyn) | Tecnologia | Greenhouse |
 | [GEODIS](https://careers.geodis.com) | Logística e Mobilidade | Site da Empresa |
-| [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) | Indústria | SAP SuccessFactors |
+| [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) | Indústria | SuccessFactors RCM |
 | [Geru](https://carreiras.gupy.io/geru) | Financeiro | Gupy |
 | [Getnet](https://vagasgetnet.gupy.io) | Financeiro | Gupy |
-| [GFT Tecnologia](https://career5.successfactors.eu/careers?company=gfttechnol) | Serviços e Outros | SAP SuccessFactors |
+| [GFT Tecnologia](https://career5.successfactors.eu/careers?company=gfttechnol) | Serviços e Outros | SuccessFactors RCM |
 | [Gi Group](https://gigroup.gupy.io) | Serviços e Outros | Gupy |
 | [Gigster](https://virtasant.teamtailor.com/jobs.json) | Tecnologia | Teamtailor |
 | [Giross](https://carreiras.gupy.io/giross) | Serviços e Outros | Gupy |
@@ -722,7 +722,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Hospital Moinhos de Vento](https://hospitalmoinhos.gupy.io) | Saúde | Gupy |
 | [Hospital Oswaldo Cruz](https://hospitaloswaldocruz.gupy.io) | Saúde | Gupy |
 | [Hospital São Lucas](https://hospitalsaolucas.gupy.io) | Saúde | Gupy |
-| [Hospital Sírio-Libanês](https://career19.sapsf.com/careers?company=sociedad02) | Saúde | SAP SuccessFactors |
+| [Hospital Sírio-Libanês](https://career19.sapsf.com/careers?company=sociedad02) | Saúde | SuccessFactors RCM |
 | [Hotmart](https://boards.eu.greenhouse.io/hotmartcareersbr) | Tecnologia | Greenhouse |
 | [HP Inc.](https://jobs.hp.com) | Tecnologia | Site da Empresa |
 | [HPE](https://hpe.gupy.io) | Tecnologia | Gupy |
@@ -1250,7 +1250,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Sólides](https://vagas.solides.com.br) | Tecnologia | Sólides |
 | [Solvi](https://solvi.gupy.io) | Serviços e Outros | Gupy |
 | [Sompo Seguros](https://carreiras.gupy.io/somposeguros) | Financeiro | Gupy |
-| [SONDA](https://career8.successfactors.com/career?company=SONDAP) | Tecnologia | SAP SuccessFactors |
+| [SONDA](https://career8.successfactors.com/career?company=SONDAP) | Tecnologia | SuccessFactors RCM |
 | [Sonda Supermercados](https://sonda.gupy.io) | Varejo e Consumo | Gupy |
 | [Sony Global](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers) | Serviços e Outros | Workday |
 | [Sony Interactive Entertainment Global](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal) | Financeiro | Greenhouse |
@@ -1271,7 +1271,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Stark Bank](https://stark.gupy.io) | Financeiro | Gupy |
 | [Statkraft](https://www.statkraft.com/careers) | Energia e Utilities | Site da Empresa |
 | [Stefanini](https://stefanini.gupy.io) | Tecnologia | Gupy |
-| [Stellantis](https://careers.stellantis.com) | Indústria | SuccessFactors |
+| [Stellantis](https://careers.stellantis.com) | Indústria | Phenom |
 | [Stone](https://stone.gupy.io) | Financeiro | Gupy |
 | [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers) | Saúde | Workday |
 | [SulAmérica](https://carreiras.gupy.io/sulamerica) | Financeiro | Gupy |
@@ -1434,7 +1434,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Volkswagen do Brasil](https://vwbrasil.gupy.io) | Indústria | Gupy |
 | [Volvo](https://www.volvogroup.com/en/careers.html) | Indústria | Site da Empresa |
 | [Volvo Brasil](https://jobs.volvogroup.com) | Indústria | Site da Empresa |
-| [Volvo Infor](https://career55.sapsf.eu/careers?company=volvoinfor) | Indústria | SAP SuccessFactors |
+| [Volvo Infor](https://career55.sapsf.eu/careers?company=volvoinfor) | Indústria | SuccessFactors RCM |
 | [Vórtx](https://vortx.gupy.io) | Financeiro | Gupy |
 | [Votorantim Cimentos](https://votorantimcimentos.gupy.io) | Indústria | Gupy |
 | [Votorantim S.A.](https://carreiras.gupy.io/votorantimsa) | Financeiro | Gupy |
@@ -1479,7 +1479,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Zenir](https://zenir.gupy.io) | Serviços e Outros | Gupy |
 | [Zenklub](https://zenklub.gupy.io) | Saúde | Gupy |
 | [Zenvia](https://zenvia.gupy.io) | Tecnologia | Gupy |
-| [ZF Friedrich](https://career5.successfactors.eu/careers?company=zffriedric) | Indústria | SAP SuccessFactors |
+| [ZF Friedrich](https://career5.successfactors.eu/careers?company=zffriedric) | Indústria | SuccessFactors RCM |
 | [Zippi](https://zippi.gupy.io) | Financeiro | Gupy |
 | [Zoetis](https://zoetis.wd5.myworkdayjobs.com/zoetis) | Saúde | Workday |
 | [Zoho](https://www.zoho.com/careers) | Tecnologia | Site da Empresa |
