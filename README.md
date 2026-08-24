@@ -628,7 +628,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [FIAP](https://alun.inhire.app/vagas) | Educação | InHire |
 | [Figma](https://boards.greenhouse.io/figma) | Tecnologia | Greenhouse |
 | [Fiserv](https://www.fiserv.com.br/pt-br/carreiras) | Financeiro | Workday |
-| [FitBank](https://fitbank.vagas.solides.com.br) | Financeiro | Sólides |
+| [FitBank](https://www.fits.cash) | Financeiro | Site da Empresa |
 | [Fitch Ratings](https://careers.fitch.group/search/?q=) | Financeiro | SuccessFactors |
 | [FITec labs](https://fitec.gupy.io) | Tecnologia | Gupy |
 | [Fivetran](https://boards.greenhouse.io/fivetran) | Tecnologia | Greenhouse |
