@@ -259,7 +259,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Bourbon Hospitalidade,Mídia e Entretenimento,PandaPé,https://bourbon.pandape.infojobs.com.br
 1,2026-02-19,Box Delivery,Logística e Mobilidade,Gupy,https://carreiras.gupy.io/boxdelivery
 1,2026-07-18,BP,Energia e Utilities,Site da Empresa,https://www.bp.com/careers
-1,2026-07-18,BP-Beneficência Portuguesa,Saúde,Vagas,https://trabalheconosco.vagas.com.br/beneficenciaportuguesa
+1,2026-07-18,BP-Beneficência Portuguesa,Saúde,Gupy,https://vemserbp.gupy.io
 1,2026-02-19,Bradesco,Financeiro,Site da Empresa,https://banco.bradesco/trabalheconosco
 1,2025-01-23,Bradesco Seguros,Financeiro,CSOD,https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco
 1,2026-05-21,Brainfarma,Saúde,Gupy,https://brainfarma.gupy.io
@@ -400,7 +400,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-21,Conquer,Educação,Gupy,https://conquer.gupy.io
 1,2026-06-05,Constellation,Energia e Utilities,Gupy,https://theconstellation.gupy.io
 1,2026-08-23,Construcap,Construção e Imóveis,Recrut.ai,https://construcap.jobs.recrut.ai/#openings
-1,2026-08-23,Construtora Barbosa Mello,Construção e Imóveis,Vagas,https://trabalheconosco.vagas.com.br/estagio-cbm
+1,2026-08-23,Construtora Barbosa Mello,Construção e Imóveis,Site da Empresa,https://cbmengenharia.com.br
 1,2026-02-19,Conta Azul,Serviços e Outros,InHire,https://contaazul.inhire.app/vagas
 1,2026-02-19,Conta Simples,Financeiro,Gupy,https://contasimples.gupy.io
 1,2025-01-23,Contabilizei,Financeiro,Gupy,https://carreiras.gupy.io/contabilizei
@@ -627,7 +627,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,FSG Centro Universitário,Educação,Gupy,https://fsg.gupy.io
 1,2026-08-23,FTI Consulting,Serviços e Outros,Plataforma Interna,https://fticonsult.referrals.selectminds.com/latest-jobs
 1,2025-01-23,Fundação Bradesco,Educação,CSOD,https://bradesco.csod.com/ux/ats/careersite/2/home?c=bradesco
-1,2026-08-23,Fundação Dom Cabral,Educação,Vagas,https://trabalheconosco.vagas.com.br/fdc/oportunidades
+1,2026-08-23,Fundação Dom Cabral,Educação,Gupy,https://fdc.gupy.io
 1,2026-02-19,Fundação Itaú,Financeiro,Gupy,https://fundacaoitau.gupy.io
 1,2026-02-20,Fundação Pedro Paes Mendonça,Serviços e Outros,Gupy,https://fppm.gupy.io
 1,2025-01-23,Fundação São Paulo (FUNDASP),Educação,Gupy,https://fundasp.gupy.io
@@ -638,7 +638,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2024-09-01,Gamers Club,Mídia e Entretenimento,Gupy,https://gamersclub.gupy.io
 1,2024-09-01,Garena,Serviços e Outros,Plataforma Interna,https://careers.garena.com/global/careers
 1,2026-02-19,Gazin,Serviços e Outros,Gupy,https://carreiras.gupy.io/gazin
-1,2026-02-19,GE (General Electric),Indústria,Vagas,https://trabalheconosco.vagas.com.br/ge
+1,2026-02-19,GE (General Electric),Indústria,Site da Empresa,https://www.geaerospace.com/company/careers
 1,2025-01-20,GE Aerospace,Tecnologia,Workday,https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite
 1,2026-02-19,GE Healthcare,Saúde,Phenom,https://careers.gehealthcare.com/global/en
 1,2025-01-20,GE Vernova,Tecnologia,Workday,https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite
