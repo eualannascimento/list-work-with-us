@@ -1148,7 +1148,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Nokia](https://www.nokia.com/careers) | Tecnologia | Site da Empresa |
 | [Nomad](https://nomadglobal.inhire.app/vagas) | Financeiro | InHire |
 | [Nomura](https://www.nomura.com/careers) | Financeiro | Site da Empresa |
-| [Northern Trust](https://www.northerntrust.com/careers) | Financeiro | Site da Empresa |
+| [Northern Trust](https://ntrs.wd1.myworkdayjobs.com/northerntrust) | Financeiro | Workday |
 | [Notion](https://jobs.ashbyhq.com/notion) | Tecnologia | Ashby |
 | [NovaDAX](https://carreiras.gupy.io/novadax) | Serviços e Outros | Gupy |
 | [Novartis](https://www.novartis.com/careers) | Saúde | Site da Empresa |
@@ -1335,7 +1335,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Rock Content](https://rockcontent.gupy.io) | Tecnologia | Gupy |
 | [Rocketseat](https://rocketseat.gupy.io) | Educação | Gupy |
 | [Rockstar Games](https://boards.greenhouse.io/rockstargames) | Mídia e Entretenimento | Greenhouse |
-| [Rockwell Automation](https://careers.rockwellautomation.com) | Indústria | Site da Empresa |
+| [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation) | Indústria | Workday |
 | [Roland Berger](https://careers.smartrecruiters.com/rolandberger) | Serviços e Outros | SmartRecruiters |
 | [Roldão Atacadista](https://roldao.gupy.io) | Agro e Alimentos | Gupy |
 | [Romi](https://carreiras.gupy.io/romi) | Serviços e Outros | Gupy |
