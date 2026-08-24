@@ -294,7 +294,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Bourbon Hospitalidade](https://bourbon.pandape.infojobs.com.br) | Mídia e Entretenimento | PandaPé |
 | [Box Delivery](https://carreiras.gupy.io/boxdelivery) | Logística e Mobilidade | Gupy |
 | [BP](https://www.bp.com/careers) | Energia e Utilities | Site da Empresa |
-| [BP-Beneficência Portuguesa](https://trabalheconosco.vagas.com.br/beneficenciaportuguesa) | Saúde | Vagas |
+| [BP-Beneficência Portuguesa](https://vemserbp.gupy.io) | Saúde | Gupy |
 | [Bradesco](https://banco.bradesco/trabalheconosco) | Financeiro | Site da Empresa |
 | [Bradesco Seguros](https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco) | Financeiro | CSOD |
 | [Brainfarma](https://brainfarma.gupy.io) | Saúde | Gupy |
@@ -435,7 +435,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Conquer](https://conquer.gupy.io) | Educação | Gupy |
 | [Constellation](https://theconstellation.gupy.io) | Energia e Utilities | Gupy |
 | [Construcap](https://construcap.jobs.recrut.ai/#openings) | Construção e Imóveis | Recrut.ai |
-| [Construtora Barbosa Mello](https://trabalheconosco.vagas.com.br/estagio-cbm) | Construção e Imóveis | Vagas |
+| [Construtora Barbosa Mello](https://cbmengenharia.com.br) | Construção e Imóveis | Site da Empresa |
 | [Conta Azul](https://contaazul.inhire.app/vagas) | Serviços e Outros | InHire |
 | [Conta Simples](https://contasimples.gupy.io) | Financeiro | Gupy |
 | [Contabilizei](https://carreiras.gupy.io/contabilizei) | Financeiro | Gupy |
@@ -662,7 +662,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [FSG Centro Universitário](https://fsg.gupy.io) | Educação | Gupy |
 | [FTI Consulting](https://fticonsult.referrals.selectminds.com/latest-jobs) | Serviços e Outros | Plataforma Interna |
 | [Fundação Bradesco](https://bradesco.csod.com/ux/ats/careersite/2/home?c=bradesco) | Educação | CSOD |
-| [Fundação Dom Cabral](https://trabalheconosco.vagas.com.br/fdc/oportunidades) | Educação | Vagas |
+| [Fundação Dom Cabral](https://fdc.gupy.io) | Educação | Gupy |
 | [Fundação Itaú](https://fundacaoitau.gupy.io) | Financeiro | Gupy |
 | [Fundação Pedro Paes Mendonça](https://fppm.gupy.io) | Serviços e Outros | Gupy |
 | [Fundação São Paulo (FUNDASP)](https://fundasp.gupy.io) | Educação | Gupy |
@@ -673,7 +673,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Gamers Club](https://gamersclub.gupy.io) | Mídia e Entretenimento | Gupy |
 | [Garena](https://careers.garena.com/global/careers) | Serviços e Outros | Plataforma Interna |
 | [Gazin](https://carreiras.gupy.io/gazin) | Serviços e Outros | Gupy |
-| [GE (General Electric)](https://trabalheconosco.vagas.com.br/ge) | Indústria | Vagas |
+| [GE (General Electric)](https://www.geaerospace.com/company/careers) | Indústria | Site da Empresa |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite) | Tecnologia | Workday |
 | [GE Healthcare](https://careers.gehealthcare.com/global/en) | Saúde | Phenom |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite) | Tecnologia | Workday |
