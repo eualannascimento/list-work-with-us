@@ -261,7 +261,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Bold Snacks](https://carreiras.gupy.io/boldsnacks) | Serviços e Outros | Gupy |
 | [BoldMetrics](https://job-boards.greenhouse.io/boldmetrics) | Serviços e Outros | Greenhouse |
 | [Bom pra Crédito](https://carreiras.gupy.io/bompracrdito) | Financeiro | Gupy |
-| [Booking](https://jobs.booking.com/booking/jobs) | Serviços e Outros | Plataforma Interna |
+| [Booking](https://external-workingatbooking.icims.com) | Serviços e Outros | iCIMS |
 | [Booking.com](https://jobs.booking.com) | Serviços e Outros | Site da Empresa |
 | [Bosch Group](https://careers.smartrecruiters.com/BoschGroup) | Indústria | SmartRecruiters |
 | [Boston Consulting Group](https://bcg.eightfold.ai/careers/join) | Serviços e Outros | Eightfold |
@@ -332,7 +332,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Caterpillar](https://careers.caterpillar.com) | Indústria | Site da Empresa |
 | [CBA Alumínio](https://cba.gupy.io) | Indústria | Gupy |
 | [CCR](https://motiva.gupy.io) | Serviços e Outros | Gupy |
-| [CD Projekt Red](https://www.cdprojektred.com/en/jobs) | Serviços e Outros | Site da Empresa |
+| [CD Projekt Red](https://careers.smartrecruiters.com/CDPROJEKTRED) | Serviços e Outros | SmartRecruiters |
 | [Cebrace](https://cebrace.gupy.io) | Indústria | Gupy |
 | [Ceg (Naturgy)](https://carreiras.gupy.io/cegnaturgy) | Serviços e Outros | Gupy |
 | [Celcoin](https://celcoin.inhire.app/vagas) | Financeiro | InHire |
@@ -416,7 +416,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Cora](https://cora.inhire.app/vagas) | Financeiro | InHire |
 | [Corel](https://www.corel.com/en/careers) | Tecnologia | Site da Empresa |
 | [Correios](https://carreiras.gupy.io/correios) | Logística e Mobilidade | Gupy |
-| [Corteva](https://careers.corteva.com) | Agro e Alimentos | Site da Empresa |
+| [Corteva](https://corteva.eightfold.ai/careers) | Agro e Alimentos | Eightfold |
 | [Cortex](https://cortex.gupy.io) | Tecnologia | Gupy |
 | [Cosan](https://cosan.gupy.io) | Serviços e Outros | Gupy |
 | [Coursera](https://about.coursera.org/careers) | Educação | Site da Empresa |
@@ -496,7 +496,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [DRUID Creative Gaming](https://druid.gupy.io) | Serviços e Outros | Gupy |
 | [DSV](https://www.dsv.com/careers) | Logística e Mobilidade | Site da Empresa |
 | [DuckDuckGo](https://jobs.ashbyhq.com/duck-duck-go) | Tecnologia | Ashby |
-| [Duolingo](https://careers.duolingo.com) | Educação | Site da Empresa |
+| [Duolingo](https://boards.greenhouse.io/duolingo) | Educação | Greenhouse |
 | [DXC](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs) | Tecnologia | Workday |
 | [Dynatrace](https://careers.dynatrace.com) | Tecnologia | Site da Empresa |
 | [EA (Electronic Arts)](https://www.ea.com/careers) | Serviços e Outros | Site da Empresa |
@@ -573,7 +573,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [FGV - Fundação Getulio Vargas](https://portal.fgv.br/trabalhe-conosco) | Educação | Manual |
 | [FIAP](https://alun.inhire.app/vagas) | Educação | InHire |
 | [Figma](https://boards.greenhouse.io/figma) | Tecnologia | Greenhouse |
-| [Fivetran](https://www.fivetran.com/careers) | Tecnologia | Site da Empresa |
+| [Fivetran](https://boards.greenhouse.io/fivetran) | Tecnologia | Greenhouse |
 | [Flash](https://flash.inhire.app/vagas) | Tecnologia | InHire |
 | [Flash Benefícios](https://jobs.lever.co/flashapp) | Tecnologia | Lever |
 | [Fleury](https://carreiras.gupy.io/fleury) | Saúde | Gupy |
@@ -1298,7 +1298,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Takeda](https://www.takedajobs.com) | Saúde | Site da Empresa |
 | [Tapps Games](https://tappsgames.gupy.io) | Mídia e Entretenimento | Gupy |
 | [Tata Consultancy Services (TCS)](https://www.tcs.com/careers) | Tecnologia | Site da Empresa |
-| [Team Liquid](https://careers.teamliquid.com/#jobs) | Serviços e Outros | Plataforma Interna |
+| [Team Liquid](https://teamliquid.teamtailor.com) | Serviços e Outros | Teamtailor |
 | [TecBan](https://tecban.gupy.io) | Financeiro | Gupy |
 | [Tecnisa](https://tecnisa.gupy.io) | Serviços e Outros | Gupy |
 | [Tegma](https://tegma.gupy.io) | Serviços e Outros | Gupy |
