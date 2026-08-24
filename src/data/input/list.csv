@@ -23,7 +23,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Accenture,Serviços e Outros,Workday,https://accenture.wd103.myworkdayjobs.com/AccentureCareers
 1,2026-02-19,Accona,Serviços e Outros,Site da Empresa,https://www.acciona.com.br/trabalhe-conosco
 1,2026-02-19,Accor,Serviços e Outros,Site da Empresa,https://careers.accor.com
-1,2025-01-19,Acer,Serviços e Outros,SAP SuccessFactors,https://career10.successfactors.com/career?company=acerincorp
+1,2025-01-19,Acer,Serviços e Outros,SuccessFactors RCM,https://career10.successfactors.com/career?company=acerincorp
 1,2025-01-19,Aché,Saúde,Gupy,https://vagasache.gupy.io
 1,2026-02-19,Activision Blizzard,Serviços e Outros,Site da Empresa,https://careers.activisionblizzard.com
 1,2026-05-21,Adama,Serviços e Outros,Gupy,https://adama.gupy.io
@@ -91,7 +91,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-18,Americanas S.A.,Serviços e Outros,Gupy,https://americanas.gupy.io
 1,2026-02-19,Amex,Financeiro,Site da Empresa,https://www.americanexpress.com/en-us/careers
 1,2026-07-18,Amgen,Saúde,Workday,https://amgen.wd1.myworkdayjobs.com/Careers
-1,2025-01-20,Amil,Saúde,SAP SuccessFactors,https://career19.sapsf.com/careers?company=amilassist
+1,2025-01-20,Amil,Saúde,SuccessFactors RCM,https://career19.sapsf.com/careers?company=amilassist
 1,2026-02-22,Analytics,Tecnologia,Gupy,https://carreiras.gupy.io/analytics
 1,2026-02-22,Analytics-ss,Tecnologia,Gupy,https://carreiras.gupy.io/analyticsss
 1,2022-03-27,ANBIMA,Financeiro,Gupy,https://anbima.gupy.io
@@ -185,7 +185,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,banQi,Financeiro,Gupy,https://banqi.gupy.io
 1,2026-02-19,Banrisul,Financeiro,Site da Empresa,https://www.banrisul.com.br/bob/concursos
 0,2026-07-18,Barte,Financeiro,Gupy,https://barte.gupy.io
-1,2025-01-23,BASF,Indústria,SuccessFactors,https://career5.successfactors.eu/career?company=C0000159936P
+1,2025-01-23,BASF,Indústria,SuccessFactors RCM,https://career5.successfactors.eu/career?company=C0000159936P
 1,2024-12-15,Bauducco,Serviços e Outros,Gupy,https://bauducco.gupy.io
 0,2026-07-18,Baxter,Saúde,Site da Empresa,https://careers.baxter.com
 1,2024-11-22,Bayer,Saúde,Eightfold,https://bayer.eightfold.ai/careers
@@ -584,10 +584,10 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,Genial Investimentos,Serviços e Outros,Gupy,https://genial.gupy.io
 1,2026-08-23,Gensyn,Tecnologia,Greenhouse,https://boards.greenhouse.io/gensyn
 0,2026-07-18,GEODIS,Logística e Mobilidade,Site da Empresa,https://careers.geodis.com
-1,2025-01-19,Gerdau,Indústria,SAP SuccessFactors,https://career19.sapsf.com/careers?company=gerdauacos
+1,2025-01-19,Gerdau,Indústria,SuccessFactors RCM,https://career19.sapsf.com/careers?company=gerdauacos
 1,2026-02-19,Geru,Financeiro,Gupy,https://carreiras.gupy.io/geru
 1,2026-02-19,Getnet,Financeiro,Gupy,https://vagasgetnet.gupy.io
-1,2025-04-20,GFT Tecnologia,Serviços e Outros,SAP SuccessFactors,https://career5.successfactors.eu/careers?company=gfttechnol
+1,2025-04-20,GFT Tecnologia,Serviços e Outros,SuccessFactors RCM,https://career5.successfactors.eu/careers?company=gfttechnol
 0,2026-07-18,Gi Group,Serviços e Outros,Gupy,https://gigroup.gupy.io
 1,2025-03-18,Gigster,Tecnologia,Teamtailor,https://virtasant.teamtailor.com/jobs.json
 1,2026-02-19,Giross,Serviços e Outros,Gupy,https://carreiras.gupy.io/giross
@@ -687,7 +687,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Hospital Moinhos de Vento,Saúde,Gupy,https://hospitalmoinhos.gupy.io
 1,2026-05-21,Hospital Oswaldo Cruz,Saúde,Gupy,https://hospitaloswaldocruz.gupy.io
 1,2026-05-21,Hospital São Lucas,Saúde,Gupy,https://hospitalsaolucas.gupy.io
-1,2025-01-19,Hospital Sírio-Libanês,Saúde,SAP SuccessFactors,https://career19.sapsf.com/careers?company=sociedad02
+1,2025-01-19,Hospital Sírio-Libanês,Saúde,SuccessFactors RCM,https://career19.sapsf.com/careers?company=sociedad02
 1,2023-02-26,Hotmart,Tecnologia,Greenhouse,https://boards.eu.greenhouse.io/hotmartcareersbr
 1,2026-07-18,HP Inc.,Tecnologia,Site da Empresa,https://jobs.hp.com
 1,2026-05-21,HPE,Tecnologia,Gupy,https://hpe.gupy.io
@@ -1215,7 +1215,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Sólides,Tecnologia,Sólides,https://vagas.solides.com.br
 1,2026-05-21,Solvi,Serviços e Outros,Gupy,https://solvi.gupy.io
 1,2026-05-20,Sompo Seguros,Financeiro,Gupy,https://carreiras.gupy.io/somposeguros
-1,2025-01-22,SONDA,Tecnologia,SAP SuccessFactors,https://career8.successfactors.com/career?company=SONDAP
+1,2025-01-22,SONDA,Tecnologia,SuccessFactors RCM,https://career8.successfactors.com/career?company=SONDAP
 0,2026-07-18,Sonda Supermercados,Varejo e Consumo,Gupy,https://sonda.gupy.io
 1,2025-01-19,Sony Global,Serviços e Outros,Workday,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers
 1,2025-01-19,Sony Interactive Entertainment Global,Financeiro,Greenhouse,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal
@@ -1236,7 +1236,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Stark Bank,Financeiro,Gupy,https://stark.gupy.io
 1,2026-07-18,Statkraft,Energia e Utilities,Site da Empresa,https://www.statkraft.com/careers
 1,2026-02-19,Stefanini,Tecnologia,Gupy,https://stefanini.gupy.io
-1,2026-02-19,Stellantis,Indústria,SuccessFactors,https://careers.stellantis.com
+1,2026-02-19,Stellantis,Indústria,Phenom,https://careers.stellantis.com
 1,2026-02-20,Stone,Financeiro,Gupy,https://stone.gupy.io
 1,2026-07-18,Stryker,Saúde,Workday,https://stryker.wd1.myworkdayjobs.com/StrykerCareers
 1,2026-05-20,SulAmérica,Financeiro,Gupy,https://carreiras.gupy.io/sulamerica
@@ -1399,7 +1399,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-23,Volkswagen do Brasil,Indústria,Gupy,https://vwbrasil.gupy.io
 1,2026-02-19,Volvo,Indústria,Site da Empresa,https://www.volvogroup.com/en/careers.html
 1,2026-06-06,Volvo Brasil,Indústria,Site da Empresa,https://jobs.volvogroup.com
-1,2025-03-22,Volvo Infor,Indústria,SAP SuccessFactors,https://career55.sapsf.eu/careers?company=volvoinfor
+1,2025-03-22,Volvo Infor,Indústria,SuccessFactors RCM,https://career55.sapsf.eu/careers?company=volvoinfor
 0,2026-07-18,Vórtx,Financeiro,Gupy,https://vortx.gupy.io
 1,2023-01-19,Votorantim Cimentos,Indústria,Gupy,https://votorantimcimentos.gupy.io
 1,2026-02-19,Votorantim S.A.,Financeiro,Gupy,https://carreiras.gupy.io/votorantimsa
@@ -1444,7 +1444,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Zenir,Serviços e Outros,Gupy,https://zenir.gupy.io
 0,2026-07-18,Zenklub,Saúde,Gupy,https://zenklub.gupy.io
 1,2026-05-20,Zenvia,Tecnologia,Gupy,https://zenvia.gupy.io
-1,2025-03-22,ZF Friedrich,Indústria,SAP SuccessFactors,https://career5.successfactors.eu/careers?company=zffriedric
+1,2025-03-22,ZF Friedrich,Indústria,SuccessFactors RCM,https://career5.successfactors.eu/careers?company=zffriedric
 0,2026-07-18,Zippi,Financeiro,Gupy,https://zippi.gupy.io
 1,2026-07-18,Zoetis,Saúde,Workday,https://zoetis.wd5.myworkdayjobs.com/zoetis
 1,2026-07-18,Zoho,Tecnologia,Site da Empresa,https://www.zoho.com/careers
