@@ -338,7 +338,6 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Camargo Corrêa](https://carreiras.gupy.io/camargocorra) | Serviços e Outros | Gupy |
 | [Cambly](https://www.cambly.com/careers) | Educação | Site da Empresa |
 | [Camicado (Lojas Renner)](https://lojasrenner.gupy.io) | Varejo e Consumo | Gupy |
-| [Camil](https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=camilcombr&tenantdomain=camil.com.br) | Serviços e Outros | Sênior |
 | [Camil Alimentos](https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=camilcombr&tenantdomain=camil.com.br#!/vacancies/list) | Agro e Alimentos | Senior |
 | [Cantão](https://cantao.gupy.io) | Serviços e Outros | Gupy |
 | [Canva](https://careers.smartrecruiters.com/canva) | Tecnologia | SmartRecruiters |
@@ -1023,7 +1022,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Malwee](https://malwee.gupy.io) | Varejo e Consumo | Gupy |
 | [ManpowerGroup](https://manpowergroup.gupy.io) | Serviços e Outros | Gupy |
 | [Mapfre](https://carreiras.gupy.io/mapfre) | Financeiro | Gupy |
-| [Mapfre Brasil](https://trabalheconosco.vagas.com.br/mapfre) | Serviços e Outros | Vagas |
+| [Mapfre Brasil](https://jobs.mapfre.com) | Serviços e Outros | SuccessFactors |
 | [Maple Bear](https://maplebear.gupy.io) | Educação | Gupy |
 | [Marcopolo](https://carreiramarcopolo.gupy.io) | Indústria | Gupy |
 | [Marelli](https://jobs.marelli.com/search/?q=) | Indústria | SuccessFactors |
