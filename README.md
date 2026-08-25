@@ -933,7 +933,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Konecranes](https://careers.smartrecruiters.com/konecranes) | Indústria | SmartRecruiters |
 | [Konica Minolta Brasil](https://konicaminolta.gupy.io) | Serviços e Outros | Gupy |
 | [Kora Saúde](https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=korasaudecombr&tenantdomain=korasaude.com.br) | Saúde | Sênior |
-| [Korn Ferry](https://kornferry.tal.net/candidate/jobboard/vacancy/3) | Serviços e Outros | Taleo |
+| [Korn Ferry](https://kornferry.tal.net/candidate/jobboard/vacancy/3) | Serviços e Outros | Talentlink |
 | [Korp ERP](https://korp.gupy.io) | Tecnologia | Gupy |
 | [Kovi](https://kovi.gupy.io) | Serviços e Outros | Gupy |
 | [KPMG](https://kpmg.inhire.app/vagas) | Serviços e Outros | InHire |
@@ -947,7 +947,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Kwan](https://kwan.com/careers/#jobpost) | Tecnologia | Plataforma Interna |
 | [Kyndryl](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers) | Tecnologia | Workday |
 | [L'Oréal](https://careers.loreal.com) | Varejo e Consumo | Site da Empresa |
-| [L.E.K. Consulting](https://lek.tal.net/vx/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3) | Serviços e Outros | Taleo |
+| [L.E.K. Consulting](https://lek.tal.net/vx/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3) | Serviços e Outros | Talentlink |
 | [Lactalis](https://lactalis.gupy.io) | Agro e Alimentos | Gupy |
 | [Lalamove Brasil](https://carreiras.gupy.io/lalamovebrasil) | Serviços e Outros | Gupy |
 | [Lar Cooperativa](https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=lar&tenantdomain=lar.ind.br) | Serviços e Outros | Senior |
@@ -1426,7 +1426,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Smart Fit](https://carreiras.gupy.io/smartfit) | Serviços e Outros | Gupy |
 | [Smart Kitchens](https://carreiras.gupy.io/smartkitchens) | Serviços e Outros | Gupy |
 | [Snowflake](https://jobs.ashbyhq.com/snowflake) | Tecnologia | Ashby |
-| [Société Générale](https://careers.societegenerale.com/en) | Financeiro | Taleo |
+| [Société Générale](https://socgen.taleo.net/careersection/sgcareers/jobsearch.ftl) | Financeiro | Taleo |
 | [Sode](https://carreiras.gupy.io/sode) | Serviços e Outros | Gupy |
 | [Sodexo](https://sodexobeneficios.gupy.io) | Serviços e Outros | Gupy |
 | [Sodexo (Pluxee Brasil)](https://carreiras.gupy.io/sodexopluxeebrasil) | Serviços e Outros | Gupy |
