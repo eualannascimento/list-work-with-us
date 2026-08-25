@@ -1426,7 +1426,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Smart Fit](https://carreiras.gupy.io/smartfit) | Serviços e Outros | Gupy |
 | [Smart Kitchens](https://carreiras.gupy.io/smartkitchens) | Serviços e Outros | Gupy |
 | [Snowflake](https://jobs.ashbyhq.com/snowflake) | Tecnologia | Ashby |
-| [Société Générale](https://socgen.taleo.net/careersection/sgcareers/jobsearch.ftl) | Financeiro | Taleo |
+| [Société Générale](https://careers.societegenerale.com) | Financeiro | GenericSitemap |
 | [Sode](https://carreiras.gupy.io/sode) | Serviços e Outros | Gupy |
 | [Sodexo](https://sodexobeneficios.gupy.io) | Serviços e Outros | Gupy |
 | [Sodexo (Pluxee Brasil)](https://carreiras.gupy.io/sodexopluxeebrasil) | Serviços e Outros | Gupy |
