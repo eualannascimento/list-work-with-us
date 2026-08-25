@@ -25,7 +25,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Accor,Serviços e Outros,SmartRecruiters,https://careers.smartrecruiters.com/accor
 1,2025-01-19,Acer,Serviços e Outros,SuccessFactors,https://careers.acer.com
 1,2025-01-19,Aché,Saúde,Gupy,https://vagasache.gupy.io
-1,2026-02-19,Activision Blizzard,Serviços e Outros,Site da Empresa,https://careers.activisionblizzard.com
+1,2026-02-19,Activision Blizzard,Serviços e Outros,GenericSitemap,https://careers.activisionblizzard.com
 1,2026-05-21,Adama,Serviços e Outros,Gupy,https://adama.gupy.io
 1,2026-05-21,Adecco,Serviços e Outros,Gupy,https://adecco.gupy.io
 0,2026-07-18,Adecoagro,Agro e Alimentos,Gupy,https://adecoagro.gupy.io
@@ -1156,7 +1156,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-21,Opportunity,Financeiro,Gupy,https://opportunity.gupy.io
 1,2026-02-19,Oracle,Tecnologia,Site da Empresa,https://www.oracle.com/careers
 1,2026-02-19,Órama Investimentos,Serviços e Outros,Gupy,https://carreiras.gupy.io/ramainvestimentos
-1,2026-08-23,Orange Business,Tecnologia,Plataforma Interna,https://careers-orange.icims.com/jobs/intro?mobile=true&needsRedirect=false
+1,2026-08-23,Orange Business,Tecnologia,GenericSitemap,https://careers-orange.icims.com
 1,2026-07-18,Organon,Saúde,Site da Empresa,https://www.organon.com/careers
 1,2026-02-19,Orizon,Serviços e Outros,Gupy,https://orizon.gupy.io
 1,2026-08-23,Otis Brasil,Indústria,Plataforma Interna,https://www.otis.com/pt/br/carreiras
