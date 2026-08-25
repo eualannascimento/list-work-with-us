@@ -60,7 +60,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Accor](https://careers.smartrecruiters.com/accor) | Serviços e Outros | SmartRecruiters |
 | [Acer](https://careers.acer.com) | Serviços e Outros | SuccessFactors |
 | [Aché](https://vagasache.gupy.io) | Saúde | Gupy |
-| [Activision Blizzard](https://careers.activisionblizzard.com) | Serviços e Outros | Site da Empresa |
+| [Activision Blizzard](https://careers.activisionblizzard.com) | Serviços e Outros | GenericSitemap |
 | [Adama](https://adama.gupy.io) | Serviços e Outros | Gupy |
 | [Adecco](https://adecco.gupy.io) | Serviços e Outros | Gupy |
 | [Adecoagro](https://adecoagro.gupy.io) | Agro e Alimentos | Gupy |
@@ -1191,7 +1191,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Opportunity](https://opportunity.gupy.io) | Financeiro | Gupy |
 | [Oracle](https://www.oracle.com/careers) | Tecnologia | Site da Empresa |
 | [Órama Investimentos](https://carreiras.gupy.io/ramainvestimentos) | Serviços e Outros | Gupy |
-| [Orange Business](https://careers-orange.icims.com/jobs/intro?mobile=true&needsRedirect=false) | Tecnologia | Plataforma Interna |
+| [Orange Business](https://careers-orange.icims.com) | Tecnologia | GenericSitemap |
 | [Organon](https://www.organon.com/careers) | Saúde | Site da Empresa |
 | [Orizon](https://orizon.gupy.io) | Serviços e Outros | Gupy |
 | [Otis Brasil](https://www.otis.com/pt/br/carreiras) | Indústria | Plataforma Interna |
