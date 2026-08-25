@@ -58,7 +58,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Accenture](https://accenture.wd103.myworkdayjobs.com/AccentureCareers) | Serviços e Outros | Workday |
 | [Accona](https://www.acciona.com.br/trabalhe-conosco) | Serviços e Outros | Site da Empresa |
 | [Accor](https://careers.smartrecruiters.com/accor) | Serviços e Outros | SmartRecruiters |
-| [Acer](https://career10.successfactors.com/career?company=acerincorp) | Serviços e Outros | SuccessFactors RCM |
+| [Acer](https://careers.acer.com) | Serviços e Outros | SuccessFactors |
 | [Aché](https://vagasache.gupy.io) | Saúde | Gupy |
 | [Activision Blizzard](https://careers.activisionblizzard.com) | Serviços e Outros | Site da Empresa |
 | [Adama](https://adama.gupy.io) | Serviços e Outros | Gupy |
@@ -236,7 +236,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [banQi](https://banqi.gupy.io) | Financeiro | Gupy |
 | [Banrisul](https://www.banrisul.com.br/bob/concursos) | Financeiro | Site da Empresa |
 | [Barte](https://barte.gupy.io) | Financeiro | Gupy |
-| [BASF](https://career5.successfactors.eu/career?company=C0000159936P) | Indústria | SuccessFactors RCM |
+| [BASF](https://basf.jobs) | Indústria | GenericSitemap |
 | [Bauducco](https://bauducco.gupy.io) | Serviços e Outros | Gupy |
 | [Baxter](https://careers.baxter.com) | Saúde | Site da Empresa |
 | [Bayer](https://bayer.eightfold.ai/careers) | Saúde | Eightfold |
@@ -683,10 +683,10 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Genial Investimentos](https://genial.gupy.io) | Serviços e Outros | Gupy |
 | [Gensyn](https://boards.greenhouse.io/gensyn) | Tecnologia | Greenhouse |
 | [GEODIS](https://careers.geodis.com) | Logística e Mobilidade | Site da Empresa |
-| [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) | Indústria | SuccessFactors RCM |
+| [Gerdau](https://jobs.gerdau.com) | Indústria | SuccessFactors |
 | [Geru](https://carreiras.gupy.io/geru) | Financeiro | Gupy |
 | [Getnet](https://vagasgetnet.gupy.io) | Financeiro | Gupy |
-| [GFT Tecnologia](https://career5.successfactors.eu/careers?company=gfttechnol) | Serviços e Outros | SuccessFactors RCM |
+| [GFT Tecnologia](https://jobs.gft.com) | Serviços e Outros | SuccessFactors |
 | [Gi Group](https://gigroup.gupy.io) | Serviços e Outros | Gupy |
 | [Gigster](https://virtasant.teamtailor.com/jobs.json) | Tecnologia | Teamtailor |
 | [Giraffas](https://giraffasadministradoradefranquiasa.pandape.infojobs.com.br) | Mídia e Entretenimento | PandaPé |
@@ -1713,7 +1713,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Zenir](https://zenir.gupy.io) | Serviços e Outros | Gupy |
 | [Zenklub](https://zenklub.gupy.io) | Saúde | Gupy |
 | [Zenvia](https://zenvia.gupy.io) | Tecnologia | Gupy |
-| [ZF Friedrich](https://career5.successfactors.eu/careers?company=zffriedric) | Indústria | SuccessFactors RCM |
+| [ZF Friedrich](https://jobs.zf.com) | Indústria | SuccessFactors |
 | [Zinzane](https://www.zinzaneonline.com.br/trabalhe.php) | Varejo e Consumo | Site da Empresa |
 | [Zippi](https://zippi.gupy.io) | Financeiro | Gupy |
 | [Zoetis](https://zoetis.wd5.myworkdayjobs.com/zoetis) | Saúde | Workday |
