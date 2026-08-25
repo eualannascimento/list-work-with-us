@@ -336,7 +336,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,Cerc,Financeiro,InHire,https://cerc.inhire.app/vagas
 1,2026-07-18,CESAR,Tecnologia,Gupy,https://cesar.gupy.io
 1,2026-07-18,CEVA Logistics,Logística e Mobilidade,Site da Empresa,https://www.cevalogistics.com/careers
-1,2026-08-23,CGI Software,Serviços e Outros,Site da Empresa,https://site.webcgi.com.br/carreiras
+0,2026-08-23,CGI Software,Serviços e Outros,Site da Empresa,https://site.webcgi.com.br/carreiras
 1,2026-08-23,ChartHop,Tecnologia,Ashby,https://jobs.ashbyhq.com/charthop
 1,2026-02-19,Cheftime,Serviços e Outros,Gupy,https://carreiras.gupy.io/cheftime
 1,2026-06-05,Chiesi,Saúde,Site da Empresa,https://www.chiesi.com.br/carreiras
@@ -1587,7 +1587,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Vamos,Serviços e Outros,Gupy,https://vamos.gupy.io
 1,2026-02-19,Vasta Educação,Educação,Gupy,https://carreiras.gupy.io/vastaeducao
 1,2026-08-23,Veeam,Tecnologia,GenericSitemap,https://careers.veeam.com
-1,2025-03-18,Veeva,Tecnologia,Lever,https://jobs.lever.co/veeva
+0,2025-03-18,Veeva,Tecnologia,Lever,https://jobs.lever.co/veeva
 1,2026-02-20,Veirano Advogados,Serviços e Outros,Gupy,https://veirano.gupy.io
 1,2023-09-17,Veloe,Financeiro,Gupy,https://carreiras.gupy.io/veloe
 0,2026-07-18,Venturus,Tecnologia,Gupy,https://venturus.gupy.io

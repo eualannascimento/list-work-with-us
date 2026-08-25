@@ -1221,7 +1221,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Paypal](https://paypal.eightfold.ai/careers) | Financeiro | Eightfold |
 | [Pearson](https://www.pearson.com/careers) | Educação | Site da Empresa |
 | [PEBMED](https://pebmed.gupy.io) | Saúde | Gupy |
-| [PepsiCo](https://www.pepsicojobs.com/main) | Serviços e Outros | Kenexa |
+| [PepsiCo](https://pepsico.eightfold.ai/careers) | Serviços e Outros | Eightfold |
 | [PepsiCo Brasil](https://www.pepsicojobs.com) | Agro e Alimentos | Site da Empresa |
 | [Pernambucanas](https://vemprafamilia-pernambucanas.cliqx.com.br) | Serviços e Outros | CLIQQ |
 | [Pernod Ricard Brasil](https://pernodricardbrasil.gupy.io) | Serviços e Outros | Gupy |
