@@ -64,7 +64,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,Alcoa,Indústria,Workday,https://alcoa.wd5.myworkdayjobs.com/Careers
 1,2026-02-19,Alelo,Financeiro,InHire,https://alelo.inhire.app/vagas
 1,2026-02-20,Algar Tech Br,Tecnologia,Gupy,https://algar.gupy.io
-1,2026-08-23,Algar Telecom,Energia e Utilities,Gupy,https://carreiras.gupy.io/algar
+1,2026-08-23,Algar Telecom,Energia e Utilities,Gupy,https://algar.gupy.io
 1,2026-02-19,Alibaba,Serviços e Outros,Site da Empresa,https://talent.alibaba.com
 1,2025-01-19,Alice,Tecnologia,InHire,https://alice.inhire.app/vagas
 1,2026-08-23,AlixPartners,Serviços e Outros,Greenhouse,https://boards.greenhouse.io/alixpartners
@@ -73,7 +73,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Alliar,Serviços e Outros,Gupy,https://carreiras.gupy.io/alliar
 1,2026-02-19,Allied,Serviços e Outros,PandaPe,https://allied.pandape.infojobs.com.br
 1,2026-02-20,Alloha Fibra,Serviços e Outros,Gupy,https://allohafibra.gupy.io
-1,2026-02-19,Allos,Serviços e Outros,Gupy,https://carreiras.gupy.io/allos
+1,2026-02-19,Allos,Serviços e Outros,Gupy,https://carreirasallos.gupy.io
 1,2026-02-19,Alpargatas,Indústria,Gupy,https://alpargatas.gupy.io
 1,2026-05-20,Alphaville,Financeiro,Gupy,https://alphaville.gupy.io
 1,2026-08-23,Alstom,Indústria,SuccessFactors,https://jobsearch.alstom.com/search/?q=
@@ -354,7 +354,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,CLAMED,Saúde,Gupy,https://clamed.gupy.io
 1,2026-07-18,Clara,Financeiro,Greenhouse,https://job-boards.greenhouse.io/clara
 1,2026-08-23,Claranet,Tecnologia,Gupy,https://claranet.gupy.io
-1,2026-05-20,Claro Brasil,Energia e Utilities,Gupy,https://carreiras.gupy.io/claro
+1,2026-05-20,Claro Brasil,Energia e Utilities,Gupy,https://vempraclaro.gupy.io
 1,2023-02-26,ClearSale,Tecnologia,Gupy,https://clearsale.gupy.io
 1,2026-02-19,Click Entregas,Logística e Mobilidade,Gupy,https://carreiras.gupy.io/clickentregas
 1,2026-05-21,ClickSign,Tecnologia,Gupy,https://clicksign.gupy.io
@@ -681,7 +681,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Granero,Serviços e Outros,Gupy,https://carreiras.gupy.io/granero
 0,2026-07-18,Grant Thornton,Serviços e Outros,Gupy,https://grantthornton.gupy.io
 1,2025-01-19,Greenhouse,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/greenhouse
-1,2026-02-19,Grendene,Indústria,Gupy,https://carreiras.gupy.io/grendene
+1,2026-02-19,Grendene,Indústria,Gupy,https://facapartegrendene.gupy.io
 1,2026-07-18,Grifols,Saúde,Site da Empresa,https://www.grifols.com/careers
 1,2026-02-19,Gringo,Serviços e Outros,Site da Empresa,https://gringo.com.vc/carreiras
 1,2026-08-23,Grupo Abril,Mídia e Entretenimento,Sólides,https://talentosabril.vagas.solides.com.br
@@ -1147,7 +1147,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Omelete Company,Mídia e Entretenimento,Vagas,https://trabalheconosco.vagas.com.br/omelete-company
 1,2026-02-19,Omie,Tecnologia,Gupy,https://carreirasomie.gupy.io
 1,2026-08-23,Omint,Saúde,Gupy,https://omint.gupy.io
-1,2026-05-20,Omni,Financeiro,Gupy,https://carreiras.gupy.io/omni
+1,2026-05-20,Omni,Financeiro,Gupy,https://vemseromni.gupy.io
 1,2026-02-19,Oncoclínicas,Saúde,Gupy,https://carreiras.gupy.io/oncoclnicas
 1,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
 1,2026-02-19,Open Co,Financeiro,Gupy,https://carreiras.gupy.io/openco
@@ -1312,7 +1312,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Runrun.it,Tecnologia,Gupy,https://runrunit.gupy.io
 1,2025-03-18,Ryanair,Serviços e Outros,SuccessFactors,https://jobs.ryanair.com/search/?q=
 1,2026-08-23,Sabará Hospital Infantil,Saúde,Gupy,https://sabarahospitalinfantil.gupy.io
-1,2026-02-19,Sabesp,Serviços e Outros,Gupy,https://carreiras.gupy.io/sabesp
+1,2026-02-19,Sabesp,Serviços e Outros,Gupy,https://vemprasabesp.gupy.io
 1,2026-08-23,Sacyr,Construção e Imóveis,Teamtailor,https://sacyr.teamtailor.com
 1,2023-07-05,Safra,Financeiro,Gupy,https://venhasersafra.gupy.io
 1,2026-08-23,SailPoint,Tecnologia,Workday,https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/remote-brazil/customer-success-manager_r012948-1
@@ -1672,7 +1672,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,"You,inc",Construção e Imóveis,Site da Empresa,https://www.youinc.com.br/trabalhe-conosco
 1,2026-05-20,Youcom,Varejo e Consumo,Gupy,https://youcom.gupy.io
 1,2025-01-19,Youse,Financeiro,Gupy,https://vagas-youse.gupy.io
-1,2026-02-20,Zaffari,Serviços e Outros,Gupy,https://carreiras.gupy.io/zaffari
+1,2026-02-20,Zaffari,Serviços e Outros,Gupy,https://grupozaffari.gupy.io
 1,2026-02-19,Zé Delivery,Logística e Mobilidade,Gupy,https://carreiras.gupy.io/zedelivery
 1,2026-02-19,Zendesk,Tecnologia,Site da Empresa,https://www.zendesk.com.br/company/careers
 1,2026-02-20,Zenir,Serviços e Outros,Gupy,https://zenir.gupy.io
