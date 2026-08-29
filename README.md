@@ -188,7 +188,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [B. Braun](https://www.bbraun.com/careers) | Saúde | Site da Empresa |
 | [B3](https://carreiras.gupy.io/b3) | Financeiro | Gupy |
 | [Bacardi](https://www.bacardilimited.com/careers) | Agro e Alimentos | Site da Empresa |
-| [Bacio di Latte](https://baciodilatte.infojobs.com.br) | Serviços e Outros | InfoJobs |
+| [Bacio di Latte](https://baciodilatte.pandape.infojobs.com.br) | Serviços e Outros | PandaPé |
 | [Bahema Educação](https://carreiras.gupy.io/bahemaeducao) | Educação | Gupy |
 | [Bain & Company](https://www.bain.com/careers) | Serviços e Outros | Site da Empresa |
 | [BairesDev](https://www.bairesdev.com/careers) | Tecnologia | Site da Empresa |

@@ -334,7 +334,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,Cerc,Financeiro,InHire,https://cerc.inhire.app/vagas
 1,2026-07-18,CESAR,Tecnologia,Gupy,https://cesar.gupy.io
 1,2026-07-18,CEVA Logistics,Logística e Mobilidade,Site da Empresa,https://www.cevalogistics.com/careers
-1,2026-08-23,CGI Software,Serviços e Outros,Site da Empresa,https://site.webcgi.com.br/carreiras
+0,2026-08-23,CGI Software,Serviços e Outros,Site da Empresa,https://site.webcgi.com.br/carreiras
 1,2026-08-23,ChartHop,Tecnologia,Ashby,https://jobs.ashbyhq.com/charthop
 1,2026-02-19,Cheftime,Serviços e Outros,Gupy,https://carreiras.gupy.io/cheftime
 1,2026-06-05,Chiesi,Saúde,Site da Empresa,https://www.chiesi.com.br/carreiras
@@ -970,7 +970,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Luxoft,Tecnologia,Plataforma Interna,https://career.luxoft.com/jobs?country%5B0%5D=Brazil&keyword=
 0,2026-05-20,LWSA,Tecnologia,Gupy,https://lwsa.gupy.io
 1,2026-02-19,M. Dias Branco,Serviços e Outros,Gupy,https://mdiasbranco.gupy.io
-0,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco
+1,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco
 1,2026-08-23,Macquarie,Financeiro,Site da Empresa,https://www.macquarie.com/careers
 1,2026-02-19,MadeiraMadeira,Serviços e Outros,Gupy,https://carreiras.gupy.io/madeiramadeira
 1,2026-02-19,Madero,Serviços e Outros,Gupy,https://carreiras.gupy.io/madero
@@ -1562,7 +1562,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,UNISAL,Educação,Site da Empresa,https://unisal.edu.br/trabalhe-conosco
 1,2026-02-19,United Airlines,Serviços e Outros,GenericSitemap,https://careers.united.com
 1,2026-08-23,Univale,Educação,Site da Empresa,https://univale.br/trabalhe-conosco
-1,2026-08-23,Univali,Educação,Site da Empresa,https://portal.univali.br/trabalhe-conosco
+0,2026-08-23,Univali,Educação,Site da Empresa,https://portal.univali.br/trabalhe-conosco
 1,2026-08-23,Univates,Educação,Site da Empresa,https://www.univates.br/trabalhe-conosco
 1,2026-07-18,Universal Music,Mídia e Entretenimento,Site da Empresa,https://www.universalmusic.com/careers
 1,2026-08-23,Universidade de Fortaleza (Unifor),Educação,Site da Empresa,https://unifor.br/trabalhe-conosco
