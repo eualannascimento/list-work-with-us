@@ -204,7 +204,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Banco Topázio](https://bancotopazio.gupy.io) | Financeiro | Gupy |
 | [Band](https://band.jobs.recrut.ai/#openings) | Serviços e Outros | Recrut.ai |
 | [Bandai Namco](https://boards.greenhouse.io/bandainamco) | Serviços e Outros | Greenhouse |
-| [Bank of America](https://origin-careers-pt1.bankofamerica.com) | Financeiro | GenericSitemap |
+| [Bank of America](https://careers.bankofamerica.com) | Financeiro | GenericSitemap |
 | [banQi](https://banqi.gupy.io) | Financeiro | Gupy |
 | [Banrisul](https://www.banrisul.com.br/bob/concursos) | Financeiro | Site da Empresa |
 | [Barte](https://barte.gupy.io) | Financeiro | Gupy |
