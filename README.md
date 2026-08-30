@@ -108,7 +108,6 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Alterdata](https://alterdata.gupy.io) | Tecnologia | Gupy |
 | [Alteryx](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers) | Tecnologia | Workday |
 | [Alupar](https://alupar.gupy.io) | Serviços e Outros | Gupy |
-| [Alura](https://alun.inhire.app/alura/vagas) | Educação | InHire |
 | [Alvarez & Marsal](https://www.alvarezandmarsal.com/careers) | Serviços e Outros | Site da Empresa |
 | [Amazon](https://www.amazon.jobs) | Tecnologia | Site da Empresa |
 | [Âmbar Energia](https://ambarenergia.gupy.io) | Energia e Utilities | Gupy |
@@ -554,7 +553,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Ferbasa](https://ferbasa.gupy.io) | Serviços e Outros | Gupy |
 | [Ferrero](https://www.ferrerocareers.com) | Serviços e Outros | Site da Empresa |
 | [FGV - Fundação Getulio Vargas](https://portal.fgv.br/trabalhe-conosco) | Educação | Manual |
-| [FIAP](https://alun.inhire.app/vagas) | Educação | InHire |
+| [FIAP](https://alun.inhire.app) | Educação | InHire |
 | [Figma](https://boards.greenhouse.io/figma) | Tecnologia | Greenhouse |
 | [Fiserv](https://www.fiserv.com.br/pt-br/carreiras) | Financeiro | Workday |
 | [FitBank](https://www.fits.cash) | Financeiro | Site da Empresa |
@@ -904,7 +903,6 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Maersk](https://maersk.teamtailor.com) | Logística e Mobilidade | Teamtailor |
 | [MAG Seguros](https://oportunidadesmagseguros.gupy.io) | Financeiro | Gupy |
 | [Magalu](https://magazineluiza.inhire.app) | Serviços e Outros | InHire |
-| [Magazine Luiza](https://magazineluiza.inhire.app/vagas) | Serviços e Outros | InHire |
 | [Mahindra Brasil](https://mahindra.gupy.io) | Indústria | Gupy |
 | [Mahle](https://www.mahle.com/careers) | Indústria | Site da Empresa |
 | [Malwee](https://malwee.gupy.io) | Varejo e Consumo | Gupy |
@@ -1133,7 +1131,6 @@ MIT. Ver [LICENSE](./LICENSE).
 | [Qualidados Engenharia](https://qualidados.gupy.io) | Serviços e Outros | Gupy |
 | [Quality Digital](https://qualitydigital.gupy.io) | Tecnologia | Gupy |
 | [Quinto Andar](https://job-boards.greenhouse.io/quintoandar) | Serviços e Outros | Greenhouse |
-| [QuintoAndar](https://boards.greenhouse.io/quintoandar) | Tecnologia | Greenhouse |
 | [QUOD](https://vempraquod.gupy.io) | Financeiro | Gupy |
 | [Rabobank](https://rabobank.wd3.myworkdayjobs.com/jobs) | Financeiro | Workday |
 | [Racional Engenharia](https://racionalengenharia50.abler.com.br) | Construção e Imóveis | Abler |
