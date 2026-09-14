@@ -251,7 +251,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,Cacau Show,Serviços e Outros,Gupy,https://cacaushow.gupy.io
 1,2026-02-19,Caffeine Army,Serviços e Outros,InHire,https://caffeinearmy.inhire.app/vagas
 1,2025-01-19,Caju,Financeiro,Gupy,https://caju.gupy.io
-0,2026-07-18,Cambly,Educação,Site da Empresa,https://www.cambly.com/careers
+1,2026-07-18,Cambly,Educação,Site da Empresa,https://www.cambly.com/careers
 1,2026-02-19,Camicado (Lojas Renner),Varejo e Consumo,Gupy,https://lojasrenner.gupy.io
 1,2025-01-23,Camil Alimentos,Agro e Alimentos,Senior,https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=camilcombr&tenantdomain=camil.com.br#!/vacancies/list
 1,2026-05-21,Cantão,Serviços e Outros,Gupy,https://cantao.gupy.io
@@ -275,7 +275,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,CD Projekt Red,Serviços e Outros,SmartRecruiters,https://careers.smartrecruiters.com/CDPROJEKTRED
 1,2026-05-21,Cebrace,Indústria,Gupy,https://cebrace.gupy.io
 1,2026-02-19,Celcoin,Financeiro,InHire,https://celcoin.inhire.app/vagas
-1,2026-05-21,Cellera Farma,Saúde,Gupy,https://cellerafarma.gupy.io
+0,2026-05-21,Cellera Farma,Saúde,Gupy,https://cellerafarma.gupy.io
 1,2026-02-19,Cemig,Serviços e Outros,Site da Empresa,https://www.cemig.com.br/carreiras
 1,2026-02-20,Cencosud Brasil,Serviços e Outros,Gupy,https://cencosudbrasil.gupy.io
 1,2023-02-26,Centauro,Serviços e Outros,Gupy,https://centaurotalentos.gupy.io
@@ -420,7 +420,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-06-05,Diageo,Serviços e Outros,Workday,https://diageo.wd3.myworkdayjobs.com/Diageo_Careers
 1,2025-03-18,Digibee,Tecnologia,Gupy,https://digibee.gupy.io
 1,2026-07-18,Digital Innovation One,Educação,Site da Empresa,https://www.dio.me
-1,2026-02-19,Direcional,Serviços e Outros,Gupy,https://direcionalengenharia.gupy.io
+0,2026-02-19,Direcional,Serviços e Outros,Gupy,https://direcionalengenharia.gupy.io
 1,2026-07-18,Disney,Mídia e Entretenimento,Site da Empresa,https://jobs.disneycareers.com
 1,2025-03-18,dLocal,Financeiro,Lever,https://jobs.lever.co/dlocal
 1,2026-08-23,DNV,Serviços e Outros,Plataforma Interna,https://www.dnv.com.br/careers
@@ -587,7 +587,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Goldman Sachs,Financeiro,Site da Empresa,https://www.goldmansachs.com/worldwide/brazil/careers
 1,2026-07-18,Goodyear,Indústria,Workday,https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers
 1,2025-01-23,Google,Tecnologia,Plataforma Interna,https://www.google.com/about/careers/applications/jobs/results
-0,2026-02-19,GoPro,Tecnologia,Site da Empresa,https://jobs.gopro.com
+1,2026-02-19,GoPro,Tecnologia,Site da Empresa,https://jobs.gopro.com
 1,2026-08-23,Governança Brasil,Serviços e Outros,Gupy,https://governancabrasil.gupy.io
 1,2025-03-18,GPA,Serviços e Outros,Gupy,https://corporacaogpa.gupy.io
 1,2026-07-18,Grafana Labs,Tecnologia,Greenhouse,https://boards.greenhouse.io/grafanalabs
@@ -863,7 +863,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Luxoft,Tecnologia,Plataforma Interna,https://career.luxoft.com/jobs?country%5B0%5D=Brazil&keyword=
 0,2026-05-20,LWSA,Tecnologia,Gupy,https://lwsa.gupy.io
 1,2026-02-19,M. Dias Branco,Serviços e Outros,Gupy,https://mdiasbranco.gupy.io
-0,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco
+1,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco
 1,2026-08-23,Macquarie,Financeiro,Site da Empresa,https://www.macquarie.com/careers
 1,2026-07-18,Maersk,Logística e Mobilidade,Teamtailor,https://maersk.teamtailor.com
 1,2026-08-23,MAG Seguros,Financeiro,Gupy,https://oportunidadesmagseguros.gupy.io
@@ -918,7 +918,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Mineirao Atacarejo,Serviços e Outros,Gupy,https://mineirao.gupy.io
 1,2026-02-19,Minerva Foods,Serviços e Outros,Gupy,https://minervafoods.gupy.io
 1,2026-07-18,Minsait (Indra),Tecnologia,SuccessFactors,https://careers.minsait.com/search/?q=
-1,2026-08-23,MIP Engenharia,Construção e Imóveis,Site da Empresa,https://mipengenharia.com.br/carreiras-e-pessoas
+0,2026-08-23,MIP Engenharia,Construção e Imóveis,Site da Empresa,https://mipengenharia.com.br/carreiras-e-pessoas
 1,2026-07-18,Miro,Tecnologia,Ashby,https://jobs.ashbyhq.com/miro
 1,2026-02-19,Mitre Realty,Serviços e Outros,Gupy,https://mitrerealty.gupy.io
 1,2026-08-23,Mizuho,Financeiro,Site da Empresa,https://www.mizuhogroup.com/careers
@@ -1133,7 +1133,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Riachuelo,Serviços e Outros,Gupy,https://riachuelo.gupy.io
 1,2026-08-23,Ricoh,Serviços e Outros,SuccessFactors,https://careers.ricoh-americalatina.com/search/?q=
 1,2026-08-23,RINA,Serviços e Outros,SuccessFactors,https://careers.rina.org/search/?q=
-0,2024-09-01,Riot Games,Mídia e Entretenimento,Greenhouse,https://boards.greenhouse.io/riotgames
+1,2024-09-01,Riot Games,Mídia e Entretenimento,Greenhouse,https://boards.greenhouse.io/riotgames
 1,2025-03-22,Rippling,Tecnologia,Plataforma Interna,https://ats.rippling.com/careers-quartile/jobs
 0,2026-05-21,Robert Half,Serviços e Outros,TeamTailor,https://roberthalf.teamtailor.com
 1,2026-08-23,Robert Walters,Serviços e Outros,Site da Empresa,https://www.robertwalters.com/careers.html
