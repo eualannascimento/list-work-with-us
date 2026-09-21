@@ -197,7 +197,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Bionexo,Saúde,InHire,https://bionexo.inhire.app/vagas
 1,2026-05-21,Biotrop,Serviços e Outros,Gupy,https://biotrop.gupy.io
 1,2026-08-23,BIP Brasil,Serviços e Outros,Gupy,https://vemprabip.gupy.io
-1,2026-02-19,Bitso,Financeiro,Greenhouse,https://boards.greenhouse.io/bitso
+0,2026-02-19,Bitso,Financeiro,Greenhouse,https://boards.greenhouse.io/bitso
 1,2026-07-18,BIX Tech,Tecnologia,InHire,https://bixtecnologia.inhire.app/vagas
 1,2026-02-19,Blackberry,Tecnologia,Workday,https://bb.wd3.myworkdayjobs.com/BlackBerry
 1,2026-08-23,BlackRock,Financeiro,GenericSitemap,https://careers.blackrock.com
@@ -265,7 +265,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Casa Di Conti,Serviços e Outros,Gupy,https://casadiconti.gupy.io
 1,2026-05-21,Casa dos Ventos,Serviços e Outros,Gupy,https://casadosventos.gupy.io
 1,2026-02-20,Casa e Video Varejo,Varejo e Consumo,Gupy,https://casaevideo.gupy.io
-1,2026-02-19,Casan,Serviços e Outros,Site da Empresa,https://www.casan.com.br/trabalhe-na-casan
+0,2026-02-19,Casan,Serviços e Outros,Site da Empresa,https://www.casan.com.br/trabalhe-na-casan
 1,2026-05-21,Cassi,Saúde,Gupy,https://cassi.gupy.io
 1,2026-02-20,Castrolanda,Serviços e Outros,Gupy,https://castrolanda.gupy.io
 1,2026-07-18,Caterpillar,Indústria,GenericSitemap,https://careers.caterpillar.com
@@ -1013,7 +1013,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Omint,Saúde,Gupy,https://omint.gupy.io
 1,2026-05-20,Omni,Financeiro,Gupy,https://vemseromni.gupy.io
 1,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
-1,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
+0,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
 1,2026-08-23,OpenText,Tecnologia,GenericSitemap,https://careers.opentext.com
 1,2026-05-21,Opportunity,Financeiro,Gupy,https://opportunity.gupy.io
 1,2026-02-19,Oracle,Tecnologia,Site da Empresa,https://www.oracle.com/careers
