@@ -256,7 +256,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-23,Camil Alimentos,Agro e Alimentos,Senior,https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=camilcombr&tenantdomain=camil.com.br#!/vacancies/list
 1,2026-05-21,Cantão,Serviços e Outros,Gupy,https://cantao.gupy.io
 1,2026-02-19,Canva,Tecnologia,SmartRecruiters,https://careers.smartrecruiters.com/canva
-1,2025-01-23,Caoa,Indústria,Gupy,https://caoa.gupy.io
+0,2025-01-23,Caoa,Indústria,Gupy,https://caoa.gupy.io
 1,2025-01-20,Capco,Serviços e Outros,Greenhouse,https://boards.greenhouse.io/capco
 1,2026-05-21,Capemisa,Financeiro,Gupy,https://capemisa.gupy.io
 1,2026-07-18,Care Plus,Saúde,PandaPe,https://careplus.pandape.infojobs.com.br
@@ -521,7 +521,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,FIAP,Educação,InHire,https://alun.inhire.app
 1,2025-01-15,Figma,Tecnologia,Greenhouse,https://boards.greenhouse.io/figma
 1,2026-08-23,Fiserv,Financeiro,Workday,https://www.fiserv.com.br/pt-br/carreiras
-1,2026-08-23,FitBank,Financeiro,Site da Empresa,https://www.fits.cash
+0,2026-08-23,FitBank,Financeiro,Site da Empresa,https://www.fits.cash
 1,2026-08-23,Fitch Ratings,Financeiro,SuccessFactors,https://careers.fitch.group/search/?q=
 1,2026-08-23,FITec labs,Tecnologia,Gupy,https://fitec.gupy.io
 1,2026-07-18,Fivetran,Tecnologia,Greenhouse,https://boards.greenhouse.io/fivetran
@@ -946,7 +946,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Moura Dubeux,Serviços e Outros,Site da Empresa,https://www.mouradubeux.com.br
 1,2025-01-19,Movida,Indústria,Gupy,https://movida.gupy.io
 0,2026-07-18,Movidesk,Tecnologia,Gupy,https://movidesk.gupy.io
-1,2026-06-05,Movile,Tecnologia,Site da Empresa,https://www.movile.com.br/carreiras
+0,2026-06-05,Movile,Tecnologia,Site da Empresa,https://www.movile.com.br/carreiras
 1,2026-08-23,MPD Engenharia,Construção e Imóveis,Gupy,https://mpdengenharia.gupy.io
 1,2026-02-19,MRS Logística,Logística e Mobilidade,Site da Empresa,https://www.mrs.com.br/carreiras
 1,2026-02-19,MRV,Serviços e Outros,Gupy,https://vagas-mrveco.gupy.io
@@ -1013,7 +1013,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Omint,Saúde,Gupy,https://omint.gupy.io
 1,2026-05-20,Omni,Financeiro,Gupy,https://vemseromni.gupy.io
 1,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
-0,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
+1,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
 1,2026-08-23,OpenText,Tecnologia,GenericSitemap,https://careers.opentext.com
 1,2026-05-21,Opportunity,Financeiro,Gupy,https://opportunity.gupy.io
 1,2026-02-19,Oracle,Tecnologia,Site da Empresa,https://www.oracle.com/careers
@@ -1133,7 +1133,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Riachuelo,Serviços e Outros,Gupy,https://riachuelo.gupy.io
 1,2026-08-23,Ricoh,Serviços e Outros,SuccessFactors,https://careers.ricoh-americalatina.com/search/?q=
 1,2026-08-23,RINA,Serviços e Outros,SuccessFactors,https://careers.rina.org/search/?q=
-1,2024-09-01,Riot Games,Mídia e Entretenimento,Greenhouse,https://boards.greenhouse.io/riotgames
+0,2024-09-01,Riot Games,Mídia e Entretenimento,Greenhouse,https://boards.greenhouse.io/riotgames
 1,2025-03-22,Rippling,Tecnologia,Plataforma Interna,https://ats.rippling.com/careers-quartile/jobs
 0,2026-05-21,Robert Half,Serviços e Outros,TeamTailor,https://roberthalf.teamtailor.com
 1,2026-08-23,Robert Walters,Serviços e Outros,Site da Empresa,https://www.robertwalters.com/careers.html
