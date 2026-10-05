@@ -188,7 +188,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Bemobi,Tecnologia,Gupy,https://bemobi.gupy.io
 1,2026-08-23,Bemol,Varejo e Consumo,Gupy,https://bemol.gupy.io
 0,2026-07-18,Bexs,Financeiro,Gupy,https://bexs.gupy.io
-0,2025-03-18,Beyond 101,Tecnologia,Site da Empresa,https://www.beyond101.com
+1,2025-03-18,Beyond 101,Tecnologia,Site da Empresa,https://www.beyond101.com
 1,2026-02-19,BHS,Tecnologia,Gupy,https://bhs.gupy.io
 0,2026-05-21,Bibi,Serviços e Outros,TeamTailor,https://bibi.teamtailor.com
 1,2026-05-21,Big Ben,Saúde,Gupy,https://bigben.gupy.io
@@ -338,7 +338,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,ConectCar,Serviços e Outros,Gupy,https://conectcar.gupy.io
 1,2026-05-21,Conexa Saúde,Saúde,Gupy,https://conexasaude.gupy.io
 1,2026-07-18,Confluent,Tecnologia,Ashby,https://jobs.ashbyhq.com/confluent
-1,2026-05-21,Conquer,Educação,Gupy,https://conquer.gupy.io
+0,2026-05-21,Conquer,Educação,Gupy,https://conquer.gupy.io
 1,2026-06-05,Constellation,Energia e Utilities,Gupy,https://theconstellation.gupy.io
 1,2026-08-23,Construcap,Construção e Imóveis,Recrut.ai,https://construcap.jobs.recrut.ai/#openings
 0,2026-08-23,Construtora Barbosa Mello,Construção e Imóveis,Site da Empresa,https://cbmengenharia.com.br
@@ -603,7 +603,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Grupo Abril,Mídia e Entretenimento,Sólides,https://talentosabril.vagas.solides.com.br
 1,2026-08-23,Grupo Avenida,Varejo e Consumo,PandaPé,https://grupoavenida.pandape.infojobs.com.br
 1,2026-08-23,Grupo Bahamas,Varejo e Consumo,Recrut.ai,https://bahamas.jobs.recrut.ai
-1,2026-02-20,Grupo Bertolini,Indústria,Gupy,https://bertolini.gupy.io
+0,2026-02-20,Grupo Bertolini,Indústria,Gupy,https://bertolini.gupy.io
 0,2026-07-18,Grupo Bimbo,Agro e Alimentos,Site da Empresa,https://grupobimbo.com/careers
 1,2026-02-19,Grupo Boticário,Serviços e Outros,Gupy,https://grupoboticario.gupy.io
 1,2026-08-23,Grupo Cacique,Agro e Alimentos,Site da Empresa,https://cacique.com.br/trabalhe-conosco
@@ -918,7 +918,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Mineirao Atacarejo,Serviços e Outros,Gupy,https://mineirao.gupy.io
 1,2026-02-19,Minerva Foods,Serviços e Outros,Gupy,https://minervafoods.gupy.io
 1,2026-07-18,Minsait (Indra),Tecnologia,SuccessFactors,https://careers.minsait.com/search/?q=
-0,2026-08-23,MIP Engenharia,Construção e Imóveis,Site da Empresa,https://mipengenharia.com.br/carreiras-e-pessoas
+1,2026-08-23,MIP Engenharia,Construção e Imóveis,Site da Empresa,https://mipengenharia.com.br/carreiras-e-pessoas
 1,2026-07-18,Miro,Tecnologia,Ashby,https://jobs.ashbyhq.com/miro
 1,2026-02-19,Mitre Realty,Serviços e Outros,Gupy,https://mitrerealty.gupy.io
 1,2026-08-23,Mizuho,Financeiro,Site da Empresa,https://www.mizuhogroup.com/careers
@@ -1130,7 +1130,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-20,Reserva,Serviços e Outros,Gupy,https://reserva.gupy.io
 1,2026-08-23,RHI Magnesita,Indústria,Plataforma Interna,https://careers.rhimagnesita.com/?locale=pt_BR
 0,2026-07-18,Ri Happy,Varejo e Consumo,Gupy,https://rihappy.gupy.io
-1,2026-02-19,Riachuelo,Serviços e Outros,Gupy,https://riachuelo.gupy.io
+0,2026-02-19,Riachuelo,Serviços e Outros,Gupy,https://riachuelo.gupy.io
 1,2026-08-23,Ricoh,Serviços e Outros,SuccessFactors,https://careers.ricoh-americalatina.com/search/?q=
 1,2026-08-23,RINA,Serviços e Outros,SuccessFactors,https://careers.rina.org/search/?q=
 0,2024-09-01,Riot Games,Mídia e Entretenimento,Greenhouse,https://boards.greenhouse.io/riotgames
@@ -1426,7 +1426,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,WAM Group,Mídia e Entretenimento,Site da Empresa,https://wam.group/trabalhe-conosco
 1,2025-01-23,Warner Bros. Discovery,Serviços e Outros,Workday,https://warnerbros.wd5.myworkdayjobs.com/global
 1,2024-09-01,webedia,Serviços e Outros,Gupy,https://webedia.gupy.io
-1,2026-02-19,Webmotors,Indústria,Gupy,https://webmotors.gupy.io
+0,2026-02-19,Webmotors,Indústria,Gupy,https://webmotors.gupy.io
 1,2026-02-19,WEG,Indústria,Gupy,https://weg.gupy.io
 1,2025-01-19,Wellhub (GymPass),Saúde,Greenhouse,https://boards.greenhouse.io/gympass
 1,2026-08-23,Western Union,Financeiro,Greenhouse,https://boards.greenhouse.io/westernunion
