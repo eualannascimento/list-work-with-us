@@ -8,7 +8,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,3R Petroleum,Energia e Utilities,Gupy,https://3rpetroleum.gupy.io
 1,2026-02-19,3tentos,Serviços e Outros,Gupy,https://3tentos.gupy.io
 1,2026-02-22,4mk,Tecnologia,Gupy,https://4mk.gupy.io
-1,2026-02-22,77sol,Tecnologia,Gupy,https://77sol.gupy.io
+0,2026-02-22,77sol,Tecnologia,Gupy,https://77sol.gupy.io
 1,2026-02-22,A3consultoria,Serviços e Outros,Gupy,https://a3consultoria.gupy.io
 0,2026-07-18,A3Data,Tecnologia,Gupy,https://a3data.gupy.io
 0,2026-07-18,a55,Financeiro,Gupy,https://a55.gupy.io
@@ -132,7 +132,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-21,Auxiliadora Predial,Serviços e Outros,Gupy,https://auxiliadorapredial.gupy.io
 1,2025-01-20,Avanade,Tecnologia,Plataforma Interna,https://www.avanade.com/pt-br/career/search-jobs
 1,2026-07-18,Avenue,Financeiro,InHire,https://avenue.inhire.app/vagas
-1,2026-08-23,AXA,Financeiro,Plataforma Interna,https://careers.axa.com/axa-entities/axa-brazil
+0,2026-08-23,AXA,Financeiro,Plataforma Interna,https://careers.axa.com/axa-entities/axa-brazil
 1,2026-08-23,Azevedo & Travassos,Construção e Imóveis,Vagas,https://trabalheconosco.vagas.com.br/azevedo-travassos
 1,2026-02-19,Azos,Financeiro,InHire,https://azos.inhire.app/vagas
 1,2026-02-19,Azul,Serviços e Outros,Gupy,https://voeazul.gupy.io
@@ -405,7 +405,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-18,DB1 Group,Tecnologia,InHire,https://db1.inhire.app/vagas
 0,2025-04-20,dbtLabs,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/dbtlabsinc
 1,2025-01-19,Decathlon,Serviços e Outros,Gupy,https://carreirasdecathlon.gupy.io
-1,2026-02-19,Delivery Much,Logística e Mobilidade,Gupy,https://deliverymuch.gupy.io
+0,2026-02-19,Delivery Much,Logística e Mobilidade,Gupy,https://deliverymuch.gupy.io
 1,2026-02-19,Dell,Tecnologia,Site da Empresa,https://jobs.dell.com/en
 1,2026-06-06,Dell Brasil,Tecnologia,OracleCloud,https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/jobs
 1,2025-01-20,Deloitte,Serviços e Outros,InHire,https://deloitte.inhire.app/vagas
@@ -512,7 +512,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Farmácias Nissei,Varejo e Consumo,Site da Empresa,https://trabalhe.nisseisa.com.br
 1,2026-08-23,Farmácias São João,Varejo e Consumo,Gupy,https://farmaciasaojoao.gupy.io
 1,2026-02-19,Fast Shop,Serviços e Outros,Gupy,https://fastshop.gupy.io
-1,2025-01-23,Federação Paulista de Futebol,Serviços e Outros,Mindsight,https://oportunidades.mindsight.com.br/fpf
+0,2025-01-23,Federação Paulista de Futebol,Serviços e Outros,Mindsight,https://oportunidades.mindsight.com.br/fpf
 1,2025-01-19,FedEx,Serviços e Outros,Workday,https://fedex.wd1.myworkdayjobs.com/FXE-EU_External
 1,2026-02-19,Feedz,Tecnologia,Site da Empresa,https://www.totvs.com/feedz
 1,2026-02-19,Ferbasa,Serviços e Outros,Gupy,https://ferbasa.gupy.io
@@ -523,7 +523,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Fiserv,Financeiro,Workday,https://www.fiserv.com.br/pt-br/carreiras
 0,2026-08-23,FitBank,Financeiro,Site da Empresa,https://www.fits.cash
 1,2026-08-23,Fitch Ratings,Financeiro,SuccessFactors,https://careers.fitch.group/search/?q=
-1,2026-08-23,FITec labs,Tecnologia,Gupy,https://fitec.gupy.io
+0,2026-08-23,FITec labs,Tecnologia,Gupy,https://fitec.gupy.io
 1,2026-07-18,Fivetran,Tecnologia,Greenhouse,https://boards.greenhouse.io/fivetran
 1,2025-01-20,Flash,Tecnologia,InHire,https://flash.inhire.app/vagas
 1,2026-06-06,Flash Benefícios,Tecnologia,Lever,https://jobs.lever.co/flashapp
@@ -918,7 +918,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Mineirao Atacarejo,Serviços e Outros,Gupy,https://mineirao.gupy.io
 1,2026-02-19,Minerva Foods,Serviços e Outros,Gupy,https://minervafoods.gupy.io
 1,2026-07-18,Minsait (Indra),Tecnologia,SuccessFactors,https://careers.minsait.com/search/?q=
-1,2026-08-23,MIP Engenharia,Construção e Imóveis,Site da Empresa,https://mipengenharia.com.br/carreiras-e-pessoas
+0,2026-08-23,MIP Engenharia,Construção e Imóveis,Site da Empresa,https://mipengenharia.com.br/carreiras-e-pessoas
 1,2026-07-18,Miro,Tecnologia,Ashby,https://jobs.ashbyhq.com/miro
 1,2026-02-19,Mitre Realty,Serviços e Outros,Gupy,https://mitrerealty.gupy.io
 1,2026-08-23,Mizuho,Financeiro,Site da Empresa,https://www.mizuhogroup.com/careers
