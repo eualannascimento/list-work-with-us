@@ -521,7 +521,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,FIAP,Educação,InHire,https://alun.inhire.app
 1,2025-01-15,Figma,Tecnologia,Greenhouse,https://boards.greenhouse.io/figma
 1,2026-08-23,Fiserv,Financeiro,Workday,https://www.fiserv.com.br/pt-br/carreiras
-0,2026-08-23,FitBank,Financeiro,Site da Empresa,https://www.fits.cash
+1,2026-08-23,FitBank,Financeiro,Site da Empresa,https://www.fits.cash
 1,2026-08-23,Fitch Ratings,Financeiro,SuccessFactors,https://careers.fitch.group/search/?q=
 0,2026-08-23,FITec labs,Tecnologia,Gupy,https://fitec.gupy.io
 1,2026-07-18,Fivetran,Tecnologia,Greenhouse,https://boards.greenhouse.io/fivetran
@@ -1122,7 +1122,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Redepharma Brasil,Serviços e Outros,Gupy,https://redepharma.gupy.io
 1,2026-08-23,RedeTV!,Mídia e Entretenimento,Sólides,https://empresaredetv.vagas.solides.com.br
 0,2026-07-18,Remessa Online,Financeiro,Gupy,https://remessaonline.gupy.io
-1,2025-03-18,Remotecom,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/remotecom
+0,2025-03-18,Remotecom,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/remotecom
 0,2026-05-21,Renault,Indústria,TeamTailor,https://renault.teamtailor.com
 1,2026-02-20,Renner Lojas Br,Varejo e Consumo,Gupy,https://renner.gupy.io
 1,2026-08-23,Repassa,Varejo e Consumo,Gupy,https://repassa.gupy.io
