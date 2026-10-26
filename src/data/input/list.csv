@@ -136,7 +136,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Azevedo & Travassos,Construção e Imóveis,Vagas,https://trabalheconosco.vagas.com.br/azevedo-travassos
 1,2026-02-19,Azos,Financeiro,InHire,https://azos.inhire.app/vagas
 1,2026-02-19,Azul,Serviços e Outros,Gupy,https://voeazul.gupy.io
-0,2026-07-18,B. Braun,Saúde,Site da Empresa,https://www.bbraun.com/careers
+1,2026-07-18,B. Braun,Saúde,Site da Empresa,https://www.bbraun.com/careers
 1,2026-07-18,Bacardi,Agro e Alimentos,Site da Empresa,https://www.bacardilimited.com/careers
 1,2026-02-19,Bacio di Latte,Serviços e Outros,PandaPé,https://baciodilatte.pandape.infojobs.com.br
 1,2026-07-18,Bain & Company,Serviços e Outros,Site da Empresa,https://www.bain.com/careers
@@ -347,7 +347,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Continental,Indústria,Site da Empresa,https://www.continental.com/careers
 1,2026-08-23,Control Risks,Serviços e Outros,Plataforma Interna,https://www.controlrisks.com/careers
 1,2026-05-21,Convenia,Tecnologia,Gupy,https://convenia.gupy.io
-1,2026-02-19,Coop,Serviços e Outros,PandaPé,https://cooperativadeconsumo.pandape.infojobs.com.br
+0,2026-02-19,Coop,Serviços e Outros,PandaPé,https://cooperativadeconsumo.pandape.infojobs.com.br
 1,2026-02-20,Coopercitrus,Serviços e Outros,Gupy,https://coopercitrus.gupy.io
 1,2026-02-19,Copacol,Serviços e Outros,Site da Empresa,https://vemsercopacol.portaldetalentos.senior.com.br/jobs
 1,2026-02-19,Copasa,Serviços e Outros,Site da Empresa,https://www.copasa.com.br/wps/portal/internet/trabalhe-na-copasa
@@ -954,7 +954,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-07-19,MSPE Studios,Tecnologia,InHire,https://mspestudios.inhire.app/vagas
 1,2026-08-23,MUFG,Financeiro,Workday,https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers
 0,2026-07-18,Multilaser,Tecnologia,Gupy,https://multilaser.gupy.io
-1,2026-05-20,Mundial S.A. - Produtos De Consumo,Varejo e Consumo,Gupy,https://mundial.gupy.io
+0,2026-05-20,Mundial S.A. - Produtos De Consumo,Varejo e Consumo,Gupy,https://mundial.gupy.io
 1,2025-03-18,Mutant,Tecnologia,Gupy,https://mutantbrvagas.gupy.io
 1,2025-03-18,Nadara,Tecnologia,Workday,https://nadara.wd3.myworkdayjobs.com/External
 1,2023-02-26,Natura&CO (Avon + The Body Shop),Serviços e Outros,Workday,https://natura.wd501.myworkdayjobs.com/pt-BR/NaturaCarreiras
@@ -1012,7 +1012,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Omie,Tecnologia,Gupy,https://carreirasomie.gupy.io
 1,2026-08-23,Omint,Saúde,Gupy,https://omint.gupy.io
 1,2026-05-20,Omni,Financeiro,Gupy,https://vemseromni.gupy.io
-1,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
+0,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
 1,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
 1,2026-08-23,OpenText,Tecnologia,GenericSitemap,https://careers.opentext.com
 1,2026-05-21,Opportunity,Financeiro,Gupy,https://opportunity.gupy.io
