@@ -136,7 +136,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Azevedo & Travassos,Construção e Imóveis,Vagas,https://trabalheconosco.vagas.com.br/azevedo-travassos
 1,2026-02-19,Azos,Financeiro,InHire,https://azos.inhire.app/vagas
 1,2026-02-19,Azul,Serviços e Outros,Gupy,https://voeazul.gupy.io
-1,2026-07-18,B. Braun,Saúde,Site da Empresa,https://www.bbraun.com/careers
+0,2026-07-18,B. Braun,Saúde,Site da Empresa,https://www.bbraun.com/careers
 1,2026-07-18,Bacardi,Agro e Alimentos,Site da Empresa,https://www.bacardilimited.com/careers
 1,2026-02-19,Bacio di Latte,Serviços e Outros,PandaPé,https://baciodilatte.pandape.infojobs.com.br
 1,2026-07-18,Bain & Company,Serviços e Outros,Site da Empresa,https://www.bain.com/careers
@@ -347,7 +347,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-07-18,Continental,Indústria,Site da Empresa,https://www.continental.com/careers
 1,2026-08-23,Control Risks,Serviços e Outros,Plataforma Interna,https://www.controlrisks.com/careers
 1,2026-05-21,Convenia,Tecnologia,Gupy,https://convenia.gupy.io
-0,2026-02-19,Coop,Serviços e Outros,PandaPé,https://cooperativadeconsumo.pandape.infojobs.com.br
+1,2026-02-19,Coop,Serviços e Outros,PandaPé,https://cooperativadeconsumo.pandape.infojobs.com.br
 1,2026-02-20,Coopercitrus,Serviços e Outros,Gupy,https://coopercitrus.gupy.io
 1,2026-02-19,Copacol,Serviços e Outros,Site da Empresa,https://vemsercopacol.portaldetalentos.senior.com.br/jobs
 1,2026-02-19,Copasa,Serviços e Outros,Site da Empresa,https://www.copasa.com.br/wps/portal/internet/trabalhe-na-copasa
@@ -1012,8 +1012,8 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Omie,Tecnologia,Gupy,https://carreirasomie.gupy.io
 1,2026-08-23,Omint,Saúde,Gupy,https://omint.gupy.io
 1,2026-05-20,Omni,Financeiro,Gupy,https://vemseromni.gupy.io
-0,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
-1,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
+1,2025-03-18,ONR – Registro de Imóveis Eletrônico,Serviços e Outros,Quickin,https://jobs.quickin.io/registradores/jobs
+0,2026-07-18,Open English,Educação,Site da Empresa,https://www.openenglish.com/careers
 1,2026-08-23,OpenText,Tecnologia,GenericSitemap,https://careers.opentext.com
 1,2026-05-21,Opportunity,Financeiro,Gupy,https://opportunity.gupy.io
 1,2026-02-19,Oracle,Tecnologia,Site da Empresa,https://www.oracle.com/careers
@@ -1122,7 +1122,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Redepharma Brasil,Serviços e Outros,Gupy,https://redepharma.gupy.io
 1,2026-08-23,RedeTV!,Mídia e Entretenimento,Sólides,https://empresaredetv.vagas.solides.com.br
 0,2026-07-18,Remessa Online,Financeiro,Gupy,https://remessaonline.gupy.io
-0,2025-03-18,Remotecom,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/remotecom
+1,2025-03-18,Remotecom,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/remotecom
 0,2026-05-21,Renault,Indústria,TeamTailor,https://renault.teamtailor.com
 1,2026-02-20,Renner Lojas Br,Varejo e Consumo,Gupy,https://renner.gupy.io
 1,2026-08-23,Repassa,Varejo e Consumo,Gupy,https://repassa.gupy.io
@@ -1160,7 +1160,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-08-23,Saint-Gobain Brasil,Indústria,Gupy,https://saintgobainbrasil.gupy.io
 1,2026-02-19,Salesforce,Tecnologia,Site da Empresa,https://www.salesforce.com/company/careers
 0,2026-07-18,Samarco,Indústria,Gupy,https://samarco.gupy.io
-1,2025-01-19,Sami,Saúde,Gupy,https://oisami.gupy.io
+0,2025-01-19,Sami,Saúde,Gupy,https://oisami.gupy.io
 1,2025-01-19,Samsung,Serviços e Outros,Workday,https://sec.wd3.myworkdayjobs.com/Samsung_Careers
 1,2026-06-06,Samsung Brasil,Tecnologia,InHire,https://samsung.inhire.app/vagas
 0,2026-07-18,Sanar,Saúde,Gupy,https://sanar.gupy.io
@@ -1276,7 +1276,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-08-23,Tauá Resorts,Mídia e Entretenimento,Site da Empresa,https://tauaresorts.com.br/trabalhe-conosco
 1,2024-09-01,Team Liquid,Serviços e Outros,Teamtailor,https://teamliquid.teamtailor.com
 1,2026-07-18,TecBan,Financeiro,Gupy,https://tecban.gupy.io
-1,2026-02-19,Tecnisa,Serviços e Outros,Gupy,https://tecnisa.gupy.io
+0,2026-02-19,Tecnisa,Serviços e Outros,Gupy,https://tecnisa.gupy.io
 1,2026-02-19,Tegma,Serviços e Outros,Gupy,https://tegma.gupy.io
 1,2026-08-23,Tegra Incorporadora,Construção e Imóveis,Gupy,https://tegraincorporadora.gupy.io
 1,2026-02-19,Telefônica Brasil (Vivo),Energia e Utilities,Gupy,https://vivo.gupy.io
