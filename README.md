@@ -555,7 +555,7 @@ MIT. Ver [LICENSE](./LICENSE).
 | [FGV - Fundação Getulio Vargas](https://portal.fgv.br/trabalhe-conosco) | Educação | Manual |
 | [FIAP](https://alun.inhire.app) | Educação | InHire |
 | [Figma](https://boards.greenhouse.io/figma) | Tecnologia | Greenhouse |
-| [Fiserv](https://www.fiserv.com.br/pt-br/carreiras) | Financeiro | Workday |
+| [Fiserv](https://fiserv.wd5.myworkdayjobs.com/EXT) | Financeiro | Workday |
 | [FitBank](https://www.fits.cash) | Financeiro | Site da Empresa |
 | [Fitch Ratings](https://careers.fitch.group/search/?q=) | Financeiro | SuccessFactors |
 | [FITec labs](https://fitec.gupy.io) | Tecnologia | Gupy |
